@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-12-8-256GB-Midnight-Black",
+    "title": "XIAOMI REDMI 12 6.79\", 50+8+2/8MP, 8/256GB, 5000 MAH, MIDNIGHT BLACK",
+    "warranty": "24",
+    "regular_price": 13999,
+    "happy_price": 8999,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 13, MIUI 14",
+        "Display Size": "6.79\"",
+        "Resolution": "1080x2460 pixels, FHD+, IPS LCD, 90Hz, 550 nits",
+        "Water Resistance": "IP53",
+        "Chipset": "Mediatek Helio G88 (12nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2",
+        "Internal Memory": "256GB",
+        "RAM": "8GB",
+        "Primary Camera 1": "50 MP, f/1.8, (wide), PDAF",
+        "Primary Ultrawide Camera": "8 MP, f/2.2, 120° (ultrawide)",
+        "Primary Depth Camera": "2 MP, f/2.4, (depth)",
+        "Secondary Camera": "8 MP, f/2.1, (wide)",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Bluetooth 5.3, A2DP, LE",
+        "GPS": "GPS, GLONASS, BDS, GALILEO",
+        "USB": "Type-C",
+        "Fast Charging": "18W wired",
+        "Battery": "Li-Po 5000 mAh"
+    },
+    "category": "mobile_phones"
+}

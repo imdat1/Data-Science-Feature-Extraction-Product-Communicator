@@ -1,0 +1,21 @@
+{
+    "url": "https://www.neptun.mk/categories/GLUVCINA/TnB-Travel-2",
+    "title": "WIRELESS MOUSE + TRAVEL MOUSEPAD",
+    "warranty_months": 12,
+    "regular_price_mkd": 1099,
+    "happy_price_mkd": 699,
+    "category": "GLUVCINA",
+    "description": "SET MOUSE + MOUSEPAD\nCompatible:PC / Mac / Linux\nResolution:800 - 1200 - 1600DPI\nConnection:USB",
+    "features": {
+        "device_type": "Mouse",
+        "connection_type": "USB",
+        "dpi": 1600,
+        "tracking_technology": null,
+        "buttons_count": null,
+        "scroll_wheel": null,
+        "battery_type": null,
+        "weight_grams": null,
+        "ergonomic_design": null,
+        "compatible_os": "PC / Mac / Linux"
+    }
+}

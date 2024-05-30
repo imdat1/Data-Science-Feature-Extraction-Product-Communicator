@@ -1,0 +1,27 @@
+{
+    "url": "https://www.neptun.mk/categories/Gaming_slusalki/RAZER-Kraken-V3-RGB-Wired",
+    "title": "RAZER KRAKEN V3 RGB WIRED",
+    "warranty_months": 24,
+    "regular_price_mkd": 7399,
+    "happy_price_mkd": null,
+    "category": "Gaming_slusalki",
+    "device_type": "Headphone",
+    "description": [
+        "Gaming \u0441\u043b\u0443\u0448\u0430\u043b\u043a\u0438\n\u0424\u0440\u0435\u043a\u0432\u0435\u043d\u0446\u0438\u0458\u0430: 20Hz \u2013 20kHz\n\u041e\u0441\u0435\u0442\u043b\u0438\u0432\u043e\u0441\u0442: 96 dB (1 kHz)\n\u041e\u0441\u0435\u0442\u043b\u0438\u0432\u043e\u0441\u0442 \u043d\u0430 \u043c\u0438\u043a\u0440\u043e\u0444\u043e\u043d\u043e\u0442: -42\u00b13dB\n\u041a\u043e\u043d\u0435\u043a\u0442\u043e\u0440:USB Type-A\n\u0414\u043e\u043b\u0436\u0438\u043d\u0430 \u043d\u0430 \u043a\u0430\u0431\u0435\u043b: 1.3m\n\u041e\u0441\u0432\u0435\u0442\u043b\u0443\u0432\u0430\u045a\u0435: Razer Chroma RGB\n\u041a\u043e\u043c\u043f\u0430\u0442\u0438\u0431\u0438\u043b\u043d\u043e\u0441\u0442: PC, PlayStation, Nintendo Switch (docked mode)\n\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u0430 \u043d\u0430 \u0433\u043b\u0430\u0441\u043e\u0442\n\u0422\u0435\u0436\u0438\u043d\u0430: 325g\n\u0422\u0438\u043f \u043d\u0430 \u0437\u0432\u0443\u0447\u043d\u0438\u043a: Razer\u2122 TriForce Titanium"
+    ],
+    "features": {
+        "frequency_range": "20Hz - 20kHz",
+        "sensitivity": "96 dB (1 kHz)",
+        "impedance": "-42\u00b13dB",
+        "connector_type": "USB Type-A",
+        "cable_length_meters": 1.3,
+        "lighting": "Razer Chroma RGB",
+        "compatible_devices": [
+            "PC",
+            "PlayStation",
+            "Nintendo Switch (docked mode)"
+        ],
+        "microphone_type": "Razer\u2122 TriForce Titanium",
+        "weight_grams": 325
+    }
+}

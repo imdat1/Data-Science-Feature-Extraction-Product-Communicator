@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/MacBook-Air-13-6-Silver-M2-8C-GPU-8GB-256GB-ZEE-mlxy3ze-a",
+    "title": "MACBOOK AIR 13.6 SILVER/M2/8C GPU/8GB/256GB-ZEE MLXY3ZE/A",
+    "warranty_months": 12,
+    "regular_price_mkd": 90399,
+    "happy_price_mkd": 71999,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0458:13.6\"(34.5cm)\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Apple M2 chip with 8-core CPU,\nGPU 8-core\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(2560x1664) Liquid Retina display\n\u041c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:8GB\n256GB SSD\nFaceTime HD \u043a\u0430\u043c\u0435\u0440\u0430 \u043e\u0434 1080p\n\u0422\u0440\u0438 \u043c\u0438\u043a\u0440\u043e\u0444\u043e\u043d\u0438\n\u0421\u0438\u0441\u0442\u0435\u043c \u043e\u0434 \u0447\u0435\u0442\u0438\u0440\u0438 \u0437\u0432\u0443\u0447\u043d\u0438\u0446\u0438 \u0441\u043e Spatial audio.\nMagic Keyboard \u0441\u043e Touch ID\nForce Touch Trackpad\nBluetooth 5.0\nWi-Fi:802.11ax Wi-Fi 6 wireless networking IEEE 802.11a/b/g/n/ac compatible\n\u0414\u0432\u0430 Thunderbolt 3 / USB 4 \u0432\u043b\u0435\u0437\u0430\nMagSafe 3 charging port\n3.5 mm headphone jack\nTwo Thunderbolt / USB 4 ports with support for:\nCharging\nDisplayPort\nThunderbolt 3 (up to 40Gb/s)\nUSB 4 (up to 40Gb/s)\nUSB 3.1 Gen 2 (up to 10Gb/s)\n30W USB-C Power Adapter\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:52,6 Wh - 18 h",
+    "features": {
+        "screen_size_inches": 13.6,
+        "screen_resolution": "2560x1664",
+        "screen_type": "Liquid Retina",
+        "processor_model": "Apple M2 chip",
+        "processor_cores": 8,
+        "gpu_model": "8-core",
+        "ram_size_gb": 8,
+        "storage_size_gb": 256,
+        "storage_type": "SSD",
+        "wifi_standard": "Wi-Fi 6",
+        "bluetooth_version": 5.0,
+        "usb_type_c_ports": 2,
+        "usb_type_a_ports": null,
+        "hdmi_ports": null,
+        "audio_jack_ports": 1,
+        "keyboard_type": "Magic Keyboard",
+        "audio_feature_1": "Spatial audio",
+        "battery_capacity_wh": 52.6
+    }
+}

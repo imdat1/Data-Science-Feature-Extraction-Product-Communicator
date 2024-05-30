@@ -1,0 +1,26 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/GRUNDIG-65-GHU-8590",
+    "title": "4K UHD SMART TV GRUNDIG 65 GHU 8590, 65\" (165.1CM), GOOGLE TV",
+    "warranty_months": 24,
+    "regular_price_mkd": 38999,
+    "happy_price_mkd": 35999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "65\" (165.1cm) 4k UHD SMART TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430(3840 x 2160)\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Quad Core\nDirect LED \u0435\u043a\u0440\u0430\u043d Nano\nOIV \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0442\nHDR10+, Dolby Vision\nGoogle TV\nGoogle \u0433\u043b\u0430\u0441\u043e\u0432\u0435\u043d \u0430\u0441\u0438\u0441\u0442\u0435\u043d\u0442\nOpen Browser, Netflix\nDTS \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0438\u0458\u0430\n\u0418\u0437\u043b\u0435\u0437\u043d\u0430 \u0458\u0430\u0447\u0438\u043d\u0430 \u043d\u0430 \u0437\u0432\u0443\u043a:2 x 10/20 W\nUSB Recording\nHDR\nDolby Digital, Dolby Atmos\nWi-Fi\nBluetooth\n3 x HDMI, 2 x USB,CI+\nDVB-T2/C/S2",
+    "features": {
+        "screen_size_inches": 65,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "Direct LED",
+        "smart_tv_os": "Google TV",
+        "hdr_technology": "HDR10+, Dolby Vision",
+        "audio_output_watts": 20,
+        "audio_features": "Dolby Digital, Dolby Atmos",
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "bluetooth_version": null,
+        "wifi_spec": "Wi-Fi",
+        "youtube": "Yes",
+        "netflix": "Yes",
+        "dvb_t2cs2": "Yes"
+    }
+}

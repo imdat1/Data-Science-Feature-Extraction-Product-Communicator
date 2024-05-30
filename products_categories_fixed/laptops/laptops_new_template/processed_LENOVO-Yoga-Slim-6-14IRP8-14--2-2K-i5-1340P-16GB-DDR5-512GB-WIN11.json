@@ -1,0 +1,37 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/LENOVO-Yoga-Slim-6-14IRP8-14--2-2K-i5-1340P-16GB-DDR5-512GB-WIN11",
+    "title": null,
+    "warranty_months": 24,
+    "regular_price_mkd": 54999,
+    "happy_price_mkd": 50999,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": [
+        "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0458:14\" (35.56cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(1920x1080) 2.2K (2240x1400) IPS 300nits Anti-glare, 100% sRGB, 60Hz, Eyesafe\u00ae, Dolby\u00ae Vision\u00ae\n\u0427\u0438\u043f\u0441\u0435\u0442: Intel\u00ae SoC Platform\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440: Intel\u00ae Core\u2122 i5-1340P, 12C (4P + 8E) / 16T, P-core 1.9 / 4.6GHz, E-core 1.4 / 3.4GHz, 12MB\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430:Intel\u00ae UHD Graphics\nRAM \u041c\u0435\u043c\u043e\u0440\u0438\u0458\u0430: 16GB LPDDR5-5200\n\u0414\u0438\u0441\u043a (Storage): 512GB SSD M.2 2242 PCIe\u00ae 4.0x4 NVMe\u00ae\nWi-Fi\u00ae 6E, 11ax 2x2 + BT5.1\nBacklit, English\n\u041f\u043e\u0440\u0442\u0438:\n1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On\n2x USB-C\u00ae (Thunderbolt\u2122 4 / USB4\u00ae 40Gbps), with USB PD 3.0 and DisplayPort\u2122 1.4\n1x HDMI\u00ae 2.1, up to 4K/60Hz\n1x Headphone / microphone combo jack (3.5mm)\nO\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c: Windows\u00ae 11 Home\n\u0410\u0443\u0434\u0438\u043e:High Definition (HD) Audio\n\u0417\u0432\u0443\u0447\u043d\u0438\u043a:Stereo speakers, 2W x2, optimized with Dolby\u00ae Atmos\u00ae\n\u041a\u0430\u043c\u0435\u0440\u0430: FHD 1080p + IR with Privacy Shutter, ToF Sensor\nPower Adapter - 65W USB-C\u00ae (3-pin)\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:65Wh"
+    ],
+    "features": {
+        "screen_size_inches": 14,
+        "screen_resolution": "(1920x1080) 2.2K (2240x1400)",
+        "screen_brightness_nits": 300,
+        "screen_type": "IPS",
+        "processor_model": "Intel\u00ae Core\u2122 i5-1340P",
+        "processor_cores": 12,
+        "processor_threads": 16,
+        "processor_base_clock_ghz": 1.9,
+        "processor_max_clock_ghz": 4.6,
+        "gpu_model": "Intel\u00ae UHD Graphics",
+        "ram_size_gb": 16,
+        "ram_type": "LPDDR5-5200",
+        "storage_size_gb": 512,
+        "storage_type": "SSD",
+        "wifi_standard": "Wi-Fi 6E",
+        "bluetooth_version": 5.1,
+        "usb_type_c_ports": 2,
+        "usb_type_a_ports": 1,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1,
+        "operating_system": "Windows\u00ae 11 Home",
+        "audio_feature_1": "Dolby\u00ae Atmos\u00ae",
+        "battery_capacity_wh": 65
+    }
+}

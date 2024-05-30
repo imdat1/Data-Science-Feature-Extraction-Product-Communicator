@@ -1,0 +1,24 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Nokia-110-Black--1GF019FPA2L03-",
+    "title": "NOKIA 110, 1.8\", 0.3MP, 1000MAH, BLACK",
+    "warranty_months": 24,
+    "regular_price_mkd": 2099,
+    "happy_price_mkd": null,
+    "features": {
+        "device_type": "Mobile Phone",
+        "operating_system": null,
+        "screen_size_inches": 1.8,
+        "screen_type": "TFT",
+        "screen_resolution": "160 x 128pixels, 111 ppi, 4:3",
+        "camera_rear_mp": 0.3,
+        "wifi_standard_1": null,
+        "wifi_standard_2": null,
+        "wifi_standard_3": null,
+        "bluetooth_version": "5.0",
+        "bluetooth_feature_1": "A2DP",
+        "gps_standard_1": null,
+        "usb_type": null,
+        "battery_capacity_mah": 1000,
+        "category": "mobilni_telefoni"
+    }
+}

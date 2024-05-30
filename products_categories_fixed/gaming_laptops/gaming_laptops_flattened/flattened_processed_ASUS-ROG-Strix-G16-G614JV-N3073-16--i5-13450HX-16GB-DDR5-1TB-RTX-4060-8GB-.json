@@ -1,0 +1,31 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-ROG-Strix-G16-G614JV-N3073-16--i5-13450HX-16GB-DDR5-1TB-RTX-4060-8GB-",
+    "title": "ЛАПТОП ASUS ROG STRIX G16 G614JV-N3073 16\" I5-13450HX/16GB DDR5/1TB/RTX 4060 8GB",
+    "regular_price": 89999,
+    "happy_price": 80999,
+    "warranty": "24",
+    "features": {
+        "Display": "16'' (40.6cm)",
+        "Resolution": "(1920 x 1200) WUXGA, IPS, 165Hz",
+        "Processor": "Intel Core i5-13450HX Processor 2.4 GHz (20M Cache, up to 4.6 GHz, 10 cores)",
+        "Graphics": "NVIDIA GeForce RTX 4060 Laptop GPU 8GB GDDR6",
+        "RAM": "16GB DDR5",
+        "Storage": "1TB PCIe 4.0 NVMe M.2 SSD",
+        "Operating System": "Без оперативен систем",
+        "LAN": "10/100/1000 Mbps",
+        "Wireless": "Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth 5.3",
+        "Headset Port": "1x 3.5mm Combo Audio Jack",
+        "RJ45 Ethernet Port": "1x RJ45 LAN port",
+        "USB Ports": "1x USB 3.2 Gen 2 Type-C support",
+        "HDMI Port": "1x HDMI 2.1 FRL",
+        "USB-C Port": "1x Thunderbolt 4 support DisplayPort",
+        "Camera": "720P HD camera",
+        "Keyboard": "Backlit Chiclet Keyboard 4-Zone RGB",
+        "Microphone": "2 x speakers",
+        "Speakers": "Smart Amplifier Technology",
+        "Audio": "Tech AI noise-canceling - Dolby Atmos,Hi-Res certification\nAI noise-canceling technology\nDolby Atmos\nSmart Amp Technology",
+        "Security": "BIOS Administrator Password and User Password Protection",
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion"
+    },
+    "category": "gaming_laptops"
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-ROG-Strix-G16-G614JU-N3092-16--i5-13450HX-16GB-DDR5-512GB-RTX-4050-6GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ASUS ROG STRIX G16 G614JU-N3092 16\" I5-13450HX/16GB DDR5/512GB/RTX 4050 6GB",
+    "regular_price": "80.999",
+    "happy_price": "73.999",
+    "warranty": "24",
+    "features": {
+        "Display": "16.0\" (40.6cm)",
+        "Resolution": "(1920 x 1200) FHD+, IPS, 160Hz, G-Sync",
+        "Processor": "13th Gen Intel Core i5-13450HX Processor 2.4 GHz (20M Cache, up to 4.6 GHz, 10 cores: 6 P-cores)",
+        "Graphics": "NVIDIA GeForce RTX 4050 6GB GDDR6",
+        "RAM": "16GB DDR5-4800",
+        "Storage": "512GB PCIe 4.0 NVMe M.2 SSD",
+        "Wireless": "Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth 5.3",
+        "LAN": "LAN 10/100/1000 Mbps",
+        "Headset Port": "1 x 3.5mm Combo Audio Jack",
+        "RJ45 Ethernet Port": "1 x RJ45 LAN port",
+        "USB Ports": "2 x USB 3.2 Gen 2 Type-A, 1 x USB 3.2 Gen 2 Type-C support DisplayPort",
+        "HDMI Port": "1 x HDMI 2.1 FRL",
+        "USB-C Port": "1 x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery / G-SYNC, 1 x Thunderbolt 4 support DisplayPort",
+        "Camera": "720P HD camera",
+        "Backlit Keyboard": "Backlit Chiclet Keyboard 4-Zone RGB",
+        "Speakers": "2 x \u0437\u0432\u0443\u0447\u043d\u0438\u0446\u0438 \u0441\u043e Smart Amplifier \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0458\u0430",
+        "Audio": "Tech AI noise-canceling - Dolby Atmos",
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion",
+        "Power Adapter": "280W AC Adapter"
+    }
+}

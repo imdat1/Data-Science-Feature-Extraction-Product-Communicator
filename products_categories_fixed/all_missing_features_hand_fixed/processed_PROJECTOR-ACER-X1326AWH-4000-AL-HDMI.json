@@ -1,0 +1,17 @@
+{
+    "url": "https://www.neptun.mk/categories/PROEKTORI/PROJECTOR-ACER-X1326AWH-4000-AL-HDMI",
+    "title": "\u041f\u0440\u043e\u0435\u043a\u0442\u043e\u0440 ACER X1326AWH 4000 AL HDMI",
+    "warranty_months": 24,
+    "regular_price_mkd": 28999,
+    "happy_price_mkd": null,
+    "category": "PROEKTORI",
+    "device_type": "Projector",
+    "description": [],
+    "features": {
+        "resolution": "1920x1200",
+        "brightness_lm": 4000,
+        "contrast": "20,000:1",
+        "digital_zoom": "x2",
+        "noise_level_db":32
+    }
+}

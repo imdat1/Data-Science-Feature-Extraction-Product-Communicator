@@ -1,0 +1,42 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-ROG-Zephyrus-G14-GA403UI-QS048W-14--OLED-R9-8945HS-16GB-DDR5X-1TB-RTX-4070-8GB-WIN11",
+    "title": "Лаптоп ASUS ROG Zephyrus G14 GA403UI-QS048W 14\" OLED R9-8945HS/16GB DDR5X/1TB/RTX 4070 8GB/WIN11",
+    "warranty_months": "24",
+    "regular_price_mkd": "139.999",
+    "happy_price_mkd": "129.999",
+    "category": "gaming_laptopi",
+    "device_type": "Gaming Laptop",
+    "description": [
+        "Лаптоп\nДисплеј: 14\" (39.6cm)\nРезолуција:(2880 x 1800) 3К, OLED, 120Hz, 0.2ms, 500 nits, 16:10\nПроцесор:AMD Ryzen™ 9 8945HS, 4GHz (24MB Cache, up to 5.2 GHz, 8 cores, 16 Threads)\nГрафика:NVIDIA GeForce RTX 4070 8GB GDDR6\nRAM меморија:16GB DDR5X\nДиск (Storage):1TB M.2 2280 PCIe Gen4 SSD\nОперативен систем:Windows 11 Home\nWi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth 5.3\nПорти:\n1x Type C USB 4 support DisplayPort    / power delivery\n1x USB 3.2 Gen 2 Type-C support DisplayPor\n2x USB 3.2 Gen 2 Type-A\n1x card reader (microSD) (UHS-II)\n1x HDMI 2.1 FRL\n1x 3.5mm Combo Audio Jack\nВгадени 3 микрофони\nBacklit Chiclet Keyboard 1-Zone RGB\n4x звучници (4-speaker (dual force woofer) system with Smart Amplifier Technology)\nАудио:Tech AI noise-canceling - Dolby Atmos\nHi-Res certification\nSmart Amp Technology\nSecurity BIOS Administrator Password and User Password Protection\nБатерија:73WHrs, 4S1P, 4-cell Li-ion"
+    ],
+    "features": {
+        "screen_size_inches": 14,
+        "screen_resolution": "2880 x 1800",
+        "screen_type": "OLED",
+        "screen_refresh_rate_hz": 120,
+        "processor_model": "AMD Ryzen™ 9 8945HS",
+        "processor_cores": 8,
+        "processor_threads": 16,
+        "processor_base_clock_ghz": 4,
+        "processor_max_clock_ghz": 5.2,
+        "gpu_model": "NVIDIA GeForce RTX 4070",
+        "gpu_memory_gb": 8,
+        "ram_size_gb": 16,
+        "ram_type": "DDR5X",
+        "storage_size_tb": 1,
+        "storage_type": "M.2 2280 PCIe Gen4 SSD",
+        "operating_system": "Windows 11 Home",
+        "wifi_standard": "Wi-Fi 6E",
+        "bluetooth_version": 5.3,
+        "usb_type_c_ports": 2,
+        "usb_type_a_ports": 2,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1,
+        "card_reader": "microSD (UHS-II)",
+        "keyboard_type": "Backlit Chiclet Keyboard 1-Zone RGB",
+        "audio_feature_1": "4-speaker (dual force woofer) system with Smart Amplifier Technology",
+        "battery_capacity_wh": 73,
+        "battery_cells": 4,
+        "security_feature_1": "BIOS Administrator Password and User Password Protection"
+    }
+}

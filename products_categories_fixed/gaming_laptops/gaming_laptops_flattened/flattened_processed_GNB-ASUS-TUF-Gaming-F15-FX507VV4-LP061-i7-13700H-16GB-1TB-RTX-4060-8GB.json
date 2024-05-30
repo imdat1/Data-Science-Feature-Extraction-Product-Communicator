@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/GNB-ASUS-TUF-Gaming-F15-FX507VV4-LP061-i7-13700H-16GB-1TB-RTX-4060-8GB",
+    "title": "ЛАПТОП ASUS TUF GAMING F15 FX507VV4-LP061 I7-13700H/16GB/1TB/RTX 4060 8GB",
+    "regular_price": 87999,
+    "happy_price": 80999,
+    "warranty": "24",
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(1920 x 1080) FHD, IPS, 16:9, 144Hz",
+        "Processor": "Intel Core i7-13700H Processor 2.4 GHz (24M Cache, up to 5 GHz, 14 cores: 6 P-cores and 8)",
+        "Graphics": "NVIDIA GeForce RTX 4060 8GB GDDR6",
+        "RAM": "16GB DDR4 3200Mhz",
+        "Storage": "1TB PCIe 4.0 NVMe M.2 SSD",
+        "LAN": "10/100/1000 Mbps",
+        "Wireless": "Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth 5.2",
+        "RJ45 Ethernet Port": "1 x RJ45 LAN port",
+        "Thunderbolt 4 Port": "1 x Thunderbolt 4 support DisplayPort",
+        "USB-C Port": "1 x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery / G-SYNC",
+        "USB Ports": "2 x USB 3.2 Gen 1 Type-A",
+        "HDMI Port": "1 x HDMI 2.1 FRL",
+        "Headset Port": "1 x 3.5mm Combo Audio Jack",
+        "Camera": "720P HD camera",
+        "Microphone": "2 x встроенных",
+        "Keyboard": "Освещенная клавиатура RGB",
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion",
+        "Power Adapter": "240W AC Adapter, Output: 20V DC, 12A, 240W, Input: 100~240C AC 50/60Hz universal"
+    },
+    "category": "gaming_laptops"
+}

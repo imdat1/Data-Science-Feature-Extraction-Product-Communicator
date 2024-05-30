@@ -1,0 +1,687 @@
+1	device_type	Mobile Phone
+3	screen_size_inches	1.8
+4	chipset	MediaTek MT6261D
+5	cpu	260 MHz
+6	internal_memory_gb	4
+7	primary_wide_camera_mp	0.08
+8	battery_capacity_mah	400
+9	category	mobilni_telefoni
+10	operating_system	iOS 13, upgradable to iOS 13.1.2
+11	screen_size_inches	6.1
+12	screen_type	Liquid Retina IPS
+13	screen_resolution	828 x 1792 pixels
+14	chipset	Apple A13 Bionic (7 nm+)
+15	cpu	Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder)
+16	internal_memory_gb	64
+17	primary_wide_camera_mp	12
+18	primary_wide_camera_aperture	f/1.8
+19	primary_wide_camera_feature_1	26mm (wide)
+20	primary_wide_camera_feature_2	1/2.55"
+21	primary_wide_camera_feature_3	1.4µm
+22	primary_wide_camera_feature_4	dual pixel PDAF
+23	primary_ultrawide_camera_mp	12
+24	primary_ultrawide_camera_aperture	f/2.4
+25	primary_ultrawide_camera_feature_1	13mm (ultrawide)
+26	secondary_wide_camera_mp	12
+27	secondary_wide_camera_aperture	f/2.2
+28	secondary_wide_camera_feature_1	23mm (wide)
+29	secondary_depth_camera_feature_1	SL 3D
+30	wifi_standard_1	802.11 a/b/g/n/ac
+31	wifi_standard_2	dual-band
+32	wifi_standard_3	hotspot
+33	bluetooth_version	5.0
+34	bluetooth_feature_1	A2DP
+35	bluetooth_feature_2	LE
+36	gps_standard_1	A-GPS
+37	gps_standard_2	GLONASS
+38	gps_standard_3	Galileo
+39	battery_capacity_mah	3110
+40	operating_system	iOS 14.1
+41	water_resistance_ip_rating	IP68
+42	water_resistance_depth_meters	6
+43	water_resistance_time_minutes	30
+44	screen_type	Super Retina XDR OLED, HDR10
+45	screen_resolution	1170 x 2532
+46	chipset	Apple A14 Bionic (5 nm)
+47	cpu	Hexa-core
+48	gpu	Apple GPU (4-core graphics)
+49	internal_memory_gb	128
+50	primary_wide_camera_aperture	f/1.6
+51	primary_wide_camera_feature_2	1.4µm
+52	primary_wide_camera_feature_3	dual pixel PDAF
+53	primary_wide_camera_feature_4	OIS
+54	primary_ultrawide_camera_feature_1	120°
+55	primary_ultrawide_camera_feature_2	13mm (ultrawide)
+56	secondary_wide_camera_feature_2	1/3.6"
+57	secondary_depth_camera_feature_2	(depth/biometrics sensor)
+58	wifi_standard_1	802.11 a/b/g/n/ac/6
+59	gps_standard_3	GALILEO
+60	gps_standard_4	QZSS
+61	fast_charging	20W, 50% in 30 min
+62	usb_power_delivery_version	2.0
+63	wireless_charging_1_type	MagSafe wireless charging
+64	wireless_charging_1_power_w	15
+65	wireless_charging_2_type	Qi wireless charging
+66	wireless_charging_2_power_w	7.5
+68	screen_type	Super Retina XDR OLED
+69	primary_ultrawide_camera_feature_3	1/3.6"
+70	fast_charging	20W, 50% in 30 minutes
+71	operating_system	iOS 15
+72	screen_resolution	2532 by 1170 pixels
+73	chipset	Apple A15 Bionic
+74	primary_wide_camera_feature_2	1.7µm
+75	primary_wide_camera_feature_4	sensor-shift OIS
+76	primary_ultrawide_camera_feature_1	120?
+77	secondary_wide_camera_feature_3	SL 3D
+78	secondary_depth_camera_feature_1	(depth/biometrics sensor)
+79	wifi_standard_1	Wi-Fi 6 (802.11ax)
+80	wifi_standard_2	2x2 MIMO
+81	gps_standard_1	GPS
+82	gps_standard_2	A-GPS
+83	gps_standard_3	GLONASS
+84	gps_standard_4	GALILEO
+85	gps_standard_5	QZSS
+86	battery_capacity_mah	3240
+87	operating_system	iOS 16.0
+88	feature_1	Apple Pay
+89	feature_2	Ultra Wideband support
+90	chipset	Apple A15 Bionic (5 nm)
+91	cpu	Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard)
+92	gpu	Apple GPU (5-core graphics)
+93	primary_wide_camera_aperture	f/1.5
+94	primary_wide_camera_feature_2	1.9µm
+95	primary_ultrawide_camera_feature_1	13mm
+96	primary_ultrawide_camera_feature_2	120° (ultrawide)
+97	secondary_wide_camera_aperture	f/1.9
+98	secondary_wide_camera_feature_3	PDAF
+99	bluetooth_version	5.3
+100	gps_standard_4	BDS
+101	usb_type	Lightning, USB 2.0
+102	fast_charging	50% in 30 minutes
+103	wireless_charging_2_type	Qi magnetic fast wireless charging
+104	battery_capacity_mah	3279
+105	operating_system	iOS 17.0
+106	feature_1	Apple Pay support
+107	screen_resolution	1171 x 2556p
+108	chipset	Apple A16 Bionic (4 nm)
+109	cpu	Hexa-core (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth)
+110	primary_wide_camera_mp	48
+111	primary_wide_camera_feature_2	1.0µm
+112	usb_type	Type-C 2.0, DisplayPort
+113	usb_type	USB Type-C 2.0, DisplayPort
+114	screen_resolution	1171 x 2556
+115	internal_memory_gb	256
+116	fast_charging	50% in 30 min
+117	usb_type	Type-C 2.0
+118	screen_size_inches	6.7
+119	screen_resolution	1290 x 2796p
+120	secondary_wide_camera_mp	48
+122	screen_type	Super Retina XDR OLED display
+126	screen_type	Super Retina XDR display
+127	screen_resolution	1179 x 2556 pixels
+128	chipset	Apple A17 Pro (3 nm)
+129	primary_wide_camera_feature_1	24mm (wide)
+130	primary_wide_camera_feature_2	1.22µm
+131	primary_ultrawide_camera_aperture	f/2.2
+132	primary_ultrawide_camera_feature_3	1.4µm
+133	primary_ultrawide_camera_feature_4	dual pixel PDAF
+134	secondary_wide_camera_aperture	f/2.8
+135	secondary_wide_camera_feature_1	77mm (telephoto)
+136	secondary_wide_camera_feature_2	PDAF
+137	secondary_wide_camera_feature_3	OIS
+138	secondary_wide_camera_feature_4	3x optical zoom
+139	secondary_depth_camera_feature_1	TOF 3D LiDAR scanner
+140	secondary_depth_camera_feature_2	(depth)
+141	gps_standard_1	dual-band A-GPS
+143	screen_resolution	1179 x 2556
+144	primary_telephoto_camera_mp	12
+145	primary_telephoto_camera_aperture	f/2.8
+146	primary_telephoto_camera_feature_1	77mm (telephoto)
+147	primary_telephoto_camera_feature_2	PDAF
+148	primary_telephoto_camera_feature_3	OIS
+149	primary_telephoto_camera_feature_4	3x optical zoom
+151	screen_type	Super Retina XDR
+152	secondary_depth_camera_feature_2	depth
+154	internal_memory_gb	1024
+155	internal_memory_gb	1000
+156	secondary_camera_feature_1	TOF 3D LiDAR scanner (depth)
+157	primary_ultrawide_camera_aperture	f/2.8
+158	primary_ultrawide_camera_feature_1	77mm (telephoto)
+159	primary_ultrawide_camera_feature_2	PDAF
+160	primary_ultrawide_camera_feature_3	OIS
+161	primary_ultrawide_camera_feature_4	3x optical zoom
+162	secondary_wide_camera_feature_1	13mm
+163	secondary_wide_camera_feature_2	120° (ultrawide)
+164	secondary_wide_camera_feature_3	1.4µm
+165	secondary_wide_camera_feature_4	dual pixel PDAF
+167	internal_memory_gb	512
+169	screen_type	LTPO Super Retina XDR OLED
+170	cpu	Hexa-core (2x3.78 GHz + 4)
+171	gpu	Apple GPU (6-core graphics)
+172	fast_charging	50% in 30 min (advertised)
+173	screen_type	LTPO Super Retina XDR OLED, 120Hz
+175	cpu	Hexa-core (2x3.78 GHz + 4x)
+178	operating_system	Android 13, Magic UI 7.1
+179	screen_size_inches	6.67
+180	screen_type	IPS LCD
+181	screen_resolution	1080 x 2388
+182	chipset	Mediatek Dimensity 6020 (7 nm)
+183	cpu	Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
+184	gpu	Mali-G57 MC2
+185	primary_wide_camera_mp	100
+186	primary_wide_camera_aperture	f/1.9
+187	primary_ultrawide_camera_mp	5
+188	secondary_wide_camera_mp	2
+189	secondary_wide_camera_aperture	f/2.4
+190	secondary_depth_camera_feature_1	16 MP
+191	secondary_depth_camera_feature_2	f/2.5
+192	usb_type	USB Type-C 2.0, OTG
+193	fast_charging	35W wired
+194	battery_capacity_mah	4500
+195	operating_system	Android 13, Magic OS 7.2
+196	screen_size_inches	6.78
+197	screen_type	AMOLED
+198	screen_resolution	1220 x 2652
+199	chipset	Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)
+200	cpu	Octa-core (4x2.2 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)
+201	gpu	Adreno 710
+202	primary_wide_camera_mp	108
+203	primary_wide_camera_feature_1	(wide)
+204	primary_wide_camera_feature_2	1/1.67"
+205	primary_wide_camera_feature_3	PDAF
+206	primary_ultrawide_camera_feature_1	(ultrawide)
+207	primary_ultrawide_camera_feature_2	1/1.67"
+208	secondary_wide_camera_feature_1	(macro)
+209	secondary_wide_camera_feature_2	1/1.67"
+210	secondary_depth_camera_feature_1	(wide)
+211	secondary_depth_camera_feature_2	1/1.67"
+212	secondary_depth_camera_feature_3	PDAF
+213	battery_capacity_mah	5300
+214	primary_wide_camera_feature_1	1/1.67"
+215	primary_wide_camera_feature_2	PDAF
+216	primary_macro_camera_mp	2
+217	primary_macro_camera_aperture	f/2.4
+218	secondary_wide_camera_mp	16
+219	secondary_wide_camera_aperture	f/2.5
+220	fast_charging	35W
+221	secondary_depth_camera_feature_1	macro
+222	secondary_depth_camera_feature_2	wide
+223	secondary_depth_camera_feature_3	wide
+224	usb_type	USB Type-C 2.0
+225	operating_system	Android 13, MagicOS 7.2
+226	screen_size_inches	6.8
+227	screen_resolution	1080x2412
+228	chipset	Qualcomm SM6225 Snapdragon 680 4G (6 nm)
+229	cpu	Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)
+230	gpu	Adreno 610
+231	primary_wide_camera_feature_3	0.64µm
+232	primary_wide_camera_feature_4	PDAF
+233	secondary_wide_camera_feature_1	(depth)
+234	wifi_standard_3	Wi-Fi Direct
+235	battery_capacity_mah	5330
+236	chipset	Qualcomm SM6225 Snapdragon 680 4G
+237	primary_wide_camera_feature_1	24mm
+238	secondary_wide_camera_feature_1	depth
+241	wifi_standard_1	Wi-Fi 802.11 a/b/g/n/ac
+248	primary_ultrawide_camera_feature_1	ultrawide
+249	secondary_wide_camera_feature_1	macro
+250	screen_resolution	1170 x 2532 pixels
+251	battery_type	Li-Ion
+252	screen_resolution	2532 x 1170
+253	screen_resolution	2532x1170
+254	wifi_standard_1	Wi-Fi 6 (802.11ax) with 2x2 MIMO
+255	fast_charging	Fast charging 20W, 50% in 30 minutes
+256	screen_type	Super Retina XDR OLED - HDR
+257	screen_resolution	2532-by-1170 pixels
+258	primary_ultrawide_camera_feature_1	120°, 13mm (ultrawide)
+259	fast_charging	Fast charging 20W, 50% in 30 min (advertised)
+261	screen_resolution	1170 x 2532p
+263	water_resistance_ip_rating	IP52
+266	feature_1	2G network
+267	feature_2	Radio
+268	screen_type	TFT LCD
+269	screen_resolution	160x120pixels, 111ppi, 4:3
+302	usb_type	Micro-USB
+309	battery_capacity_mah	1000
+311	screen_type	TFT
+312	screen_resolution	160 x 128pixels, 111 ppi, 4:3
+313	camera_rear_mp	0.3
+319	operating_system	Android 12, One UI Core 4
+320	screen_size_inches	6.5
+321	screen_type	PLS LCD
+322	screen_resolution	720 x 1600
+323	chipset	Octa-core (4x2.0 GHz Cortex-A55 & 4x2.0 GHz Cortex-A55)
+324	internal_memory_gb	32
+325	primary_wide_camera_mp	50
+326	primary_wide_camera_feature_1	PDAF
+327	primary_depth_camera_mp	2
+328	primary_depth_camera_aperture	f/2.4
+329	secondary_wide_camera_mp	5
+330	wifi_standard_3	Wi-Fi Direct, hotspot
+331	gps_standard_3	BDS
+332	battery_capacity_mah	5000
+333	secondary_wide_camera_feature_1	(wide)
+334	operating_system	Android 13
+335	screen_resolution	1080x2400
+336	primary_wide_camera_feature_1	wide
+337	primary_wide_camera_feature_2	AF
+338	primary_ultrawide_camera_mp	2
+339	primary_ultrawide_camera_feature_1	macro
+340	secondary_depth_camera_feature_1	13 MP
+341	secondary_depth_camera_feature_2	f/2.0
+342	bluetooth_version	5.1
+349	secondary_wide_camera_mp	13
+350	secondary_wide_camera_aperture	f/2.0
+351	primary_wide_camera_feature_1	AF
+352	operating_system	Android 14, One UI 6
+358	screen_type	FHD+ Super AMOLED
+359	screen_resolution	1080x2340
+360	chipset	Mediatek Helio G99 (6nm)
+372	gps_standard_2	GALILEO
+379	screen_type	Super AMOLED
+386	secondary_macro_camera_mp	2
+387	secondary_macro_camera_aperture	f/2.4
+388	operating_system	Android 11
+389	screen_type	PLS TFT
+390	chipset	Octa-core (2x1.6 GHz & 6x1.6 GHz)
+391	primary_wide_camera_feature_1	OIS
+392	primary_ultrawide_camera_feature_1	123°
+393	secondary_depth_camera_mp	2
+394	secondary_depth_camera_aperture	f/2.4
+395	secondary_depth_camera_feature_1	depth
+396	usb_type	microUSB 2.0
+397	chipset	Exynos 1280 (5 nm)
+398	cpu	Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)
+399	gpu	Mali-G68
+400	primary_wide_camera_feature_2	OIS
+401	primary_ultrawide_camera_mp	8
+402	primary_wide_camera_feature_3	OIS
+403	primary_ultrawide_camera_feature_1	120° (ultrawide)
+404	secondary_depth_camera_feature_2	f/2.2
+405	secondary_depth_camera_feature_3	(wide)
+406	operating_system	Android 13, One UI 5.1
+407	screen_size_inches	6.6
+408	chipset	Mediatek MT6877V Dimensity 1080 (6 nm)
+409	cpu	Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)
+410	gpu	Mali-G68 MC4
+411	primary_wide_camera_feature_2	1/2.0"
+412	primary_wide_camera_feature_3	0.8µm
+413	primary_wide_camera_feature_4	PDAF, OIS
+414	primary_ultrawide_camera_feature_1	123° (ultrawide)
+415	primary_ultrawide_camera_feature_2	1/4.0"
+416	primary_ultrawide_camera_feature_3	1.12µm
+417	secondary_depth_camera_feature_4	1/3.1"
+418	secondary_depth_camera_feature_5	1.12µm
+430	chipset	MediaTek MT6877V Dimensity 1080 (6 nm)
+442	secondary_depth_camera_feature_1	13 MP, f/2.2, (wide)
+443	secondary_depth_camera_feature_2	1/3.1"
+444	secondary_depth_camera_feature_3	1.12µm
+451	operating_system	Android 14, One UI 6.1
+457	chipset	Exynos 1380 (5 nm)
+458	cpu	Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
+459	gpu	Mali-G68 MP5
+460	primary_wide_camera_feature_1	1/1.96"
+488	secondary_depth_camera_feature_1	1/3.06"
+489	secondary_depth_camera_feature_2	1.12µm
+490	fast_charging	Not specified
+491	usb_power_delivery_version	Not specified
+492	wireless_charging_1_type	Not supported
+493	wireless_charging_1_power_w	Not supported
+494	wireless_charging_2_type	Not supported
+495	wireless_charging_2_power_w	Not supported
+496	bluetooth_feature_3	aptX
+503	primary_wide_camera_feature_2	1/1.96"
+504	primary_ultrawide_camera_feature_2	(ultrawide)
+505	primary_ultrawide_camera_feature_3	1/4.0"
+506	primary_ultrawide_camera_feature_4	1.12µm
+507	secondary_depth_camera_feature_4	1/3.06"
+514	operating_system	Android 14
+515	primary_ultrawide_camera_feature_1	123?
+539	screen_size_inches	6.4
+540	primary_ultrawide_camera_feature_2	1.12µm
+541	secondary_camera_feature_1	32 MP
+542	secondary_camera_feature_2	f/2.2
+543	secondary_camera_feature_3	26mm (wide)
+544	secondary_camera_feature_4	1/2.8"
+545	secondary_camera_feature_5	0.8µm
+571	secondary_macro_camera_mp	5
+572	secondary_macro_camera_feature_1	(macro)
+573	secondary_depth_camera_mp	32
+574	secondary_depth_camera_aperture	f/2.2
+575	secondary_depth_camera_feature_2	1/2.8"
+576	secondary_depth_camera_feature_3	0.8µm
+593	chipset	Exynos 1480
+594	cpu	Octa-core (4x2.7 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
+595	primary_wide_camera_feature_2	1/1.56"
+596	primary_wide_camera_feature_3	1.0µm
+597	primary_ultrawide_camera_feature_2	1/3.06"
+600	wifi_standard_1	Wi-Fi 802.11 a/b/g/n/ac/6
+607	secondary_depth_camera_feature_1	32 MP
+614	primary_wide_camera_feature_1	1/1.56"
+615	secondary_depth_camera_feature_3	26mm (wide)
+616	secondary_depth_camera_feature_4	1/2.74"
+617	secondary_depth_camera_feature_5	0.8µm
+624	secondary_depth_camera_feature_3	26mm
+633	bluetooth_feature_2	LE, aptX
+661	water_resistance_depth_meters	1.5
+662	screen_type	Dynamic AMOLED 2X
+663	screen_resolution	1080 x 2340
+664	chipset	Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)
+665	cpu	Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)
+666	gpu	Adreno 740
+667	primary_wide_camera_feature_2	1/1.56&qout
+668	primary_wide_camera_feature_4	Dual Pixel PDAF
+669	primary_ultrawide_camera_feature_2	120°
+670	secondary_wide_camera_mp	10
+671	secondary_wide_camera_feature_1	70mm (telephoto)
+672	secondary_wide_camera_feature_2	1/3.94&qout
+673	secondary_wide_camera_feature_3	1.0µm
+674	secondary_depth_camera_feature_1	PDAF
+675	secondary_depth_camera_feature_2	3x optical zoom
+676	wifi_standard_1	802.11 a/b/g/n/ac/6e
+677	wifi_standard_2	tri-band
+678	usb_type	USB Type-C 3.2
+679	fast_charging	25W
+680	usb_power_delivery_version	3.0
+681	wireless_charging_1_type	Fast wireless charging
+682	wireless_charging_1_power_w	4.5
+683	battery_capacity_mah	3900
+684	feature_1	Corning® Gorilla® Glass Victus® 2
+685	primary_wide_camera_feature_4	Dual Pixel PDAF, OIS
+686	primary_telephoto_camera_mp	10
+687	primary_telephoto_camera_aperture	f/2.4
+688	primary_telephoto_camera_feature_1	70mm (telephoto)
+689	primary_telephoto_camera_feature_2	1/3.94"
+690	primary_telephoto_camera_feature_3	1.0µm
+691	primary_telephoto_camera_feature_4	PDAF, 3x optical zoom
+692	primary_ultrawide_camera_feature_3	1/2.55"
+693	primary_ultrawide_camera_feature_4	1.4µm, Dual Pixel PDAF, Super Steady video
+694	secondary_wide_camera_feature_1	26mm (wide)
+695	secondary_wide_camera_feature_2	Dual Pixel PDAF
+696	primary_ultrawide_camera_feature_4	1.4µm
+697	secondary_wide_camera_feature_2	1/3.94"
+698	secondary_wide_camera_feature_4	PDAF
+699	secondary_wide_camera_feature_5	3x optical zoom
+700	secondary_depth_camera_feature_1	12 MP
+701	secondary_depth_camera_feature_4	Dual Pixel PDAF
+702	operating_system	Android 13, up to Android 14, One UI 6
+703	chipset	Exynos 2200 (4 nm)
+704	cpu	Octa-core (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510)
+705	gpu	Xclipse 920
+706	primary_telephoto_camera_mp	8
+707	primary_telephoto_camera_feature_1	75mm (telephoto)
+708	usb_type	USB Type-C, OTG
+709	fast_charging	25W wired, PD2.0, 50% in 30 min
+710	primary_ultrawide_camera_feature_1	123? (ultrawide)
+711	usb_type	USB Type-C
+712	primary_telephoto_camera_feature_1	75mm
+713	secondary_wide_camera_feature_1	26mm
+714	feature_1	Glass front (Gorilla Glass Victus 3)
+715	feature_2	Glass back (Gorilla Glass Victus 3)
+716	feature_3	Aluminum frame
+717	screen_type	Dynamic LTPO AMOLED 2X
+718	screen_resolution	1440x3088
+719	chipset	Exynos 2400, 10-core, 4nm
+721	gpu	Samsung Xclipse 940
+722	primary_ultrawide_camera_feature_5	Super Steady video
+723	secondary_wide_camera_feature_4	PDAF, OIS
+724	wifi_standard_1	802.11 a/b/g/n/ac/6e/7
+725	fast_charging	45W wired, PD3.0, 65% in 30 min (advertised)
+727	wireless_charging_1_type	15W wireless (Qi/PMA)
+728	wireless_charging_2_type	4.5W reverse wireless
+729	wireless_charging_2_power_w	4.5
+730	battery_capacity_mah	4900
+731	feature_1	Glass front (Gorilla Glass Victus 3), glass back (Gorilla Glass Victus 3), aluminum frame
+733	primary_ultrawide_camera_feature_4	1.4µm, Super Steady video
+734	secondary_wide_camera_feature_4	PDAF, OIS, 3x optical zoom
+737	usb_type	USB Type-C 3.2, OTG
+738	fast_charging	45W wired, PD3.0, 65% in 30 min
+740	chipset	Exynos 2400
+741	cpu	10-core
+742	primary_telephoto_camera_feature_4	PDAF, OIS, 3x optical zoom
+743	nfc	1
+744	fast_charging	45W wired, PD3.0, 65% in 30 minutes
+745	wireless_charging_1_type	Qi/PMA
+746	wireless_charging_2_type	reverse wireless
+751	cpu	10-core, 4nm
+752	secondary_depth_camera_feature_2	f/2.2, 26mm (wide)
+753	screen_size_inches	6.2
+755	primary_ultrawide_camera_feature_3	1/2.55
+758	wifi_standard_1	Wi-Fi 802.11 a/b/g/n/ac/6e
+759	fast_charging	25W wired, PD3.0, 50% in 30 min
+761	battery_capacity_mah	4000
+762	secondary_wide_camera_feature_5	OIS
+763	secondary_wide_camera_feature_6	3x optical zoom
+764	fast_charging	25W wired, PD3.0
+765	primary_wide_camera_feature_5	OIS
+766	secondary_depth_camera_mp	12
+767	secondary_depth_camera_feature_1	26mm (wide)
+768	secondary_depth_camera_feature_2	Dual Pixel PDAF
+772	fast_charging	25W wired, PD3.0, 50% in 30 minutes
+777	secondary_wide_camera_feature_1	70mm
+782	secondary_depth_camera_feature_2	OIS
+783	fast_charging	25W wired, PD3.0, 50% in 30 min (advertised)
+785	chipset	Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm)
+786	cpu	Octa-core (1x3.3 GHz Cortex-X4 & 5x3.2 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)
+787	gpu	Adreno 750 (1 GHz)
+788	primary_wide_camera_mp	200
+789	primary_wide_camera_aperture	f/1.7
+790	primary_wide_camera_feature_2	1/1.3"
+791	primary_wide_camera_feature_3	0.6µm
+792	primary_wide_camera_feature_4	multi-directional PDAF, Laser AF, OIS
+793	secondary_wide_camera_feature_2	1/3.52"
+794	secondary_wide_camera_feature_3	1.12µm
+795	secondary_wide_camera_feature_4	Dual Pixel PDAF, OIS, 3x optical zoom
+798	wifi_standard_1	Wi-Fi 802.11 a/b/g/n/ac/6e/7
+799	usb_type	Type-C 3.2
+801	secondary_wide_camera_mp	50
+802	secondary_wide_camera_feature_1	Periscope telephoto
+803	secondary_wide_camera_feature_4	5x optical zoom
+804	secondary_depth_camera_mp	10
+805	secondary_depth_camera_feature_1	f/2.4
+806	secondary_depth_camera_feature_2	70mm (telephoto)
+807	secondary_depth_camera_feature_3	1/3.52"
+808	secondary_depth_camera_feature_4	1.12µm
+809	secondary_depth_camera_feature_5	Dual Pixel PDAF
+810	secondary_depth_camera_feature_6	OIS
+811	secondary_depth_camera_feature_7	3x optical zoom
+812	wireless_charging_1_type	Wireless (Qi/PMA)
+813	wireless_charging_2_type	Reverse wireless
+814	secondary_wide_camera_feature_1	periscope telephoto
+815	secondary_wide_camera_feature_2	PDAF, OIS, 5x optical zoom
+816	secondary_wide_camera_feature_3	10 MP, f/2.4, 70mm (telephoto)
+817	secondary_depth_camera_feature_1	1/3.52"
+818	chipset	Qualcomm SM8650-AC Snapdragon 8 Gen 3
+820	secondary_wide_camera_feature_2	PDAF, OIS
+821	secondary_wide_camera_feature_3	5x optical zoom
+822	secondary_depth_camera_feature_1	70mm (telephoto)
+823	secondary_depth_camera_feature_2	1/3.52"
+824	secondary_depth_camera_feature_4	Dual Pixel PDAF, OIS
+825	secondary_depth_camera_feature_5	3x optical zoom
+828	gpu	Adreno 750
+829	secondary_depth_camera_feature_1	50 MP
+830	secondary_depth_camera_feature_2	periscope telephoto
+831	secondary_depth_camera_feature_3	PDAF, OIS, 5x optical zoom
+832	water_resistance_ip_rating	IPx8
+833	screen_type	Foldable Dynamic AMOLED 2X
+834	screen_resolution	1080x2640
+835	chipset	Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)
+836	cpu	Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)
+837	primary_wide_camera_feature_2	1/1.76"
+838	primary_wide_camera_feature_3	1.8µm
+839	secondary_wide_camera_feature_2	1.22µm
+840	wifi_standard_1	802.11 a/b/g/n/ac/6/7
+841	fast_charging	25W, 50% in 30 min
+842	fast_charging_type	Fast charging
+843	wireless_charging_2_type	Reverse wireless charging
+844	battery_capacity_mah	3700
+845	screen_size_inches	7.6
+846	screen_resolution	(1812x2176)
+847	primary_wide_camera_feature_1	23mm (wide)
+848	primary_wide_camera_feature_3	Dual Pixel PDAF
+849	primary_ultrawide_camera_feature_2	12mm
+850	secondary_wide_camera_feature_1	(telephoto)
+851	secondary_wide_camera_feature_3	3x optical zoom
+852	secondary_depth_camera_feature_1	4 MP
+853	secondary_depth_camera_feature_2	f/1.8
+854	fast_charging	25W, 50% in 30 min (advertised)
+856	battery_capacity_mah	4400
+861	screen_resolution	1812x2176
+862	primary_ultrawide_camera_feature_1	(telephoto)
+863	secondary_wide_camera_feature_1	123?
+864	secondary_wide_camera_feature_2	12mm (ultrawide)
+868	fast_charging	25W, 50% in 30 minutes
+870	primary_telephoto_camera_feature_1	PDAF
+871	primary_telephoto_camera_feature_2	OIS
+872	primary_telephoto_camera_feature_3	3x optical zoom
+873	primary_ultrawide_camera_feature_2	12mm (ultrawide)
+874	secondary_wide_camera_mp	4
+875	secondary_wide_camera_aperture	f/1.8
+876	secondary_wide_camera_feature_2	2.0µm
+877	secondary_wide_camera_feature_3	under display
+878	cover_camera_mp	10
+879	cover_camera_aperture	f/2.2
+880	cover_camera_feature_1	24mm (wide)
+881	cover_camera_feature_2	1/3"
+882	cover_camera_feature_3	1.22µm
+883	bluetooth_feature_3	aptX HD
+884	fast_wireless_charging	15W
+885	reverse_wireless_charging	4.5W
+886	operating_system	Android 12, Magic UI 6.1
+887	chipset	Mediatek Helio G88 (12nm)
+888	cpu	Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)
+889	gpu	Mali-G52 MC2
+900	operating_system	Android
+901	screen_resolution	2400 x 1080 pixels
+902	chipset	Octa-core
+905	secondary_depth_camera_feature_1	2MP
+922	operating_system	Android 14 (Go edition), MIUI
+923	screen_size_inches	6.71
+924	screen_resolution	720x1650
+925	chipset	Mediatek Helio G36 (12 nm)
+926	cpu	Octa-core (4x2.2 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53)
+927	gpu	PowerVR GE8320
+928	primary_wide_camera_mp	8
+930	primary_ultrawide_camera_mp	0.08
+932	primary_ultrawide_camera_feature_1	(auxiliary lens)
+934	fast_charging	10W wired
+935	operating_system	Android 14, HyperOS
+936	screen_size_inches	6.36
+937	screen_type	LTPO OLED
+938	screen_resolution	1200x2670
+939	chipset	Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)
+940	cpu	Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)
+941	primary_wide_camera_feature_2	1/1.31"
+942	primary_wide_camera_feature_3	1.2µm
+943	primary_telephoto_camera_mp	50
+944	primary_telephoto_camera_aperture	f/2.0
+945	primary_telephoto_camera_feature_3	(10cm - ∞)
+946	primary_telephoto_camera_feature_4	OIS
+947	primary_telephoto_camera_feature_5	3.2x optical zoom
+948	primary_ultrawide_camera_mp	50
+949	primary_ultrawide_camera_feature_1	14mm
+950	primary_ultrawide_camera_feature_2	115°
+951	secondary_wide_camera_mp	32
+952	bluetooth_version	5.4
+953	bluetooth_feature_4	aptX Adaptive
+954	gps_standard_1	GPS (L1+L5)
+955	gps_standard_2	GLONASS (G1)
+956	gps_standard_3	BDS (B1I+B1c+B2a)
+957	gps_standard_4	GALILEO (E1+E5a)
+958	gps_standard_5	QZSS (L1+L5)
+959	gps_standard_6	NavIC (L5)
+960	fast_charging	90W wired, PD3.0, QC4, 100% in 31 min
+961	wireless_charging	50W, 100% in 46 min
+962	battery_capacity_mah	4610
+968	primary_wide_camera_feature_4	dual pixel PDAF, Laser AF, OIS
+969	primary_ultrawide_camera_feature_2	115° (ultrawide)
+970	secondary_wide_camera_feature_1	75mm (telephoto)
+971	secondary_wide_camera_feature_2	PDAF (10cm - ∞)
+974	bluetooth_feature_2	LE, aptX HD, aptX Adaptive
+975	fast_charging	90W wired, PD3.0, QC4, 100% in 31 min (advertised)
+977	wireless_charging_1_type	50W wireless
+981	primary_telephoto_camera_feature_2	PDAF (10cm - ∞)
+982	primary_telephoto_camera_feature_4	3.2x optical zoom
+983	wireless_charging_1_power_w	100
+984	operating_system	Android 13, MIUI 14
+985	water_resistance_ip_rating	IP53
+986	screen_size_inches	6.79
+987	screen_resolution	1080x2460
+988	secondary_depth_camera_feature_1	8 MP
+989	secondary_depth_camera_feature_2	f/2.1
+990	fast_charging	18W
+991	screen_type	FHD+, IPS LCD
+992	secondary_wide_camera_mp	8
+993	secondary_wide_camera_aperture	f/2.1
+994	usb_type	Type-C
+995	fast_charging	18W wired
+1001	screen_size_inches	6.74
+1002	screen_resolution	720x1600
+1003	chipset	Mediatek MT6769Z Helio G85 (12nm)
+1004	cpu	Octa-core (1x3.35 GHz Cortex-X3 & 3x3.0 GHz Cortex-A715 & 4x2.0 GHz Cortex-A510)
+1005	primary_wide_camera_feature_1	28mm (wide)
+1006	secondary_wide_camera_mp	0.08
+1021	primary_auxiliary_camera_mp	0.08
+1022	secondary_camera_mp	8
+1023	secondary_camera_aperture	f/2.0
+1029	secondary_wide_camera_feature_1	(auxiliary lens)
+1053	secondary_wide_camera_feature_1	auxiliary lens
+1136	secondary_wide_camera_mp	0.8
+1152	screen_type	OLED
+1153	primary_wide_camera_feature_2	1/1.4"
+1154	primary_wide_camera_feature_3	0.56µm
+1155	primary_ultrawide_camera_feature_2	1/4"
+1156	secondary_depth_camera_feature_5	1.0µm
+1157	bluetooth_version	5.2
+1158	gps_standard_1	GPS (L1)
+1159	gps_standard_3	BDS (B1I+B1c)
+1160	gps_standard_4	GALILEO (E1)
+1161	gps_standard_5	QZSS (L1)
+1168	operating_system	Android 12, MIUI 13
+1169	screen_resolution	1080 x 2400
+1170	chipset	MediaTek Dimensity 1080 (6 nm)
+1173	fast_charging	67W wired, 50% in 15 min, 100% in 46 min (advertised)
+1178	secondary_depth_camera_feature_1	16 MP, f/2.5
+1179	secondary_depth_camera_feature_2	(wide)
+1180	fast_charging	67W wired, 50% in 15 min, 100% in 46 min
+1181	chipset	Qualcomm SM7150 Snapdragon 732G (8 nm)
+1182	cpu	Octa-core (2x2.3 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)
+1183	gpu	Adreno 618
+1184	primary_wide_camera_feature_1	1/1.52"
+1185	primary_wide_camera_feature_2	0.7µm
+1186	primary_wide_camera_feature_4	wide
+1187	primary_ultrawide_camera_aperture	f/1.9
+1188	primary_ultrawide_camera_feature_1	119°
+1189	fast_charging	67W wired
+1190	water_resistance_ip_rating	IP54
+1191	screen_type	FHD+, AMOLED
+1192	chipset	Qualcomm SM6225 Snapdragon 685 (6 nm)
+1193	cpu	Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53)
+1194	primary_wide_camera_feature_1	0.64µm
+1195	fast_charging	33W wired
+1196	primary_ultrawide_camera_feature_1	depth
+1197	secondary_wide_camera_feature_1	wide
+1198	usb_type	Type-C 2.0, OTG
+1199	fast_charging	33W
+1200	primary_wide_camera_feature_2	0.64µm
+1201	primary_depth_camera_feature_1	depth
+1203	primary_depth_camera_feature_1	(depth)
+1205	chipset	Mediatek Dimensity 6080 (6 nm)
+1206	cpu	Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
+1217	screen_resolution	1720 x 1220
+1218	chipset	Mediatek Dimensity 1200 Ultra (4 nm)
+1219	cpu	Octa-core (2x2.8 GHz Cortex-A715 & 6x2.0 GHz Cortex-A510)
+1220	gpu	Mali-G610 MC4
+1221	primary_wide_camera_feature_1	1/1.4"
+1222	primary_wide_camera_feature_2	0.56µm
+1223	primary_wide_camera_feature_3	multi-directional PDAF
+1224	gps_standard_3	BDS (B1I)
+1225	fast_charging	120W wired
+1231	chipset	Mediatek Dimensity 7200 Ultra (4 nm)
+1232	primary_wide_camera_feature_1	(wide), 1/1.4"
+1246	chipset	Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)
+1247	cpu	Octa-core (4x2.40 GHz & 4x1.95 GHz)
+1257	fast_charging	67W
+1263	battery_capacity_mah	5100
+1264	chipset	Mediatek Helio G99 Ultra
+1265	cpu	Octa-core

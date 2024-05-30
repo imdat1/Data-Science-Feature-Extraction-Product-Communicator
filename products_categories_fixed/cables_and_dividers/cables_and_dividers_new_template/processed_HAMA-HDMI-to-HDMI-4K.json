@@ -1,0 +1,16 @@
+{
+    "url": "https://www.neptun.mk/categories/KABLI_I_RAZDELNICI/HAMA-HDMI-to-HDMI-4K",
+    "title": "HDMI \u041a\u0410\u0411\u0415\u041b HAMA HDMI TO HDMI 4K, 5M",
+    "warranty_months": 24,
+    "regular_price_mkd": 949,
+    "happy_price_mkd": null,
+    "category": "KABLI_I_RAZDELNICI",
+    "description": "HDMI \u043a\u0430\u0431\u0435\u043b\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:4K (4096 x 2160)\nAudio return channel (ARC)\n\u0414\u0430\u0442\u0430 \u0442\u0440\u0430\u043d\u0441\u0444\u0435\u0440:18 Gbps\n\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0458\u0430:HDR\n\u0414\u043e\u043b\u0436\u0438\u043d\u0430 \u043d\u0430 \u043a\u0430\u0431\u0435\u043b\u043e\u0442:5m",
+    "features": {
+        "device_type": "Cable or Divider",
+        "input_type": "HDMI\u2122 Plug",
+        "output_type": "HDMI\u2122 Plug",
+        "resolution_supported": "4K (4096 x 2160)",
+        "cable_length_meters": 5
+    }
+}

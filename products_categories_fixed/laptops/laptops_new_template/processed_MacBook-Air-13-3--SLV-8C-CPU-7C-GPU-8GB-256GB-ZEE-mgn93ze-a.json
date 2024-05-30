@@ -1,0 +1,26 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/MacBook-Air-13-3--SLV-8C-CPU-7C-GPU-8GB-256GB-ZEE-mgn93ze-a",
+    "title": "MacBook Air 13.3\" SLV 8C CPU 7C GPU 8GB 256GB ZEE MGN93ZE/A",
+    "warranty_months": 12,
+    "regular_price_mkd": 72699,
+    "happy_price_mkd": 57699,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u0414\u0438\u0441\u043f\u043b\u0435\u0439:13.3\"(33.78cm)\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Apple M1 chip with 8-core CPU,\nGPU 7-core\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(2560x1600) LED IPS Retina\nRAM \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:8GB\n\u0414\u0438\u0441\u043a (Storage): 256GB SSD\nWeb camera 720p\nBluetooth\nWi-Fi\nThunderbolt (USB-C)\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:Li-Poly 49.9 Wh -  18 h - 30 W\nmacOS 11.0",
+    "features": {
+        "screen_size_inches": 13.3,
+        "screen_resolution": "2560 x 1600",
+        "screen_type": "LED IPS Retina",
+        "processor_model": "Apple M1 chip",
+        "processor_cores": 8,
+        "gpu_model": "7-core",
+        "ram_size_gb": 8,
+        "storage_size_gb": 256,
+        "storage_type": "SSD",
+        "wifi_standard": "Wi-Fi",
+        "bluetooth_version": null,
+        "usb_type_c_ports": 1,
+        "battery_capacity_wh": 49.9,
+        "operating_system": "macOS 11.0"
+    }
+}

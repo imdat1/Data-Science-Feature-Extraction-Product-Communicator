@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-Galaxy-Z-Flip5-5G--SM-F731BLIGEUC--8-256GB-Lavender",
+    "title": "SAMSUNG GALAXY Z FLIP5 5G (SM-F731BLIGEUC), 6.7\", 8+256GB, 12+12/10MP, 3700 MAH, LAVENDER",
+    "warranty": "24",
+    "regular_price": 71999,
+    "happy_price": 55999,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 13, One UI 5.1",
+        "Display Size": "6.7\"",
+        "Resolution": "1080x2640 pixels, Foldable Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (peak)",
+        "Display Protection": "Corning Gorilla Glass Victus+",
+        "Water Resistance": "IPx8",
+        "GPU": "Adreno 740",
+        "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+        "CPU": "Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
+        "Internal Memory": "256GB",
+        "RAM": "8GB",
+        "Primary Camera 1": "12 MP, f/1.8, 24mm (wide), 1/1.76\", 1.8µm, Dual Pixel PDAF, OIS",
+        "Primary Ultrawide Camera": "12 MP, f/2.2, 123° (ultrawide), 1.12µm",
+        "Secondary Camera": "10 MP, f/2.4, 26mm (wide), 1.22µm",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "USB": "Type-C 2.0, OTG",
+        "Fast Charging": "25W, 50% in 30 mins (advertised)",
+        "Wireless Charging": "15W",
+        "Reverse Wireless Charging": "4.5W",
+        "Battery": "Li-Po 3700 mAh"
+    },
+    "category": "mobile_phones"
+}

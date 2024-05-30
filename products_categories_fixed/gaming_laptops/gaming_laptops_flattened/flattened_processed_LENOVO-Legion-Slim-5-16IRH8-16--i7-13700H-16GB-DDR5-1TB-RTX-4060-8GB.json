@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/LENOVO-Legion-Slim-5-16IRH8-16--i7-13700H-16GB-DDR5-1TB-RTX-4060-8GB",
+    "title": "ЛАПТОП LENOVO LEGION SLIM 5 16IRH8 16\" I7-13700H/16GB DDR5/1TB/RTX 4060 8GB",
+    "warranty": "24",
+    "regular_price": 97999,
+    "happy_price": 90999,
+    "features": {
+        "Display": "16\" (40.64cm)",
+        "Resolution": "(2560x1600) WQXGA, IPS, 300nits Anti-glare, 100% sRGB, 165Hz, G-SYNC®, Low Blue Light",
+        "Chipset": "Intel® SoC Platform",
+        "Processor": "Intel® Core™ i7-13700H, 14C (6P + 8E) / 20T, P-core 2.4 / 5.0GHz, E-core 1.8 / 3.7GHz, 24MB",
+        "Graphics": "NVIDIA® GeForce RTX™ 4060 8GB GDDR6, Boost Clock 2370MHz, TGP 125W",
+        "RAM": "16GB DDR5-5200",
+        "Storage": "1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®",
+        "Operating System": "Без оперативен систем",
+        "Audio": "High Definition (HD) Audio, Realtek® ALC3287 codec",
+        "Speakers": "Stereo speakers, 2W x2, optimized with Nahimic Audio",
+        "Camera": "FHD 1080p with E-shutter",
+        "Microphone": "2x, Array",
+        "Keyboard": "White Backlit, English",
+        "Wireless": "Wi-Fi® 6E, 11ax 2x2 + BT5.1",
+        "USB Ports": "1x USB 3.2 Gen 2, 1x USB 3.2 Gen 2 (Always On), 1x USB-C® 3.2 Gen 2 (support data transfer and DisplayPort™ 1.4), 1x USB-C® 3.2 Gen 2 (support data transfer, Power Delivery 140W and DisplayPort™ 1.4)",
+        "HDMI Port": "1x HDMI® 2.1, up to 8K/30Hz",
+        "Card Reader": "1x Card reader",
+        "RJ45 Ethernet Port": "1x Ethernet 100/1000 (RJ-45)",
+        "Headset Port": "1x Headphone / microphone combo jack (3.5mm)",
+        "Battery": "Integrated 80Wh",
+        "Power Adapter": "230W Slim Tip (3-pin)",
+        "Display Port": "Yes"
+    },
+    "category": "gaming_laptops"
+}

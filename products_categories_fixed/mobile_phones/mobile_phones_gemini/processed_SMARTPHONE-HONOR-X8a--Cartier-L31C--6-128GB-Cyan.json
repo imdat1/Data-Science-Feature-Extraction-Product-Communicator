@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/SMARTPHONE-HONOR-X8a--Cartier-L31C--6-128GB-Cyan",
+    "title": "SMARTPHONE HONOR X8A (CARTIER-L31C) 6/128GB CYAN",
+    "warranty": "24",
+    "regular_price": 16999,
+    "happy_price": 8799,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 12, Magic UI 6.1",
+        "Display Size": "6.7\"",
+        "Resolution": "1080 x 2388 pixels, IPS LCD, 90Hz",
+        "Chipset": "Mediatek Helio G88 (12nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2",
+        "Internal Memory": "128GB",
+        "RAM": "6GB",
+        "Primary Camera 1": "100 MP, f/1.9, (wide), AF",
+        "Primary Ultrawide Camera": "5 MP, f/2.2, (ultrawide)",
+        "Primary Macro Camera": "2 MP, f/2.4, (macro)",
+        "Secondary Camera": "16 MP, f/2.5",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "Bluetooth 5.1, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "USB": "Type-C 2.0, OTG",
+        "Battery": "Li-Po 4500 mAh"
+    },
+    "category": "mobile_phones"
+}

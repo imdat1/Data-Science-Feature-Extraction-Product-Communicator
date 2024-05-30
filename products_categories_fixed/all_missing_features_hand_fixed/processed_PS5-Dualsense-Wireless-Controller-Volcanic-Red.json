@@ -1,0 +1,22 @@
+{
+    "url": "https://www.neptun.mk/categories/DODATOCI_ZA_KONZOLI/PS5-Dualsense-Wireless-Controller-Volcanic-Red",
+    "title": "PS5 DUALSENSE WIRELESS CONTROLLER \u2013 VOLCANIC RED",
+    "warranty_months": 12,
+    "regular_price_mkd": 4599,
+    "happy_price_mkd": null,
+    "category": "DODATOCI_ZA_KONZOLI",
+    "device_type": "Controller",
+    "description": [],
+    "features": {
+        "color": "Volcanic Red",
+        "haptic_feedback": true,
+        "adaptive_triggers": true,
+        "built_in_microphone": true,
+        "headphone_jack": true,
+        "wireless": true,
+        "bluetooth": true,
+        "usb_c": true,
+        "battery_life_hours": 12,
+        "weight_g": 280
+    }
+}

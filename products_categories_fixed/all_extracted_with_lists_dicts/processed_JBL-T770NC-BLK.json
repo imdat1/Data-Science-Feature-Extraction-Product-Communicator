@@ -1,0 +1,25 @@
+{
+    "url": "https://www.neptun.mk/categories/SLUSALKI_A/JBL-T770NC-BLK",
+    "title": "BT \u0421\u041b\u0423\u0428\u0410\u041b\u041a\u0418 JBL T770NC BLK",
+    "warranty_months": 12,
+    "regular_price_mkd": 6999,
+    "happy_price_mkd": null,
+    "category": "SLUSALKI_A",
+    "device_type": "Headphone",
+    "description": [
+        "BT \u0441\u043b\u0443\u0448\u0430\u043b\u043a\u0438\n\u0424\u0440\u0435\u043a\u0444\u0435\u043d\u0446\u0438\u0458\u0430:20 Hz - 20 kHz\nBluetooth 5.3\n\u041f\u043e\u043b\u043d\u0435\u045a\u0435 \u043d\u0430 \u0431\u0430\u0442\u0435\u0440\u0438\u0458\u0430:2h\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:70h\n\u0422\u0438\u043f \u043d\u0430 \u0431\u0430\u0442\u0435\u0440\u0438\u0458\u0430: Lithium-Ion (690 mAh/3,7 V)\n\u0421\u0435\u043d\u0437\u0438\u0442\u0438\u0432\u043d\u043e\u0441\u0442: 100dB\nJBL Pure Bass Sound\nMulti-Point Connection\n\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u043d"
+    ],
+    "features": {
+        "frequency_response": "20 Hz - 20 kHz",
+        "bluetooth_version": "5.3",
+        "battery_life_charging_hours": 2,
+        "battery_life_hours": 70,
+        "battery_type": "Lithium-Ion (690 mAh/3,7 V)",
+        "sensitivity_db": 100,
+        "special_features": [
+            "JBL Pure Bass Sound",
+            "Multi-Point Connection",
+            "\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u043d"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/Gigabyte-G7-MF-17-3--i5-12500H-16GB-512GB-RTX-4050-6GB-WIN11",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f GIGABYTE G7 MF 17.3\" I5-12500H/16GB/512GB/RTX 4050 6GB/WIN11",
+    "regular_price": "67.999",
+    "happy_price": "60.999",
+    "warranty": "24",
+    "features": {
+        "Display": "17.3\"(43.9cm)",
+        "Resolution": "(1920x1080) FHD 144Hz DCI-P3 100% DDS",
+        "Processor": "12th Gen Intel\u00ae Core\u2122 i5-12500H Processor 4.5 GHz (18MB Cache, up to 4.5 GHz, 4 P-cores and 8 E- cores)",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 4050 Laptop GPU 6GB GDDR6",
+        "RAM": "16GB DDR4-3200MHz",
+        "Storage": "512GB M.2 PCIe Gen4x4*1",
+        "Operating System": "Windows 11 Home",
+        "Wireless": "Intel\u00ae Wi-Fi 6E, Bluetooth\u00ae V5.2",
+        "USB Ports": "1 x USB 2.0 port (Type A), 1 x USB 3.2 Gen 1 port (Type A), 2 x USB 3.2 Gen 2 port (Type C)",
+        "Mini DP Port": "1 x Mini DP 1.4",
+        "HDMI Port": "1 x HDMI\u2122 (with HDCP)",
+        "Headset Port": "1 x 2-in-1 Audio Jack (Headphone / Microphone)",
+        "Microphone Port": "1 x Microphone Jack",
+        "RJ45 Ethernet Port": "1 x RJ-45 LAN port",
+        "DC-in Port": "1 x DC-in jack",
+        "MicroSD Card Reader": "1 x MicroSD Card Reader",
+        "Speakers": "2x 2W",
+        "Microphone": "Mikrofon",
+        "DTS Technology": "DTS:X\u00ae Ultra Audio Technology",
+        "Camera": "HD video camera",
+        "Battery": "Lithium-Ion 54Wh",
+        "Power Adapter": "150W",
+        "Weight": "~2.53kg"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-ROG-Zephyrus-G14-GA403UU-QS055W-14--OLED-R9-8945HS-16GB-DDR5X-1TB-RTX-4050-6GB-WIN11",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ASUS ROG ZEPHYRUS G14 GA403UU-QS055W 14\" OLED R9-8945HS/16GB DDR5X/1TB/RTX 4050 6GB/WIN11",
+    "regular_price": "112.999",
+    "happy_price": "104.999",
+    "warranty": "24",
+    "features": {
+        "Display": "14\" (39.6cm)",
+        "Resolution": "(2880 x 1800) 3\u041a, OLED, 120Hz, 0.2ms, 500 nits, 16:10",
+        "Processor": "AMD Ryzen\u2122 9 8945HS, 4GHz (24MB Cache, up to 5.2 GHz, 8 cores, 16 Threads)",
+        "Graphics": "NVIDIA GeForce RTX 4050 6GB GDDR6",
+        "RAM": "16GB DDR5X",
+        "Storage": "1TB M.2 2280 PCIe Gen4 SSD",
+        "Operating System": "Windows 11 Home",
+        "Wireless": "Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth 5.3",
+        "Microphone": "4x \u0437\u0432\u0443\u0447\u043d\u0438\u0446\u0438 (4-speaker (dual force woofer) system with Smart Amplifier Technology)",
+        "Audio": "Tech AI noise-canceling - Dolby Atmos\nHi-Res certification\nSmart Amp Technology",
+        "Ports": "1x Type C USB 4 support DisplayPort    / power delivery\n1x USB 3.2 Gen 2 Type-C support DisplayPor\n2x USB 3.2 Gen 2 Type-A\n1x card reader (microSD) (UHS-II)\n1x HDMI 2.1 FRL\n1x 3.5mm Combo Audio Jack",
+        "Battery": "73WHrs, 4S1P, 4-cell Li-ion",
+        "Keyboard": "Backlit Chiclet Keyboard 1-Zone RGB",
+        "Security": "Security BIOS Administrator Password and User Password Protection"
+    }
+}

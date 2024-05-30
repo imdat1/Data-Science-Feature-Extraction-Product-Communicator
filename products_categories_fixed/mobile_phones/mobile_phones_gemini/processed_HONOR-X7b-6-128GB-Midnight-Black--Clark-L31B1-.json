@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/HONOR-X7b-6-128GB-Midnight-Black--Clark-L31B1-",
+    "title": "HONOR X7B, 6.8\", 108MP+5MP+2MP/8MP, 6/128GB, 5330MAH, MIDNIGHT BLACK (CLARK-L31B1)",
+    "warranty": "24",
+    "regular_price": 11999,
+    "happy_price": 9999,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 13, MagicOS 7.2",
+        "Display Size": "6.8\"",
+        "Resolution": "1080x2412 pixels, IPS LCD, 90Hz, 850 nits (peak)",
+        "Chipset": "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)",
+        "GPU": "Adreno 610",
+        "Internal Memory": "128GB",
+        "RAM": "6GB",
+        "Primary Camera 1": "108 MP, f/1.8, 24mm (wide), 1/1.67\", 0.64µm, PDAF",
+        "Primary Ultrawide Camera": "5 MP, f/2.2, (ultrawide)",
+        "Primary Depth Camera": "2 MP, f/2.4, (depth)",
+        "Secondary Camera": "8 MP, f/2.0, (wide)",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "Bluetooth: 5.0, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "USB": "Type-C 2.0, OTG",
+        "Battery": "Li-Po 5330mAh",
+        "Fast Charging": "35W wired"
+    },
+    "category": "mobile_phones"
+}

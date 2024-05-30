@@ -1,0 +1,33 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-13-128GB-Green",
+    "title": "IPHONE 13 128GB GREEN",
+    "warranty": "12",
+    "regular_price": 55890,
+    "happy_price": 40990,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "iOS 15",
+        "Water Resistance": "IP68 (up to 6m for 30 mins)",
+        "Display Size": "6.1\" Super Retina XDR OLED - HDR",
+        "Resolution": "2532 x 1170 pixels",
+        "Chipset": "Apple A15 Bionic",
+        "CPU": "Hexa-core",
+        "GPU": "Apple GPU (4-core graphics)",
+        "Internal Memory": "128GB",
+        "RAM": "4GB",
+        "Primary Camera 1": "12 MP, f/1.6, 26mm (wide), 1.7µm, dual pixel PDAF, sensor-shift OIS",
+        "Primary Ultrawide Camera": "12 MP, f/2.4, 120°, 13mm (ultrawide)",
+        "Secondary Camera": "12 MP, f/2.2, 23mm (wide), 1/3.6\"",
+        "Depth Sensor": "SL 3D, (depth/biometrics sensor)",
+        "Wi-Fi": "Wi-Fi 6 (802.11ax) with 2x2 MIMO",
+        "Bluetooth": "Bluetooth 5.0, A2DP, LE",
+        "GPS": "GPS with A-GPS, GLONASS, GALILEO, QZSS",
+        "Fast Charging": "20W, 50% in 30 mins (advertised)",
+        "USB Power Delivery": "USB Power Delivery 2.0",
+        "Sensors": "Face ID, Barometer, Three-axis gyro, Accelerometer, Proximity sensor, Ambient light sensor",
+        "Wireless Charging 1": "MagSafe wireless charging up to 15W**",
+        "Wireless Charging 2": "Qi wireless charging up to 7.5W**",
+        "Battery Capacity": "Li-Ion 3240 mAh, non-removable (12.41 Wh)"
+    },
+    "category": "mobile_phones"
+}

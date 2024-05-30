@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-TUF-Gaming-A15-FA507NV-LP020-R7-7735HS-16GB-DDR5-1TB-RTX-4060-8GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ASUS TUF GAMING A15 FA507NV-LP020 R7-7735HS/16GB DDR5/1TB/RTX 4060 8GB",
+    "regular_price": "84.999",
+    "happy_price": "74.999",
+    "warranty": "24",
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(1920 x 1080) FHD IPS 144Hz",
+        "Processor": "AMD Ryzen 7 7735HS Mobile Processor (8-core/16-thread, 16MB L3 cache, up to 4.7 GHz max boost)",
+        "Graphics": "NVIDIA GeForce RTX 4060 8GB GDDR6",
+        "RAM": "16GB DDR5",
+        "Storage": "1TB PCIe 4.0 NVMe M.2 SSD",
+        "Operating System": "Bez operativen sistem",
+        "Wireless": "Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth 5.3",
+        "Camera": "720P HD",
+        "Audio": "2-speaker system, AI noise-canceling technology, Dolby Atmos, Hi-Res certification",
+        "Microphone": "1x 3.5mm Combo Audio Jack",
+        "Keyboard": "Backlit Chiclet Keyboard 1-Zone RGB",
+        "RJ45 Ethernet Port": "1x RJ45 LAN port",
+        "USB Ports": "1x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery / G-SYNC, 2x USB 3.2 Gen 1 Type-A",
+        "HDMI Port": "1x HDMI 2.1 FRL",
+        "USB-C Port": "1x Type C USB 4 support DisplayPort, 1x USB 3.2 Gen 1 Type-C support DisplayPort / power delivery / G-SYNC",
+        "Headset Port": "1x 3.5mm Combo Audio Jack",
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion",
+        "Power Adapter": "240W AC Adapter"
+    }
+}

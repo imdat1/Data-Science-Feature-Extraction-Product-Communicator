@@ -1,0 +1,31 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-TUF-Gaming-F15-FX507ZC4-HN002-i7-12700H-16GB-512GB-RTX-3050-4GB",
+    "title": "Лаптоп ASUS TUF Gaming F15 FX507ZC4-HN002 i7-12700H/16GB/512GB/RTX 3050 4GB",
+    "warranty": "24",
+    "regular_price": 64999,
+    "happy_price": 56999,
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(1920 x 1080) FHD, IPS, 16:9, 144Hz",
+        "Processor": "12th Gen Intel Core i7-12700H, 2.3 GHz (24M Cache, up to 4.7 GHz, 14 cores: 6 P-cores)",
+        "Graphics": "NVIDIA GeForce RTX 3050, 4GB GDDR6",
+        "RAM": "16GB DDR4 3200Mhz",
+        "Storage": "512GB PCIe 3.0 NVMe M.2 SSD",
+        "Operating System": "Без оперативен систем",
+        "LAN": "LAN 10/100/1000 Mbps",
+        "Wireless": "Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth 5.2 (*BT version may change with OS version different.)",
+        "Camera": "720P HD camera",
+        "Audio": "2 speakers",
+        "Microphone": "2",
+        "Keyboard": "RGB",
+        "Headset Port": "1 x 3.5mm Combo Audio Jack",
+        "RJ45 Ethernet Port": "1 x RJ45 LAN port",
+        "Thunderbolt 4 Port": "1 x Thunderbolt 4 support DisplayPort",
+        "USB-C Port": "1 x USB 3.2 Gen 2 Type-C support DisplayPort / G-SYNC",
+        "USB Ports": "2 x USB 3.2 Gen 1 Type-A",
+        "HDMI Port": "1 x HDMI 2.0b",
+        "Battery": "56WHrs, 4S1P, 4-cell Li-ion",
+        "Power Adapter": "6.0, 200W AC Adapter, Output: 20V DC, 10A, 200W, Input: 100-240V AC, 50/60Hz universal"
+    },
+    "category": "gaming_laptops"
+}

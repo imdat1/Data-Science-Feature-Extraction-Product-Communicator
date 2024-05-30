@@ -1,0 +1,31 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/LENOVO-Legion-5-16IRX9-16--i7-14650HX-32GB-DDR5-1TB-RTX-4070-8GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f LENOVO LEGION 5 16IRX9 16\" I7-14650HX/32GB DDR5/1TB/RTX 4070 8GB",
+    "warranty": "24",
+    "regular_price": "116.999",
+    "happy_price": "104.999",
+    "features": {
+        "Display": "16\" (40.64cm)",
+        "Resolution": "WQXGA (2560x1600), IPS 350nits Anti-glare, 100% sRGB, 165Hz, Dolby\u00ae Vision\u2122, G-SYNC\u00ae, Free-Sync Premium, Low Blue Light",
+        "Processor": "Intel\u00ae Core\u2122 i7-14650HX, 16C (8P + 8E) / 24T, P-core 2.2 / 5.2GHz, E-core 1.6 / 3.7GHz, 30MB",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 4070 8GB GDDR6, Boost Clock 2175MHz, TGP 140W",
+        "RAM": "32GB DDR5-5600",
+        "Storage": "1TB SSD M.2 2280 PCIe\u00ae 4.0x4 NVMe\u00ae",
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c",
+        "Audio": "High Definition (HD) Audio, Realtek\u00ae ALC3287 codec",
+        "Speakers": "Stereo speakers, 2W x2, optimized with Nahimic Audio",
+        "Camera": "FHD 1080p with E-shutter",
+        "Microphone": "2x, Array",
+        "Ethernet": "100/1000M (RJ-45)",
+        "Wireless": "Wi-Fi\u00ae 6E, 11ax 2x2 + BT5.2",
+        "Keyboard": "White Backlit",
+        "USB Ports": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1)\n1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On\n1x USB-C\u00ae (USB 10Gbps / USB 3.2 Gen 2), with PD 140W and DisplayPort\u2122 1.4\n1x USB-C\u00ae (USB 10Gbps / USB 3.2 Gen 2), with DisplayPort\u2122 1.4",
+        "HDMI Port": "1x HDMI\u00ae 2.1, up to 8K/60Hz",
+        "Headset Port": "1 x Headset (headphone and microphone combo) port",
+        "RJ45 Ethernet Port": "1 x Ethernet (RJ-45)",
+        "Card Reader": "1x Card reader",
+        "Battery": "Integrated 80Wh",
+        "Power Adapter": "230W Slim Tip (3-pin)",
+        "Display Port": "1x DisplayPort 1.4"
+    }
+}

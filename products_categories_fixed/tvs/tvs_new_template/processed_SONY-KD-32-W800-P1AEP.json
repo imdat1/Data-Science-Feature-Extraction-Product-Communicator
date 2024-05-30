@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/SONY-KD-32-W800-P1AEP",
+    "title": "FHD DLED SMART TV SONY KD 32 W800 P1AEP, 32\" (81CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 24999,
+    "happy_price_mkd": 19999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "32\" (81cm) DLED FHD Smart TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:1.920 x 1.080\n\u0413\u0440\u0430\u0444\u0438\u0447\u043a\u0438 \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u0440: Bravia Engine\nFrame Dimming\nLive Colour\u2122 Technology\nHDR10, HLG\nDolby\u00ae Audio\n\u0418\u0437\u043b\u0435\u0437 \u0437\u0430 \u0437\u0432\u0443\u043a (RMS):10W (5W+5W)\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c: Android TV\u2122\nGoogle Play Store\n\u0412\u043d\u0430\u0442\u0440\u0435\u0448\u043d\u0430 \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430: 8GB\n3xHDMI,2xUSB,CI \u0441\u043b\u043e\u0442\nBluetooth v5.0\nDVB-T2/C/S2\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d Wi-Fi",
+    "features": {
+        "screen_size_inches": 32,
+        "screen_resolution": "1.920 x 1.080",
+        "panel_type": "DLED",
+        "smart_tv_os": "Android TV\u2122",
+        "hdr_technology": "HDR10, HLG",
+        "audio_output_watts": 10,
+        "audio_features": "Dolby\u00ae Audio",
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth v5.0",
+        "wifi_spec": "\u0412\u0433\u0440\u0430\u0434\u0435\u043d Wi-Fi",
+        "hdr10_plus": "No",
+        "hlg": "Yes",
+        "youtube": "Yes",
+        "netflix": "Yes",
+        "amazon_prime_video": "Yes"
+    }
+}

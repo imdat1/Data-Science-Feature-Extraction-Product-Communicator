@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-TUF-Gaming-A15-FA507NU-LP031-R7-7735HS-16GB-DDR5-512GB-RTX-4050-6GB",
+    "title": "ЛАПТОП ASUS TUF GAMING A15 FA507NU-LP031 R7-7735HS/16GB DDR5/512GB/RTX 4050 6GB",
+    "regular_price": 74999,
+    "happy_price": 65999,
+    "warranty": "24",
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(1920 x 1080) FHD, IPS, 16:9, 144Hz",
+        "Processor": "AMD Ryzen 7 7735HS Mobile Processor (8-core/16-thread, 16MB L3 cache, up to 4.7 GHz max boost)",
+        "Graphics": "NVIDIA GeForce RTX 4050 6GB GDDR6",
+        "RAM": "16GB DDR5 4800Mhz",
+        "Storage": "512GB PCIe 4.0 NVMe M.2 SSD (2230)",
+        "LAN": "10/100/1000 Mbps",
+        "Wireless": "Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth 5.2 (*Bluetooth version may change with OS version different.)",
+        "Camera": "720P HD camera",
+        "Headset Port": "1x 3.5mm Combo Audio Jack",
+        "RJ45 Ethernet Port": "1x RJ45 LAN port",
+        "USB-C Ports": "1x Type C USB 4 support DisplayPort / G-SYNC\n1x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery / G-SYNC",
+        "USB Ports": "2x USB 3.2 Gen 1 Type-A",
+        "HDMI Port": "1x HDMI 2.1 FRL",
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion",
+        "Power Adapter": "240W AC Adapter, Output: 20V DC, 12A, 240W, Input: 100~240C AC 50/60Hz universal",
+        "Backlit Keyboard": "RGB",
+        "Speakers": "2 звучници",
+        "Microphone": "Tech AI noise-canceling"
+    },
+    "category": "gaming_laptops"
+}

@@ -1,0 +1,50 @@
+Table Descriptions:
+
+gaming_laptops Table:
+This table stores general information about gaming laptops.
+Columns:
+id: Unique identifier for each gaming laptop.
+url: URL link to the product page.
+title: Title or name of the gaming laptop.
+warranty: Duration of warranty in months.
+regular_price: Normal price of the gaming laptop.
+happy_price: Discounted price (if applicable).
+category: Category of the gaming laptop (e.g., “gaming_laptops”).
+feature_gaming_laptops Table:
+This table captures individual features of gaming laptops.
+Columns:
+id: Unique identifier for each feature.
+feature_name: Name of the feature (e.g., “graphics card,” “RAM size”).
+feature_value: Value associated with the feature (e.g., “NVIDIA RTX 3080,” “16GB”).
+gaming_laptop_feature Table:
+This table establishes a many-to-many relationship between gaming laptops and their features.
+Columns:
+product_id: Foreign key referencing the id column in the gaming_laptops table.
+feature_id: Foreign key referencing the id column in the feature_gaming_laptops table.
+
+PROMPT ZA COPILOT: 
+I'm creating databases like this:"c.execute('''CREATE TABLE IF NOT EXISTS gaming_laptops (
+                    id INTEGER PRIMARY KEY,
+                    url TEXT,
+                    title TEXT,
+                    warranty INTEGER,
+                    regular_price REAL,
+                    happy_price REAL,
+                    category TEXT
+                 )''')
+
+    # Create feature_products table
+    c.execute('''CREATE TABLE IF NOT EXISTS feature_gaming_laptops (
+                    id INTEGER PRIMARY KEY,
+                    feature_name TEXT,
+                    feature_value TEXT
+                 )''')
+
+    # Create product_feature table
+    c.execute('''CREATE TABLE IF NOT EXISTS gaming_laptop_feature (
+                    product_id INTEGER,
+                    feature_id INTEGER,
+                    FOREIGN KEY (product_id) REFERENCES gaming_laptops(id),
+                    FOREIGN KEY (feature_id) REFERENCES feature_gaming_laptops(id)
+                 )''')" 
+Can you give me a prompt which i can give to an AI that will understand what's going on with the tables?

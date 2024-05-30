@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/GNB-LENOVO-Gaming-3-15IAH7-i7-12650H-16GB-1TB-RTX-3060-6GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f LENOVO GAMING 3 15IAH7 I7-12650H/16GB/1TB/RTX 3060 6GB",
+    "regular_price": "79.999",
+    "happy_price": "71.999",
+    "warranty": "24",
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(1920x1080) FHD, IPS 300nits Anti-glare, 100% sRGB, 165Hz",
+        "Chipset": "Intel\u00ae SoC Platform",
+        "Processor": "Intel\u00ae Core\u2122 i7-12650H, 10C (6P + 4E) / 16T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 3060 6GB GDDR6, Boost Clock 1642MH, TGP 105W",
+        "RAM": "16GB DDR4-3200",
+        "Storage": "1TB SSD M.2 2280 PCIe\u00ae 3.0x4 NVMe\u00ae",
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c",
+        "Wireless": "Wi-Fi\u00ae 6, 11ax 2x2 + BT5.1",
+        "Audio": "High Definition (HD) Audio, Realtek\u00ae ALC3287 codec",
+        "Speakers": "Stereo speakers, 2W x2, Nahimic Audio",
+        "Camera": "HD 720p with Privacy Shutter",
+        "Microphone": "2x, Array",
+        "Keyboard": "Backlit, English",
+        "Headset Port": "1 x Headset (headphone and microphone combo) port",
+        "RJ45 Ethernet Port": "1 x Ethernet (RJ-45) port",
+        "USB Ports": "2x USB 3.2 Gen 1 ports",
+        "HDMI Port": "1x HDMI\u00ae 2.0 port",
+        "Battery": "Integrated 60Wh",
+        "Power Adapter": "230W Slim Tip (3-pin)"
+    }
+}

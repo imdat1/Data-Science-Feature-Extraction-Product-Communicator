@@ -1,0 +1,25 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/HP-Victus-16-r0068nia-16-1--i7-13700H-16GB-DDR5-512GB-RTX-4060-8GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f HP VICTUS 16-R0068NIA 16.1\" I7-13700H/16GB DDR5/512GB/RTX 4060 8GB",
+    "warranty": "12",
+    "regular_price": "85.999",
+    "happy_price": "76.999",
+    "features": {
+        "Display": "16.1\" (40.9cm)",
+        "Resolution": "(1920 x 1080) FHD IPS 144 Hz, 250 nits, 45% NTSC",
+        "Processor": "Intel\u00ae Core\u2122 i7-13700H (up to 5,0 GHz, 24 MB L3, 14C, 20T)",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 4060 laptop GPU 8 GB GDDR6",
+        "RAM": "16 GB DDR5-5200 MHz (2 x 8 GB)",
+        "Storage": "512 GB PCIe\u00ae Gen4 NVMe\u2122 TLC M.2 SSD",
+        "Wireless": "Wi-Fi 6 MT7921 (2x2) + Bluetooth\u00ae 5.3",
+        "Camera": "HP True Vision 1080p FHD camera with temporal noise reduction and integrated dual array digital microphones",
+        "Audio": "Audio by B&O Dual speakers HP Audio Boost",
+        "Network": "10/100/1000 GbE LAN",
+        "USB Ports": "1 USB Type-A, 5 Gb/s (HP Sleep and Charge)\n1 USB Type-C\u00ae, 5 Gb/s (USB Power Delivery, DisplayPort\u2122 1.4, HP Sleep and Charge)\n2 USB Type-A, 5 Gb/s",
+        "HDMI Port": "1 HDMI 2.1",
+        "RJ45 Ethernet Port": "1 RJ-45",
+        "Headset Port": "1 headphone/microphone combo[\n",
+        "Power Adapter": "200 W Smart AC power adapter",
+        "Battery": "4-cell, 70 Wh Li-ion polymer"
+    }
+}

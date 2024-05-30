@@ -1,0 +1,18 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/ALCATEL-1068D-Black",
+    "title": "ALCATEL 1068D BLACK, 1.8\", 400 MAH",
+    "warranty_months": 24,
+    "regular_price_mkd": 1799,
+    "happy_price_mkd": 1499,
+    "features": {
+        "device_type": "Mobile Phone",
+        "operating_system": null,
+        "screen_size_inches": 1.8,
+        "chipset": "MediaTek MT6261D",
+        "cpu": "260 MHz",
+        "internal_memory_gb": 4,
+        "primary_wide_camera_mp": 0.08,
+        "battery_capacity_mah": 400,
+        "category": "mobilni_telefoni"
+    }
+}

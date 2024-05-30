@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/LG-55-B33-LA",
+    "title": "4K UHD OLED SMART TV LG 55 B33 LA, 55\"(139cm)",
+    "warranty_months": 24,
+    "regular_price_mkd": 86999,
+    "happy_price_mkd": 76999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "55\"(139cm) 4K UHD OLED SMART TV\nРезолуција:(3840 x 2160)\nПроцесор: α7 AI 4K Gen6\nThinQ AI\nOLED motion\nФреквенција на панелот: 100Hz\nDolby Vision\nDOLBY DIGITAL\nAI SOUND PRO\nHDR\nFILMMAKER MODE\nMiracast\nЗвучници: 20W\nVRR\nAirplay2\nОперативен систем: webOS 23\nNvidia G-Sync\nFreeSync\nWI-FI 5 (802.11AC)\n4 x HDMI,2xUSB,LAN,eARC, CI Slot\nDVB-T2/C/S2",
+    "features": {
+        "screen_size_inches": 55,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "OLED",
+        "processor": "α7 AI 4K Gen6",
+        "smart_tv_os": "webOS 23",
+        "hdr_technology": "Dolby Vision, HDR",
+        "audio_output_watts": 20,
+        "audio_features": "AI SOUND PRO, DOLBY DIGITAL",
+        "hdmi_ports": 4,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "wifi_spec": "WI-FI 5 (802.11AC)",
+        "dolby_atmos": null,
+        "filmmaker_mode": "Yes",
+        "freesync_premium_pro": "Yes",
+        "nvidia_g_sync": "Yes",
+        "dvb_t2cs2": "Yes"
+    }
+}

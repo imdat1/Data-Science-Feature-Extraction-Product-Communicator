@@ -1,0 +1,23 @@
+{
+    "url": "https://www.neptun.mk/categories/monitori1/AOC-32--C32G2ZE-BK",
+    "title": "\u041c\u041e\u041d\u0418\u0422\u041e\u0420 AOC 32\" C32G2ZE/BK, 1080P. 240HZ",
+    "warranty_months": 36,
+    "regular_price_mkd": 20999,
+    "happy_price_mkd": 19999,
+    "category": "monitori1",
+    "device_type": "Monitor",
+    "description": "\u041c\u043e\u043d\u0438\u0442\u043e\u0440\n\u0415\u043a\u0440\u0430\u043d:32\"(81)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(1920x1080) FHD 240 Hz\n\u041e\u0441\u0432\u0435\u0442\u043b\u0435\u043d\u043e\u0441\u0442:300cd/m2\n\u0411\u043e\u0438:16.7 Million\n\u041a\u043e\u043d\u0442\u0440\u0430\u0441\u0442:4,000:1\nFreeSync\n\u0412\u0440\u0435\u043c\u0435 \u043d\u0430 \u0440\u0435\u0430\u043a\u0446\u0438\u0458\u0430:1ms\nAspect ratio 16:9\nHDMI 2.0 x 2, DisplayPort 1.2 x 1",
+    "features": {
+        "screen_size_inches": 32,
+        "screen_resolution": "1920x1080",
+        "screen_refresh_rate_hz": 240,
+        "screen_brightness_nits": 300,
+        "supported_colors_million": 16.7,
+        "contrast_ratio_static": "4,000:1",
+        "response_time_ms": 1,
+        "aspect_ratio": "16:9",
+        "hdmi_ports": 2,
+        "displayport_ports": 1,
+        "adaptive_sync": "FreeSync"
+    }
+}

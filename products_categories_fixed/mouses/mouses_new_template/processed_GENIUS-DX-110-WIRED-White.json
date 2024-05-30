@@ -1,0 +1,21 @@
+{
+    "url": "https://www.neptun.mk/categories/GLUVCINA/GENIUS-DX-110-WIRED-White",
+    "title": "MOUSE GENIUS DX-110 WIRED WHITE",
+    "warranty_months": 12,
+    "regular_price_mkd": 299,
+    "happy_price_mkd": null,
+    "category": "GLUVCINA",
+    "description": "Wired mouse\nNumber of buttons: 3\nWeight: 85g\nCable length: 1.5m\nCompatible operating systems:\nWindows 7, 8, 8.1, 10\nMac OS 10.7.4 or later",
+    "features": {
+        "device_type": "Mouse",
+        "connection_type": "Wired",
+        "dpi": null,
+        "tracking_technology": null,
+        "buttons_count": 3,
+        "scroll_wheel": null,
+        "battery_type": null,
+        "weight_grams": 85,
+        "ergonomic_design": null,
+        "compatible_os": "Windows 7, 8, 8.1, 10\nMac OS 10.7.4 or later"
+    }
+}

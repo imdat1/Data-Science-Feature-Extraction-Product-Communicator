@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/LG-65-C21-LA",
+    "title": "4K UHD OLED SMART TV LG 65 C21 LA, 65\"(165.1CM), \u03919 GEN5 AI, WIFI",
+    "warranty": "24",
+    "regular_price": "139.999",
+    "happy_price": "109.995",
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "65\"(165.1cm) 4K UHD OLED SMART TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(3840 x 2160)\n\u03b19 Gen5 AI 4\u041a \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u0440\nPerfect Black (Infinite Contrast)\nPicture Mastering Index:120Hz\n100% Color Fidelity\n100% Color Volume\nEye Comfort Display\nAI Picture Pro\nAI Genre Selection(SDR/HDR/Dolby HDR)\nAI Brightness Control\nAI Upscaling\nDolby Vision IQ / FILMMAKER MODETM\nCinema HDR / HFR\nG-SYNC / AMD FreeSync Premium /\nVRR / ALLM / HGiG\nHDMI 2.1\nWiFi 5\n2.0 Ch. / 20W\nDolby Atmos\nAI Sound Pro\nBluetooth Surround Ready\nAI Acoustic Tuning\nClear Voice Pro\nSound Share\nTV Sound Mode Share\ne-ARC (HDMI 2)\nLG ThinQ AI\nGoogle Assistant\nAmazon Alexa & Alexa lite\nAirplay2 & Homekit\nHome Dashboard\nSports Alert\nHands-free Voice Control\nIntelligent Voice Recognition\nAI Recommendation\nMagic Remote\nGame Optimizer\nMagic Explorer\n4 x HDMI,3xUSB,LAN,eARC, CI Slot, Bluetooth\nDVB-T2/C/S2",
+    "features": {
+        "screen_size_inches": 65,
+        "screen_resolution": "3840 x 2160",
+        "screen_refresh_rate_hz": 120,
+        "panel_type": "OLED",
+        "smart_tv_os": "LG ThinQ AI",
+        "processor": "\u03b19 Gen5 AI 4\u041a \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u0440",
+        "hdr_technology": "Dolby Vision IQ, FILMMAKER MODE, Cinema HDR",
+        "audio_output_watts": 20,
+        "audio_features": "Dolby Atmos, AI Sound Pro, Bluetooth Surround Ready, AI Acoustic Tuning, Clear Voice Pro, Sound Share, TV Sound Mode Share",
+        "hdmi_ports": 4,
+        "usb_ports": 3,
+        "lan_ports": 1,
+        "bluetooth_version": null,
+        "wifi_spec": "WiFi 5",
+        "ai_upscale": "Yes",
+        "dolby_atmos": "Yes",
+        "picture_in_picture": null,
+        "e_arc": "Yes",
+        "dvb_t2cs2": "Yes",
+        "filmmaker_mode": "Yes"
+    }
+}

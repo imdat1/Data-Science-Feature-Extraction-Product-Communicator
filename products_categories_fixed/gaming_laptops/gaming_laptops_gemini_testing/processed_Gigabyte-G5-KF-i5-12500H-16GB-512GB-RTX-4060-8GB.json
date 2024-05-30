@@ -1,0 +1,31 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/Gigabyte-G5-KF-i5-12500H-16GB-512GB-RTX-4060-8GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f GIGABYTE G5 KF I5-12500H/16GB/512GB/RTX 4060 8GB",
+    "regular_price": "69.999",
+    "happy_price": "56.999",
+    "warranty": "24",
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(1920x1080) FHD 144Hz DCI-P3 100% DDS",
+        "Processor": "12th Gen Intel\u00ae Core\u2122 i5-12500H Processor 4.5 GHz (18MB Cache, up to 4.5 GHz, 4 P-cores and 8 E- cores)",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 4060 Laptop GPU 8GB GDDR6",
+        "RAM": "16GB DDR4-3200MHz",
+        "Storage": "512GB M.2 PCIe Gen4x4*1",
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c",
+        "Wi-Fi": "Intel\u00ae Wi-Fi 6E",
+        "Bluetooth": "V5.2",
+        "Microphone": true,
+        "Camera": "HD video camera",
+        "USB 2.0 Ports": "1 x USB 2.0 port (Type A)",
+        "USB 3.2 Gen 1 Ports": "1 x USB 3.2 Gen 1 port (Type A)",
+        "USB 3.2 Gen 2 Ports": "2 x USB 3.2 Gen 2 port (Type C)",
+        "Mini DisplayPort": "1 x Mini DP 1.4",
+        "HDMI Port": "1 x HDMI\u2122 (with HDCP)",
+        "Headset Port": "1 x 2-in-1 Audio Jack (Headphone / Microphone)",
+        "Microphone Jack": "1 x Microphone Jack",
+        "RJ45 Ethernet Port": "1 x RJ-45 LAN port",
+        "Power Adapter": "150W",
+        "Battery": "Lithium-Ion 54Wh",
+        "Weight": "~2.08kg"
+    }
+}

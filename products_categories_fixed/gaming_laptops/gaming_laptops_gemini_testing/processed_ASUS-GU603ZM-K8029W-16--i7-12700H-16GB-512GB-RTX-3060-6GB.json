@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-GU603ZM-K8029W-16--i7-12700H-16GB-512GB-RTX-3060-6GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ASUS ROG ZEPHYRUS M16 GU603ZM-K8029W 16\" I7-12700H/16GB/512GB/RTX 3060 6GB",
+    "regular_price": "134.999",
+    "happy_price": "89.999",
+    "warranty": "24",
+    "features": {
+        "Display": "16.0\" (40.6cm)",
+        "Resolution": "2560 x 1600 WQXGA IPS 165Hz",
+        "Processor": "Intel Core i7-12700H (TBD)",
+        "Graphics": "Nvidia Geforce RTX 3060 6GB",
+        "RAM": "16GB DDR4",
+        "Storage": "512 SSD",
+        "Operating System": "Windows 11 Home",
+        "LAN": "LAN 10/100/1000 Mbps",
+        "Wireless": "Wi-Fi 6E(802.11ax)+Bluetooth 5.2 (Dual band) 2*2",
+        "Ethernet Port": "1 x RJ45",
+        "HDMI Port": "1 x HDMI 2.0b",
+        "Thunderbolt Port": "1 x Thunderbolt 4 support Display port",
+        "USB-C Port": "1 x USB 3.2 Gen 2 Type-C",
+        "USB Ports": "2 x USB 3.2 Gen 2 Type-A",
+        "Card Reader": "1 x card reader (microSD)",
+        "Headset Port": "1 x 3.5mm Combo Audio Jack",
+        "Microphone": "2x 2W speaker",
+        "Audio": "Tech AI noise-canceling - Dolby Atmos",
+        "Security": "Security BIOS Administrator Password and User Password Protection",
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion"
+    }
+}

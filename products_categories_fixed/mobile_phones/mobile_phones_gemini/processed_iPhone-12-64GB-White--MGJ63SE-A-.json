@@ -1,0 +1,33 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/iPhone-12-64GB-White--MGJ63SE-A-",
+    "title": "IPHONE 12 64GB WHITE",
+    "warranty": "12",
+    "regular_price": 45990,
+    "happy_price": 34990,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "iOS 14.1",
+        "Water Resistance": "IP68 (up to 6m for 30 mins)",
+        "Display Size": "6.1\" Super Retina XDR OLED, HDR10",
+        "Resolution": "1170 x 2532 pixels",
+        "Chipset": "Apple A14 Bionic (5 nm)",
+        "CPU": "Hexa-core",
+        "GPU": "Apple GPU (4-core graphics)",
+        "Internal Memory": "64GB",
+        "RAM": "4GB",
+        "Primary Camera 1": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS",
+        "Primary Ultrawide Camera": "12 MP, f/2.4, 120°, 13mm (ultrawide), 1/3.6\"",
+        "Secondary Camera": "12 MP, f/2.2, 23mm (wide), 1/3.6\"",
+        "Depth Sensor": "SL 3D, (depth/biometrics sensor)",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+        "Bluetooth": "Bluetooth 5.0, A2DP, LE",
+        "GPS": "GPS with A-GPS, GLONASS, GALILEO, QZSS",
+        "Fast Charging": "20W, 50% in 30 mins (advertised)",
+        "USB Power Delivery": "USB Power Delivery 2.0",
+        "Sensors": "Face ID, Barometer, Three-axis gyro, Accelerometer, Proximity sensor, Ambient light sensor",
+        "Wireless Charging 1": "MagSafe wireless charging up to 15W**",
+        "Wireless Charging 2": "Qi wireless charging up to 7.5W**",
+        "Battery": "Li-Ion"
+    },
+    "category": "mobile_phones"
+}

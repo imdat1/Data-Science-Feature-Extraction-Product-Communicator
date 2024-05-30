@@ -1,0 +1,31 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-TUF-Gaming-F15-FX507ZV4-HQ050-i7-12700H-16GB-1TB-RTX-4060-8GB",
+    "title": "ЛАПТОП ASUS TUF GAMING F15 FX507ZV4-HQ050 I7-12700H/16GB/1TB/RTX 4060 8GB",
+    "regular_price": 86999,
+    "happy_price": 72999,
+    "warranty": "24",
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(2560 x 1440) WQHD IPS 165Hz",
+        "Processor": "12th Gen Intel Core i7-12700H Processor 2.3 GHz (24M Cache, up to 4.7 GHz, 14 cores)",
+        "Graphics": "NVIDIA GeForce RTX 4060 8GB GDDR6",
+        "RAM": "16GB DDR4",
+        "Storage": "1TB PCIe 4.0 NVMe M.2 SSD",
+        "Operating System": "Без оперативен систем",
+        "Wireless": "Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth 5.2",
+        "Camera": "720P HD",
+        "Audio": "Dolby Atmos, Hi-Res certification, AI noise-canceling technology",
+        "Speakers": "2-speaker system",
+        "Microphone": "1x 3.5mm Combo Audio Jack",
+        "Keyboard": "Backlit Chiclet Keyboard 1-Zone RGB",
+        "Headset Port": "1x 3.5mm Combo Audio Jack",
+        "LAN Port": "1x RJ45 LAN port",
+        "Thunderbolt Port": "1x Thunderbolt 4 support DisplayPort",
+        "USB Ports": "2x USB 3.2 Gen 1 Type-A\n1x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery / G-SYNC",
+        "HDMI Port": "1x HDMI 2.1 FRL",
+        "USB-C Port": "1x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery / G-SYNC",
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion",
+        "Power Adapter": "240W AC Adapter"
+    },
+    "category": "gaming_laptops"
+}

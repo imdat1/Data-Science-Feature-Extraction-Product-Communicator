@@ -1,0 +1,26 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/LG-50-UR-81003-LJ",
+    "title": "4K UHD SMART LED TV LG 50 UR 81003 LJ, 50\"(127CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 34999,
+    "happy_price_mkd": 25995,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "50\"(127cm) 4k UHD SMART LED TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(3840 x 2160)\n\u03b15 Gen6 AI Processor\n4K upscaler\nDirect LED\nFILMMAKER MODETM\nHDR 10 PRO\nALLM / HGiG\nDLNA / Miracast\nWiFi\nBluetooth\n2.0 Ch. / 20W\ne-ARC (HDMI 2)\nLG ThinQ AI\nAmazon Alexa\nAirplay2 & Homekit\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c: webOS\n3 x HDMI,2 x USB, eARC (HDMI 2), CI Slot\nDVB-T2/C/S2",
+    "features": {
+        "screen_size_inches": 50,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "Direct LED",
+        "processor": "\u03b15 Gen6 AI Processor",
+        "hdr_technology": "HDR 10 PRO",
+        "audio_output_watts": 20,
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": null,
+        "bluetooth_version": null,
+        "wifi_spec": "WiFi",
+        "filmmaker_mode": "Yes",
+        "amazon_prime_video": "Yes",
+        "dvb_t2cs2": "Yes"
+    }
+}

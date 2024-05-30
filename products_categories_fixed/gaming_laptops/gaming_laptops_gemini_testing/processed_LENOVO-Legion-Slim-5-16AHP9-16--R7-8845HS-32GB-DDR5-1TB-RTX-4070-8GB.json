@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/LENOVO-Legion-Slim-5-16AHP9-16--R7-8845HS-32GB-DDR5-1TB-RTX-4070-8GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f LENOVO LEGION SLIM 5 16AHP9 16\" R7-8845HS/32GB DDR5/1TB/RTX 4070 8GB",
+    "warranty": "24",
+    "regular_price": "115.999",
+    "happy_price": "103.999",
+    "features": {
+        "Display": "16\" (40.64cm)",
+        "Resolution": "WQXGA (2560x1600), IPS 350nits Anti-glare, 100% sRGB, 165Hz, Dolby\u00ae Vision\u2122, G-SYNC\u00ae, Free-Sync Premium, Low Blue Light",
+        "Processor": "AMD Ryzen\u2122 7 8845HS (8C / 16T, 3.8 / 5.1GHz, 8MB L2 / 16MB L3)",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 4070 8GB GDDR6, Boost Clock 2175MHz, TGP 140W",
+        "RAM": "32GB DDR5-5600",
+        "Storage": "1TB SSD M.2 2280 PCIe\u00ae 4.0x4 NVMe\u00ae",
+        "Wireless": "Wi-Fi\u00ae 6E, 11ax 2x2 + BT5.3",
+        "Audio": "High Definition (HD) Audio, Realtek\u00ae ALC3287 codec",
+        "Speakers": "Stereo speakers, 2W x2, optimized with Nahimic Audio",
+        "Camera": "FHD 1080p with E-shutter",
+        "Microphone": "2x, Array",
+        "Ethernet": "100/1000M (RJ-45)",
+        "Headset Port": "1x Headphone / microphone combo jack (3.5mm)",
+        "RJ45 Ethernet Port": "1x Ethernet (RJ-45)",
+        "USB-A Ports": "2x USB-A (USB 10Gbps / USB 3.2 Gen 2)",
+        "USB-C Ports": "2x USB-C\u00ae (USB 10Gbps / USB 3.2 Gen 2), with PD 140W and DisplayPort\u2122 1.4, 1x USB-C\u00ae (USB 10Gbps / USB 3.2 Gen 2), with DisplayPort\u2122 1.4",
+        "HDMI Port": "1x HDMI\u00ae 2.1, up to 8K/60Hz",
+        "Card Reader": "1x Card reader",
+        "Battery": "Integrated 80Wh",
+        "Power Adapter": "230W Slim Tip (3-pin)",
+        "Keyboard": "White Backlit"
+    }
+}

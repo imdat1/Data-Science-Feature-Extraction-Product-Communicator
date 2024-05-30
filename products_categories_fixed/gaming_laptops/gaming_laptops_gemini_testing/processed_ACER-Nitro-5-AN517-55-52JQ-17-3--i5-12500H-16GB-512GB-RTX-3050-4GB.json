@@ -1,0 +1,20 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ACER-Nitro-5-AN517-55-52JQ-17-3--i5-12500H-16GB-512GB-RTX-3050-4GB",
+    "title": "",
+    "regular_price": "62.999",
+    "happy_price": "59.999",
+    "warranty": "24",
+    "features": {
+        "Display": "17.3\" (43.9cm)",
+        "Resolution": "FHD (1920 x 1080) FHD IPS 144Hz SlimBezel",
+        "Processor": "Intel\u00ae Core\u2122 i5-12500H (12-core/16-thread, 18MB cache, up to 4.5 GHz max boost)",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 3050 4GB",
+        "RAM": "16 GB DDR5 5600MHz",
+        "Storage": "512GB PCIe NVMe SED SSD",
+        "LAN": "10/100/1000/2500 Mbps",
+        "Wireless": "WIFI6E+BT",
+        "Camera": "FHD USB Camera",
+        "Battery": "90Wh Li-ion battery",
+        "Power Adapter": "330W AC Adapter"
+    }
+}

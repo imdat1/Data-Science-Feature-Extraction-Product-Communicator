@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ACER-Predator-Helios-300-PH315-55-96NA-i9-12900H-32GB-DDR5-1TB-RTX-3070-8GB",
+    "title": "ЛАПТОП ACER PREDATOR HELIOS 300 PH315-55-96NA I9-12900H/32GB DDR5/1TB/RTX 3070 8GB",
+    "regular_price": 97999,
+    "happy_price": 81999,
+    "warranty": "24",
+    "features": {
+        "Display": "Acer ComfyView™ 15.6\" (39.6 cm)",
+        "Resolution": "(1920 x 1080) FHD, IPS, 165Hz, NVIDIA G-SYNC™",
+        "Processor": "12th Gen Intel® Core™ i9-12900H 2.50 GHz, 14 Core™",
+        "Graphics": "NVIDIA® GeForce® RTX™ 3070 8 GB GDDR6 VRAM",
+        "RAM": "32GB DDR5 (2 x 16GB)",
+        "Storage": "1TB SSD PCIe",
+        "Operating System": "Без оперативен систем",
+        "Ports": "1x (HDMI 2.1 with HDCP support) \n2x DisplayPort™ (1xMiniDispalyPort)\n1x via USB Type-C) Thunderbolt Thunderbolt™ 4 (via USB Type-C) USB 3.2\n4x (1x USB Type -C Gen2)\n1x Gen2 (mit Power-Off USB Charging)\n2x Gen1\nEthernet (RJ-45)\n1x headphone/speaker jack",
+        "LAN": "Killer™ Ethernet E2600",
+        "Wireless": "Intel® Killer™ Wireless Wi-Fi 6E\nBluetooth® 5.2",
+        "Keyboard Backlight": true,
+        "Audio": "Acer TrueHarmony",
+        "Speakers": "Вградени звучници",
+        "Microphone": "Вграден микрофон",
+        "Battery": "90Wh Li-ion 4-cell battery",
+        "Power Adapter": "280 W",
+        "Weight": "2.6kg",
+        "Display Port": "2x DisplayPort"
+    },
+    "category": "gaming_laptops"
+}

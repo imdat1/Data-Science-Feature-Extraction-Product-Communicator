@@ -1,0 +1,26 @@
+{
+    "url": "https://www.neptun.mk/categories/monitori1/AOC-24--24G2SAE-BK-FHD-165Hz",
+    "title": "\u041c\u041e\u041d\u0418\u0422\u041e\u0420 AOC 24\" 24G2SAE/BK FHD 165HZ, 24\"(60.9CM), 1MS",
+    "warranty_months": 36,
+    "regular_price_mkd": 9999,
+    "happy_price_mkd": 8999,
+    "category": "monitori1",
+    "device_type": "Monitor",
+    "description": "\u041c\u043e\u043d\u0438\u0442\u043e\u0440\n\u0415\u043a\u0440\u0430\u043d:24\"(60.9cm) FHD, WLED\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:1920x1080\nVA \u043f\u0430\u043d\u0435\u043b\nFlat\nAspect Ratio - 16:9\nContrast Ratio Static:3.000:1\n\u0412\u0440\u0435\u043c\u0435 \u043d\u0430 \u0440\u0435\u0430\u043a\u0446\u0438\u0458\u0430:1ms\nRefresh rate: 165Hz\n\u041f\u043e\u0434\u0440\u0436\u0430\u043d\u0438 \u0431\u043e\u0438:16.7M\n\u0410\u0433\u043e\u043b \u043d\u0430 \u0432\u0438\u0434\u043b\u0438\u0432\u043e\u0441\u0442 178\u00b0/178\u00b0\nFreesync Premium\nHDMI, DisplayPort",
+    "features": {
+        "screen_size_inches": 24,
+        "screen_resolution": "1920x1080",
+        "screen_refresh_rate_hz": 165,
+        "screen_type": "Flat",
+        "panel_type": "VA",
+        "aspect_ratio": "16:9",
+        "contrast_ratio_static": "3000:1",
+        "response_time_ms": 1,
+        "supported_colors_million": 16.7,
+        "viewing_angle_horiz_degrees": 178,
+        "viewing_angle_vert_degrees": 178,
+        "hdmi_ports": 1,
+        "displayport_ports": 1,
+        "adaptive_sync": "Freesync Premium"
+    }
+}

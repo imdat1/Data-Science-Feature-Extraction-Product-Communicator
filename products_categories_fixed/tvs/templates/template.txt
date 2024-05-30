@@ -1,0 +1,205 @@
+Prompt:
+
+You are an AI assistant tasked with extracting detailed features from product descriptions to create structured data suitable for database insertion and querying. The goal is to ensure all features are in a flat JSON format without using lists or nested dictionaries. Each product's features should be extracted with clarity and consistency, using descriptive and query-friendly attribute names. If a feature is not found in the product description, it should be omitted from the JSON. Below is the template and guidelines for extracting features from TVs.
+
+Template:
+{
+    "url": "{product_url}",
+    "title": "{product_title}",
+    "warranty_months": {warranty_months},
+    "regular_price_mkd": {regular_price},
+    "happy_price_mkd": {happy_price},
+    "category": "{category}",
+    "device_type": "TV",
+    "description": "{description}",
+    "features":{
+        "screen_size_inches": {screen_size_inches},
+        "screen_resolution": "{screen_resolution}",
+        "screen_refresh_rate_hz": {screen_refresh_rate_hz},
+        "panel_type": "{panel_type}",
+        "smart_tv_os": "{smart_tv_os}",
+        "processor": "{processor}",
+        "hdr_technology": "{hdr_technology}",
+        "audio_output_watts": {audio_output_watts},
+        "audio_features": "{audio_features}",
+        "hdmi_ports": {hdmi_ports},
+        "usb_ports": {usb_ports},
+        "lan_ports": {lan_ports},
+        "bluetooth_version": "{bluetooth_version}",
+        "wifi_spec": "{wifi_spec}",
+        "anti_reflection": "{anti_reflection}",
+        "ultimate_uhd_dimming": "{ultimate_uhd_dimming}",
+        "ultra_viewing_angle": "{ultra_viewing_angle}",
+        "ai_upscale": "{ai_upscale}",
+        "dolby_atmos": "{dolby_atmos}",
+        "adaptive_sound_plus": "{adaptive_sound_plus}",
+        "sound_following_object": "{sound_following_object}",
+        "q_symphony": "{q_symphony}",
+        "picture_in_picture": "{picture_in_picture}",
+        "e_arc": "{e_arc}",
+        "dual_audio_support": "{dual_audio_support}",
+        "dvb_t2cs2": "{dvb_t2cs2}",
+        "buds_auto_switch": "{buds_auto_switch}",
+        "hdr10_plus": "{hdr10_plus}",
+        "hlg": "{hlg}",
+        "pixel_precise_ultra_hd": "{pixel_precise_ultra_hd}",
+        "youtube": "{youtube}",
+        "netflix": "{netflix}",
+        "amazon_prime_video": "{amazon_prime_video}",
+        "filmmaker_mode": "{filmmaker_mode}",
+        "motion_xcelerator_turbo_plus": "{motion_xcelerator_turbo_plus}",
+        "ambient_mode_plus": "{ambient_mode_plus}",
+        "wireless_dex": "{wireless_dex}",
+        "freesync_premium_pro": "{freesync_premium_pro}"
+    }
+}
+Guidelines:
+
+URL and Title:
+
+url: URL of the product page.
+title: Title or name of the product.
+General Attributes:
+
+warranty_months: Warranty period in months.
+regular_price_mkd: Regular price in MKD (Macedonian denar).
+happy_price_mkd: Discounted price in MKD, if available.
+category: Category of the product (e.g., "televizori").
+device_type: Specify the type of device, in this case, "TV".
+description: The full product description.
+Screen Details:
+
+screen_size_inches: Screen size in inches.
+screen_resolution: Screen resolution (e.g., "3840 x 2160").
+screen_refresh_rate_hz: Screen refresh rate in Hz.
+panel_type: Type of panel (e.g., "QLED", "LED").
+Smart TV Features:
+
+smart_tv_os: Operating system of the smart TV (e.g., "Tizen™").
+processor: Type of processor used in the TV (e.g., "Neural Quantum 4K").
+HDR and Audio:
+
+hdr_technology: HDR technology used (e.g., "HDR10+").
+audio_output_watts: Audio output power in watts (e.g., 60).
+audio_features: Additional audio features (e.g., "Dolby Atmos").
+Connectivity:
+
+hdmi_ports: Number of HDMI ports.
+usb_ports: Number of USB ports.
+lan_ports: Number of LAN ports.
+bluetooth_version: Bluetooth version (e.g., "Bluetooth v5.2").
+wifi_spec: WiFi specification (e.g., "Wi-Fi 802.11n, 2 x 2, Dual band").
+Additional Features:
+
+anti_reflection: Anti-reflection feature.
+ultimate_uhd_dimming: Ultimate UHD dimming feature.
+ultra_viewing_angle: Ultra viewing angle feature.
+ai_upscale: AI upscaling feature.
+dolby_atmos: Dolby Atmos feature.
+adaptive_sound_plus: Adaptive Sound+ feature.
+sound_following_object: Sound following object (OTS Pro) feature.
+q_symphony: Q-Symphony feature.
+picture_in_picture: Picture-in-picture feature.
+e_arc: eARC feature.
+dual_audio_support: Dual audio support feature.
+dvb_t2cs2: DVB-T2CS2 feature.
+buds_auto_switch: Buds Auto Switch feature.
+hdr10_plus: HDR10+ feature.
+hlg: HLG feature.
+pixel_precise_ultra_hd: Pixel Precise Ultra HD feature.
+youtube: YouTube feature.
+netflix: Netflix feature.
+amazon_prime_video: Amazon Prime Video feature.
+filmmaker_mode: Filmmaker Mode (FMM) feature.
+motion_xcelerator_turbo_plus: Motion Xcelerator Turbo+ feature.
+ambient_mode_plus: Ambient Mode+ feature.
+wireless_dex: Wireless Dex feature.
+freesync_premium_pro: FreeSync Premium Pro feature.
+Example Product Descriptions:
+
+Samsung 75" Neo QLED TV:
+{
+    "url": "https://www.neptun.mk/categories/televizori/SAMSUNG-QE-75-QN90-CATXXH",
+    "title": "4К NEO QLED UHD SMART TV SAMSUNG QE 75 QN90 CATXXH 75\"(190.5CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 219999,
+    "happy_price_mkd": 139995,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "75\"(190.5cm) 4К NEO QLED UHD Smart TV\nРезолуција:3,840 x 2,160\nRefresh Rate: 120Hz\nТехнологија Quantum Matrix Technology\nAnti Reflection\nUltimate UHD Dimming\nUltra Viewing Angle\nПроцесор Neural Quantum 4K\nNeo Quantum HDR+\nMotion Xcelerator Turbo+\nFilmmaker Mode (FMM)\nAI Upscale\nDolby Atmos\nАдаптивен звук+\nЗвук кој го следи објектот OTS Pro\nQ-Symphony\nИзлез за звук (RMS):60W\nВуфер\nОперативен систем:Tizen™\nАмбиентален режим+\nWireless Dex\nFreeSync Premium Pro\nСлика во слика\n4 x HDMI,2 x USB, eARC,LAN, CI+(1.4), Bluetooth v5.2\nDual Audio Support (Bluetooth)\nDVB-T2CS2 x 2\nBuds Auto Switch",
+    "features":{
+        "screen_size_inches": 75,
+        "screen_resolution": "3840 x 2160",
+        "screen_refresh_rate_hz": 120,
+        "panel_type": "QLED",
+        "smart_tv_os": "Tizen™",
+        "processor": "Neural Quantum 4K",
+        "hdr_technology": "Neo Quantum HDR+",
+        "audio_output_watts": 60,
+        "audio_features": "Dolby Atmos, Adaptive Sound+, OTS Pro, Q-Symphony",
+        "hdmi_ports": 4,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth v5.2",
+        "wifi_spec": "Wi-Fi 802.11n, 2 x 2, Dual band",
+        "anti_reflection": "Yes",
+        "ultimate_uhd_dimming": "Yes",
+        "ultra_viewing_angle": "Yes",
+        "ai_upscale": "Yes",
+        "dolby_atmos": "Yes",
+        "adaptive_sound_plus": "Yes",
+        "sound_following_object": "Yes",
+        "q_symphony": "Yes",
+        "picture_in_picture": "Yes",
+        "e_arc": "Yes",
+        "dual_audio_support": "Yes",
+        "dvb_t2cs2": "Yes",
+        "buds_auto_switch": "Yes",
+        "filmmaker_mode": "Yes",
+        "motion_xcelerator_turbo_plus": "Yes",
+        "ambient_mode_plus": "Yes",
+        "wireless_dex": "Yes",
+        "freesync_premium_pro": "Yes"
+    }
+}
+Philips 50" LED TV:
+{
+    "url": "https://www.neptun.mk/categories/televizori/PHILIPS-50-PUS-7608",
+    "title": "4K UHD LED SMART TV PHILIPS 50 PUS 7608, 50\"(127CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 25999,
+    "happy_price_mkd": 22999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "50\"(127cm) 4k UHD LED SMART TV\nРезолуција:3840 x 2160\nDual Core процесор\nDolby Vision and Dolby Atmos\nЗвучник:20W\nHDR10+/HLG\nPixel Precise Ultra HD\nDolby Vision\nYouTube, Netflix TV, Amazon Prime Video\nКонекција:\n3 x HDMI, 2 x USB, CI+, LAN\nWi-Fi 802.11n, 2 x 2, Dual band\nBluetooth 5.0\nDVB-T/T2/T2-HD/C/S/S2",
+    "features": {
+        "screen_size_inches": 50,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "LED",
+        "processor": "Dual Core",
+        "hdr_technology": "HDR10+/HLG, Dolby Vision",
+        "audio_output_watts": 20,
+        "audio_features": "Dolby Atmos",
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth 5.0",
+        "wifi_spec": "Wi-Fi 802.11n, 2 x 2, Dual band",
+        "hdr10_plus": "Yes",
+        "hlg": "Yes",
+        "pixel_precise_ultra_hd": "Yes",
+        "youtube": "Yes",
+        "netflix": "Yes",
+        "amazon_prime_video": "Yes"
+    }
+}
+Usage Instructions:
+
+Replace placeholder values with the extracted information from the product description.
+Ensure all numerical values are appropriate types (e.g., integers or floats).
+If a feature is not found, omit the corresponding key-value pair from the JSON.
+
+
+
+
+

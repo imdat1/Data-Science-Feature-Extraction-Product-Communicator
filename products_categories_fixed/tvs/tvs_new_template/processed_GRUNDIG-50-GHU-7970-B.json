@@ -1,0 +1,26 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/GRUNDIG-50-GHU-7970-B",
+    "title": "4K UHD SMART TV GRUNDIG 50 GHU7970B, 50\"(127CM), ANDROID TV",
+    "warranty_months": 24,
+    "regular_price_mkd": 23999,
+    "happy_price_mkd": 21999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "50\"(127cm) 4k UHD SMART TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(3840x2160pix)\nAndroid TV\nQuad Core Processor\n850 Hz PPR\nUSB Recording\nOIV \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0442\nDTS \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0438\u0458\u0430\nHDR High Dynamic Range\n\u0417\u0432\u0443\u0447\u043d\u0438\u0446\u0438:  2 x 10/20 W\n3xHDMI,2xUSB\nDVB-T2/C/S2\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d Wi-Fi",
+    "features": {
+        "screen_size_inches": 50,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": null,
+        "smart_tv_os": "Android TV",
+        "processor": "Quad Core Processor",
+        "hdr_technology": "HDR High Dynamic Range",
+        "audio_output_watts": 20,
+        "audio_features": "DTS",
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": null,
+        "bluetooth_version": null,
+        "wifi_spec": "\u0412\u0433\u0440\u0430\u0434\u0435\u043d Wi-Fi",
+        "dvb_t2cs2": "DVB-T2/C/S2"
+    }
+}

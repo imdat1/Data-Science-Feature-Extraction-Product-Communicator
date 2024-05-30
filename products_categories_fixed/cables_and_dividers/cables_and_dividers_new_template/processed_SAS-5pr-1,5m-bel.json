@@ -1,0 +1,16 @@
+{
+    "url": "https://www.neptun.mk/categories/KABLI_I_RAZDELNICI/SAS-5pr-1,5m-bel",
+    "title": "\u041f\u0420\u041e\u0414\u041e\u041b\u0416\u0415\u041d \u041a\u0410\u0411\u0415\u041b SAS 5PR/1,5M-\u0411\u0415\u041b",
+    "warranty_months": 72,
+    "regular_price_mkd": 649,
+    "happy_price_mkd": null,
+    "category": "KABLI_I_RAZDELNICI",
+    "description": "Cable type: 3 x 1.5mm\u00b2\nMax load: 3500W\nVoltage: 230V\nVolume: 16A",
+    "device_type": "Cable or Divider",
+    "features": {
+        "number_of_sockets": null,
+        "max_power_watts": 3500,
+        "voltage_volts": 230,
+        "cable_length_meters": 1.5
+    }
+}

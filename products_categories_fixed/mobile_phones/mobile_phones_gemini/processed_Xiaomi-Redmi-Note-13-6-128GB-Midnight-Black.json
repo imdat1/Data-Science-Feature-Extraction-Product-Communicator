@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-Note-13-6-128GB-Midnight-Black",
+    "title": "XIAOMI REDMI NOTE 13, 6.67\", 6/128GB, 108+8+2/16MP, 5000 MAH MIDNIGHT BLACK",
+    "warranty": "24",
+    "regular_price": 13499,
+    "happy_price": 11999,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 13, MIUI 14",
+        "Display Size": "6.67\"",
+        "Resolution": "1080 x 2400 pixels, FHD+, AMOLED, 120Hz",
+        "Display Protection": "Corning Gorilla Glass 3",
+        "Water Resistance": "IP54",
+        "Chipset": "Qualcomm SM6225 Snapdragon 685 (6 nm)",
+        "CPU": "Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53)",
+        "GPU": "Adreno 610",
+        "Internal Memory": "128GB",
+        "RAM": "6GB",
+        "Primary Camera 1": "108 MP, f/1.7, (wide), 0.64µm, PDAF",
+        "Primary Depth Camera": "2 MP, f/2.4, (depth)",
+        "Secondary Camera": "16 MP, f/2.4, (wide)",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Bluetooth",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "USB": "Type-C 2.0, OTG",
+        "Fast Charging": "33W wired",
+        "Battery": "Li-Po 5000 mAh"
+    },
+    "category": "mobile_phones"
+}

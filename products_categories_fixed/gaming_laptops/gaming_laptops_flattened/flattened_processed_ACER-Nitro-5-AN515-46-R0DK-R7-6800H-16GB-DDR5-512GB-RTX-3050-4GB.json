@@ -1,0 +1,21 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ACER-Nitro-5-AN515-46-R0DK-R7-6800H-16GB-DDR5-512GB-RTX-3050-4GB",
+    "title": "Лаптоп ACER Nitro 5 AN515-46-R0DK R7-6800H/16GB/512GB/RTX 3050",
+    "warranty": "24",
+    "regular_price": 63999,
+    "happy_price": 60999,
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(1920x1080) FHD IPS 144Hz",
+        "Processor": "AMD Ryzen™ 7 6800H (8C, 16T, 3.2 - 4.7GHz, L3 16MB)",
+        "Graphics": "NVIDIA® GeForce RTX™ 3050 4G-GDDR6",
+        "RAM": "16 GB DDR5",
+        "Storage": "512GB PCIe NVMe SED SSD",
+        "Operating System": "Без оперативен систем",
+        "Wireless": "Wi-Fi 6E, Bluetooth 5.2",
+        "Camera": "HD USB Camera",
+        "Battery": "57Wh Li-ion battery",
+        "Power Adapter": "230W"
+    },
+    "category": "gaming_laptops"
+}

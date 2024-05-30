@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/ACER-Swift-GO-14-SFG314-42-R06D-14--OLED-R7-7840U-16GB-DDR5-512GB-WIN11",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ACER SWIFT GO 14 SFG314-42-R06D 14\" OLED R7-7840U/16GB DDR5/512GB/WIN11",
+    "warranty_months": 24,
+    "regular_price_mkd": 64999,
+    "happy_price_mkd": 56999,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0458:14.0\" (35.5cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(2880x1800) 2.8K OLED 90Hz, 400 nits\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:AMD Ryzen 7 7840U\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430:AMD Radeon\u00ae Graphics\nRAM \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430: 16 GB LPDDR5 5200MHz\n\u0414\u0438\u0441\u043a (Storage): 512GB PCIe NVMe SSD\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c: Windows 11 Home\nWi-Fi 6E\nBluetooth 5.2\n\u041a\u0430\u043c\u0435\u0440\u0430:HD 720p\nBacklit Keyboard\n\u041f\u0440\u0438\u043a\u043b\u0443\u0447\u043e\u0446\u0438:\n1x USB type C\n2x USB USB 3.2\n1x HDMI\n1x LAN (RJ45)\n1x Headphone/speaker jack\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430: 65Wh Li-ion battery\n\u0422\u0435\u0436\u0438\u043d\u0430: 1.78kg",
+    "features": {
+        "screen_size_inches": 14.0,
+        "screen_resolution": "2880x1800",
+        "screen_refresh_rate_hz": 90,
+        "screen_brightness_nits": 400,
+        "screen_type": "OLED",
+        "processor_model": "AMD Ryzen 7 7840U",
+        "gpu_model": "AMD Radeon\u00ae Graphics",
+        "ram_size_gb": 16,
+        "ram_type": "LPDDR5",
+        "storage_size_gb": 512,
+        "storage_type": "PCIe NVMe SSD",
+        "operating_system": "Windows 11 Home",
+        "wifi_standard": "Wi-Fi 6E",
+        "bluetooth_version": 5.2,
+        "usb_type_c_ports": 1,
+        "usb_type_a_ports": 2,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1,
+        "keyboard_type": "Backlit Keyboard",
+        "battery_capacity_wh": 65
+    }
+}

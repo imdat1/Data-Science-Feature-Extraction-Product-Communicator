@@ -1,0 +1,31 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/Gigabyte-G6-KF-16--i7-13620H-16GB-512GB-RTX-4060-8GB",
+    "title": "ЛАПТОП GIGABYTE G6 KF 16\" I7-13620H/16GB/512GB/RTX 4060 8GB",
+    "regular_price": 79999,
+    "happy_price": 70999,
+    "warranty": "24",
+    "features": {
+        "Display": "16\"(40.64cm)",
+        "Resolution": "(1920x1200) WUXGA 165Hz Thin Bezel",
+        "Processor": "13th Gen Intel® Core™ i7-13620H Processor 4.9 GHz (24MB Cache, up to 4.9 GHz, 6 P-cores and 4 E- cores)",
+        "Graphics": "NVIDIA® GeForce RTX™ 4060 Laptop GPU 8GB GDDR6",
+        "RAM": "16GB DDR5-4800",
+        "Storage": "512GB M.2 PCIe Gen4x4*1",
+        "Operating System": "Без оперативен систем",
+        "Wireless": "Intel® Wi-Fi 6E, Bluetooth® V5.2",
+        "Camera": "HD video camera",
+        "Audio": "2x 2W speakers, Mikrofon, DTS:X® Ultra Audio Technology",
+        "USB Ports": "1 x USB 2.0 port (Type A), 1 x USB 3.2 Gen 1 port (Type A), 2 x USB 3.2 Gen 2 port (Type C)",
+        "Display Port": "1 x Mini DP 1.4",
+        "HDMI Port": "1 x HDMI™ (with HDCP)",
+        "Headset Port": "1 x 2-in-1 Audio Jack (Headphone / Microphone)",
+        "Microphone Port": "1 x Microphone Jack",
+        "RJ45 Ethernet Port": "1 x RJ-45 LAN port",
+        "DC-in Port": "1 x DC-in jack",
+        "MicroSD Card Reader": "1 x MicroSD Card Reader",
+        "Battery": "Lithium-Ion 54Wh",
+        "Power Adapter": "150W",
+        "Weight": "~2.3kg"
+    },
+    "category": "gaming_laptops"
+}

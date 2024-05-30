@@ -1,0 +1,26 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-ROG-Strix-G16-G614JI-N3093-16--i7-13650HX-16GB-DDR5-1TB-RTX-4070-8GB",
+    "title": "",
+    "warranty": "24",
+    "regular_price": "114.999",
+    "happy_price": "105.999",
+    "features": {
+        "Display": "16'' (40.6cm)",
+        "Resolution": "(1920 x 1200) WUXGA, IPS, 165Hz",
+        "Processor": "Intel Core i7-13650HX, 2.6 GHz 24M Cache, up to 4.9 GHz, 14 cores",
+        "Graphics": "NVIDIA GeForce RTX 4070 8GB GDDR6\nNVIDIA G-Sync",
+        "RAM": "16GB DDR5",
+        "Storage": "1TB PCIe 4.0 NVMe M.2 SSD",
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c",
+        "LAN": "10/100/1000 Mbps",
+        "Wireless": "Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth 5.2",
+        "Ports": "1x RJ45 LAN port\n1x Thunderbolt 4 support DisplayPort\n1x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery / G-SYNC\n2x USB 3.2 Gen 2 Type-A\n1x HDMI 2.1 FRL\n1x 3.5mm Combo Audio Jack",
+        "Camera": "720P HD camera",
+        "Microphone": "Yes",
+        "Speakers": "2 speakers with Smart Amplifier Technology",
+        "Audio": "Tech AI noise-canceling\nDolby Atmos\nHi-Res certification\nAI noise-canceling technology\nDolby Atmos\nSmart Amp Technology",
+        "Security": "BIOS Administrator Password and User Password Protection",
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion",
+        "Power Adapter": "280W"
+    }
+}

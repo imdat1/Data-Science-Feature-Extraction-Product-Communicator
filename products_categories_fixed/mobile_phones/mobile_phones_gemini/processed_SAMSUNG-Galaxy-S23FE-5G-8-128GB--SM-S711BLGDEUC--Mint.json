@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-Galaxy-S23FE-5G-8-128GB--SM-S711BLGDEUC--Mint",
+    "title": "SAMSUNG GALAXY S23FE 5G, 6.4\", 8/128GB, 50MP+8MP+12MP/10MP, 4500 MAH MINT",
+    "warranty": "24",
+    "regular_price": 41999,
+    "happy_price": 38999,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 13, up to Android 14, One UI 6",
+        "Display Size": "6.4\"",
+        "Resolution": "1080x2340 pixels, Dynamic AMOLED 2X, 120Hz, HDR10+, 1450 nits (peak)",
+        "Display Protection": "Corning Gorilla Glass 5",
+        "Chipset": "Exynos 2200 (4 nm)",
+        "CPU": "Octa-core (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510)",
+        "GPU": "Xclipse 920",
+        "Internal Memory": "128GB",
+        "RAM": "8GB",
+        "Primary Camera 1": "50 MP, f/1.8, 24mm (wide), PDAF, OIS",
+        "Primary Telephoto Camera": "8 MP, f/2.4, 75mm (telephoto), PDAF, OIS, 3x optical zoom",
+        "Primary Ultrawide Camera": "12 MP, f/2.2, 123° (ultrawide)",
+        "Secondary Camera": "10 MP, f/2.4, 26mm (wide)",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+        "Bluetooth": "Bluetooth: 5.3, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "USB": "Type-C, OTG",
+        "Battery": "Li-Ion 4500 mAh",
+        "Fast Charging": "25W wired, PD2.0, 50% in 30 min"
+    },
+    "category": "mobile_phones"
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/SAMSUNG-UE-55-CU-7172-UXXH",
+    "title": "4\u041a UHD SMART TV SAMSUNG UE 55 CU 7172 UXXH, 55\" (139.7CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 32999,
+    "happy_price_mkd": 25499,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "55\" (139.7cm) 4\u041a UHD Smart TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:3.840 x 2.160\nOperating System Tizen\u2122\nCrystal Processor 4K\nHDR 10+\nUHD Dimming\nQ-Syphony\n2CH audio\nDual Audio Support (Bluetooth)\nFilmmaker Mode (FMM)\nMultiroom Link\nWireless Dex\n3xHDMI,1xUSB,eARC,LAN, CI, Digital Audio Out\nBluetooth 5.2\nDVB-T2/C/S2\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d Wi-Fi",
+    "features": {
+        "screen_size_inches": 55,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": null,
+        "smart_tv_os": "Tizen\u2122",
+        "processor": "Crystal Processor 4K",
+        "hdr_technology": "HDR 10+",
+        "audio_output_watts": null,
+        "audio_features": "2CH audio, Q-Syphony",
+        "hdmi_ports": 3,
+        "usb_ports": 1,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth 5.2",
+        "wifi_spec": "Wi-Fi 802.11n, 2 x 2, Dual band",
+        "filmmaker_mode": "Yes",
+        "wireless_dex": "Yes",
+        "dual_audio_support": "Yes",
+        "dvb_t2cs2": "Yes"
+    }
+}

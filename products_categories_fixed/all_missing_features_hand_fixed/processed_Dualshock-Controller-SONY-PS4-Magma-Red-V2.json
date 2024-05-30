@@ -1,0 +1,22 @@
+{
+    "url": "https://www.neptun.mk/categories/DODATOCI_ZA_KONZOLI/Dualshock-Controller-SONY-PS4-Magma-Red-V2",
+    "title": "Dualshock Controller SONY PS4 Magma Red V2",
+    "warranty_months": null,
+    "regular_price_mkd": 3699,
+    "happy_price_mkd": null,
+    "category": "DODATOCI_ZA_KONZOLI",
+    "device_type": "Controller",
+    "description": [],
+    "features": {
+        "color": "Magma Red",
+        "compatibility": "PS4",
+        "connection": "Wireless",
+        "vibration": "Yes",
+        "touchpad": "Yes",
+        "battery": "Built-in",
+        "battery_life_minutes": 480,
+        "charging": "USB",
+        "weight_g": 210,
+        "dimensions": "162 x 52 x 98 mm"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/ACER-Extensa-15-EX215-23-R1YZ-R3-7320U-8GB-DDR5-512GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ACER EXTENSA 15 EX215-23-R1YZ R3-7320U/8GB DDR5/512GB",
+    "warranty_months": 24,
+    "regular_price_mkd": 22999,
+    "happy_price_mkd": 19499,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0439:15.6\" (39.6cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(1920 x 1080) FHD\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Ryzen 3 7320U, 2.40GHz\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430:AMD Radeon\u00ae Graphics\nRAM \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:8GB LPDDR5\n\u0414\u0438\u0441\u043a (Storage):512GB PCIe NVMe SSD\nLAN:IEEE 802.11 a/b/g/n/ac/ax\nGigabit Ethernet\nBluetooth 5.1\n\u041f\u043e\u0440\u0442\u0438\u043a\u043b\u0443\u0447\u043e\u0432\u0438:\n1 x HDMI\n2 x USB 3.2 Gen 1 Tipe-A\n1 x USB 3.2 Gen 2 Tipe-C\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d \u043c\u0438\u043a\u0440\u043e\u0444\u043e\u043d\n\u0411\u0440\u043e\u0458 \u043d\u0430 \u0432\u0433\u0440\u0430\u0434\u0435\u043d\u0438 \u0437\u0432\u0443\u0447\u043d\u0438\u0446\u0438: x2\n\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:42Wh Li-Polymer\n\u041c\u043e\u045c\u043d\u043e\u0441\u0442 \u043d\u0430 \u043d\u0430\u043f\u043e\u0458\u0443\u0432\u0430\u0447: 45W",
+    "features": {
+        "screen_size_inches": 15.6,
+        "screen_resolution": "1920 x 1080",
+        "processor_model": "Ryzen 3 7320U",
+        "processor_cores": null,
+        "processor_base_clock_ghz": 2.4,
+        "processor_max_clock_ghz": null,
+        "gpu_model": "AMD Radeon\u00ae Graphics",
+        "gpu_memory_gb": null,
+        "ram_size_gb": 8,
+        "ram_type": "LPDDR5",
+        "storage_size_gb": 512,
+        "storage_type": "PCIe NVMe SSD",
+        "wifi_standard": "IEEE 802.11 a/b/g/n/ac/ax",
+        "bluetooth_version": 5.1,
+        "usb_type_c_ports": 1,
+        "usb_type_a_ports": 2,
+        "hdmi_ports": 1
+    }
+}

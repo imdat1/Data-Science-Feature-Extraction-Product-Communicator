@@ -1,0 +1,27 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/HONOR-Magic6-Lite-5G-8-256GB--Ali-N21D--Sunrise-Orange",
+    "title": "HONOR MAGIC6 LITE 5G, 6.67\", 8/256GB, 108+5+2/16MP, 5300MAH, SUNRISE ORANGE",
+    "warranty": "24",
+    "regular_price": 24499,
+    "happy_price": 20699,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 13, Magic OS 7.2",
+        "Display Size": "6.78\"",
+        "Resolution": "1220 x 2652 pixels, AMOLED, 1B colors, 120Hz, 1200 nits (peak)",
+        "Chipset": "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710",
+        "Internal Memory": "256GB",
+        "RAM": "8GB",
+        "Primary Camera 1": "108 MP, f/1.8, (wide), 1/1.67\", PDAF",
+        "Primary Ultrawide Camera": "5 MP, f/2.2, (ultrawide)",
+        "Primary Macro Camera": "2 MP, f/2.4, (macro)",
+        "Secondary Camera": "16 MP, f/2.5, (wide)",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "USB": "Type-C 2.0, OTG",
+        "Fast Charging": "35W wired",
+        "Battery": "5300mAh"
+    },
+    "category": "mobile_phones"
+}

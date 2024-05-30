@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/HP-250-G10-i3-1315U-8GB-512GB-85C52EA",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f HP 250 G10 I3-1315U/8GB/512GB 85C52EA",
+    "warranty_months": 12,
+    "regular_price_mkd": 25999,
+    "happy_price_mkd": 22499,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0458:15.6\" (39.6cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(1920 x 1080) FHD , IPS, anti-glare, 250 nits, 45% NTSC\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Intel\u00ae Core\u2122 i3-1315U (up to 4.5 GHz with Intel\u00ae Turbo Boost Technology, 10 MB L3 cache, 6 cores, 8 threads)\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430:Intel\u00ae UHD Graphics\nRAM \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430: 8 GB DDR4-3200 MHz RAM (1 x 8 GB)\n\u0414\u0438\u0441\u043a (Storage): 512 GB PCIe\u00ae NVMe\u2122 SSD\n\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c (FreeDOS)\n\u041a\u0430\u043c\u0435\u0440\u0430:     720p HD camera\nWi-Fi: Realtek Wi-Fi 6 RTL8852BE (2x2)\nBluetooth\u00ae 5.3\n\u041f\u043e\u0440\u0442\u0438:\n1 USB Type-C\u00ae 5Gbps signaling rate\n2 USB Type-A 5Gbps signaling rate\n1 AC power\n1 HDMI 1.4b\n1 stereo headphone/microphone combo jack\nPower:HP Smart 45 W External AC power adapter\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:3-cell, 41 Wh Li-ion",
+    "features": {
+        "screen_size_inches": 15.6,
+        "screen_resolution": "1920 x 1080",
+        "screen_brightness_nits": 250,
+        "screen_type": "IPS",
+        "processor_model": "Intel\u00ae Core\u2122 i3-1315U",
+        "processor_cores": 6,
+        "processor_threads": 8,
+        "processor_base_clock_ghz": null,
+        "processor_max_clock_ghz": 4.5,
+        "gpu_model": "Intel\u00ae UHD Graphics",
+        "ram_size_gb": 8,
+        "ram_type": "DDR4-3200",
+        "storage_size_gb": 512,
+        "storage_type": "PCIe\u00ae NVMe\u2122 SSD",
+        "wifi_standard": "Wi-Fi 6",
+        "bluetooth_version": 5.3,
+        "usb_type_c_ports": 1,
+        "usb_type_a_ports": 2,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1
+    }
+}

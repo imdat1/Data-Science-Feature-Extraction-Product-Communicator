@@ -1,0 +1,19 @@
+{
+    "url": "https://www.neptun.mk/categories/AKCIONI_KAMERI/MOYE-Venture-4K",
+    "title": "\u0410\u043a\u0446\u0438\u043e\u043d\u0430 \u043a\u0430\u043c\u0435\u0440\u0430 MOYE VENTURE 4K",
+    "warranty_months": 24,
+    "regular_price_mkd": 5999,
+    "happy_price_mkd": null,
+    "category": "AKCIONI_KAMERI",
+    "device_type": "Camera",
+    "description": "\u0410\u043a\u0446\u0438\u043e\u043d\u0430 \u043a\u0430\u043c\u0435\u0440\u0430\n\u0414\u0438\u0441\u043f\u043b\u0435\u0439: 2\"\nWi-Fi\n\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u043d\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430: Polymer lithium(1050 mAh)\n\u0412\u0440\u0435\u043c\u0435 \u043d\u0430 \u043f\u043e\u043b\u043d\u0435\u045a\u0435: 1.5h\n\u0414\u0438\u043c\u0435\u043d\u0437\u0438\u0438: 59.4 x 30.8 x 41.3mm",
+    "features": {
+        "display_inches": 2,
+        "wifi": true,
+        "microphone": true,
+        "battery": "Polymer lithium",
+        "battery_capacity_mah": 1050,
+        "charging_time_minutes": 90,
+        "dimensions": "59.4x30.8x41.3mm"
+    }
+}

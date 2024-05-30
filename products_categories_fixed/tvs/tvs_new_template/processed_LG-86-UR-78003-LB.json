@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/LG-86-UR-78003-LB",
+    "title": "4K UHD DLED SMART TV LG 86 UR 78003 LB, 86\"(218.4CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 109999,
+    "happy_price_mkd": 96999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "86\"(218.4cm) 4k UHD DLED SMART TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(3840 x 2160)\n\u03b15 Gen6 AI 4K \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u0440\nDirect LED \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0458\u0430\nNano Color\nThinQ AI\nDolby Vision IQ /  FILMMAKER\nHDR 10 PRO\nwebOS Smart TV\nHDMI 2.1\nWiFi / Bluetooth\n\u0417\u0432\u0443\u0447\u043d\u0438\u0446\u0438: 20W\nAirplay2 & Homekit\nHLG PRO\n3 x HDMI,2xUSB,LAN,eARC, CI Slot, Bluetooth\nDVB-T2/C/S2",
+    "features": {
+        "screen_size_inches": 86,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "DLED",
+        "smart_tv_os": "webOS",
+        "processor": "\u03b15 Gen6 AI 4K",
+        "hdr_technology": "HDR 10 PRO, Dolby Vision IQ",
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "bluetooth_version": "Bluetooth",
+        "wifi_spec": "WiFi",
+        "dolby_atmos": "Yes",
+        "e_arc": "Yes",
+        "dvb_t2cs2": "Yes",
+        "hdr10_plus": "Yes",
+        "hlg": "Yes",
+        "airplay": "Yes",
+        "homekit": "Yes"
+    }
+}

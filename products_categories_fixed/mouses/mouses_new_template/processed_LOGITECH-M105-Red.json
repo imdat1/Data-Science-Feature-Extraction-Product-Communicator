@@ -1,0 +1,17 @@
+{
+    "url": "https://www.neptun.mk/categories/GLUVCINA/LOGITECH-M105-Red",
+    "title": "MOUSE LOGITECH M105 RED",
+    "warranty_months": 24,
+    "regular_price_mkd": 869,
+    "happy_price_mkd": 699,
+    "category": "GLUVCINA",
+    "description": "Optical mouse\nResolution:1000dpi\nButtons:3+Scroll\nUSB",
+    "features": {
+        "device_type": "Mouse",
+        "connection_type": "USB",
+        "dpi": 1000,
+        "tracking_technology": "\u043e\u043f\u0442\u0438\u0447\u043a\u0438",
+        "buttons_count": 3,
+        "scroll_wheel": "Yes"
+    }
+}

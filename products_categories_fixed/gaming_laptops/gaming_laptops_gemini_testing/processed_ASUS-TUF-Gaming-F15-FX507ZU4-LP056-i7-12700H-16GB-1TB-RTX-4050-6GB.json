@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-TUF-Gaming-F15-FX507ZU4-LP056-i7-12700H-16GB-1TB-RTX-4050-6GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ASUS TUF GAMING F15 FX507ZU4-LP056 I7-12700H/16GB/1TB/RTX 4050 6GB",
+    "warranty": "24",
+    "regular_price": "79.999",
+    "happy_price": "69.999",
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(1920 x 1080) FHD IPS 144Hz",
+        "Processor": "12th Gen Intel Core i7-12700H Processor 2.3 GHz (24M Cache, up to 4.7 GHz, 14 cores:)",
+        "Graphics": "NVIDIA GeForce RTX 4050 6GB GDDR6",
+        "RAM": "16GB DDR4",
+        "Storage": "1TB PCIe 4.0 NVMe M.2 SSD",
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c",
+        "Wireless": "Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth 5.2",
+        "Camera": "720P HD",
+        "Audio": "2-speaker system\nAI noise-canceling technology\nDolby Atmos\nHi-Res certification\nSupport Microsoft Cortana near field/Far field",
+        "Keyboard": "Backlit Chiclet Keyboard 1-Zone RGB",
+        "Headset Port": "1x 3.5mm Combo Audio Jack",
+        "RJ45 Ethernet Port": "1x RJ45 LAN port",
+        "Thunderbolt Port": "1x Thunderbolt 4 support DisplayPort",
+        "USB-C Port with DisplayPort": "1x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery / G-SYNC",
+        "USB-A Ports": "2x USB 3.2 Gen 1 Type-A",
+        "HDMI Port": "1x HDMI 2.1 FRL",
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion",
+        "Power Adapter": "240W AC Adapter"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ACER-Nitro-5-AN517-55-73PG-17-3--i7-12700H-16GB-512GB-RTX-3060-6GB",
+    "title": "ACER NITRO 5 AN517-55-73PG 17.3\" I7-12700H/16GB/512GB/RTX 3060 6GB",
+    "regular_price": 88999,
+    "happy_price": 81999,
+    "warranty": "24",
+    "features": {
+        "Display": "17.3\" (43.9cm)",
+        "Resolution": "1920 x 1080 FHD LED 144 Hz",
+        "Processor": "Intel Core i7-12700H (up to 4.7 GHz, 24 MB Intel® Smart Cache, 14 cores, 20 threads)",
+        "Graphics": "NVIDIA® GeForce® RTX™ 3060  6GB GDDR6",
+        "RAM": "16 GB",
+        "Storage": "512GB SSD",
+        "Wireless": "IEEE 802.11 a/b/g/n/ac/ax, Bluetooth 5.2, Gigabit Ethernet",
+        "Microphone": true,
+        "Headset Port": false,
+        "RJ45 Ethernet Port": "1 x RJ-45 port",
+        "USB Ports": "1 x USB 3.2 Gen 1 Type A, 2 x USB 3.2 Gen 2 Type A, 1 x USB 3.2 Gen 2 Type C",
+        "HDMI Port": "1 x HDMI port",
+        "Battery": "4 cell - Li-Ion"
+    },
+    "category": "gaming_laptops"
+}

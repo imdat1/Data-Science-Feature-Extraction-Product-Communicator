@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/SAMSUNG-Frame-QE-75-LS03-BAUXXH",
+    "title": "QLED FRAME 4\u041a SMART TV SAMSUNG FRAME QE 75 LS03BAUXXH, 75\" (190.5CM), QUANTUM 4K, WIFI",
+    "warranty_months": 24,
+    "regular_price_mkd": 191999,
+    "happy_price_mkd": 126995,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "75\" (190.5cm) QLED Frame 4\u041a Smart TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:3,840 x 2,160\nQuantum 4K processor\nDual LED\n3100Hz PQI Picture Quality Index\nOperating System Tizen\u2122\nSuperior UHD dimming\nFilmmaker Mode (FMM)\nQ-Symphony\n\u0410\u0443\u0434\u0438\u043e \u0438\u0437\u043b\u0435\u0437 (RMS):20 W\n\u0410\u0434\u0430\u043f\u0442\u0438\u0432\u0435\u043d \u0437\u0432\u0443\u043a +\n\u0410\u043c\u0431\u0438\u0435\u043d\u0442\u0430\u043b\u0435\u043d \u0440\u0435\u0436\u0438\u043c +\nWifi Dex\n4xHDMI,2xUSB,CI \u0441\u043b\u043e\u0442, LAN, eARC\nBluetooth v5.2\nDVB-T2/C/S2\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d Wi-Fi",
+    "features": {
+        "screen_size_inches": 75,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "QLED",
+        "smart_tv_os": "Tizen\u2122",
+        "hdr_technology": "Superior UHD dimming",
+        "audio_output_watts": 20,
+        "audio_features": "Adaptive Sound+, Ambient Mode+",
+        "hdmi_ports": 4,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth v5.2",
+        "wifi_spec": "Wi-Fi 802.11n, 2 x 2, Dual band",
+        "filmmaker_mode": "Yes",
+        "q_symphony": "Yes",
+        "wireless_dex": "Yes",
+        "dvb_t2cs2": "Yes"
+    }
+}

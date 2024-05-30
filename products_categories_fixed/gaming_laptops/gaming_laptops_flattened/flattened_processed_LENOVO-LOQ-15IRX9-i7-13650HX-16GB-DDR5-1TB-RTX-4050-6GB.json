@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/LENOVO-LOQ-15IRX9-i7-13650HX-16GB-DDR5-1TB-RTX-4050-6GB",
+    "title": "Лаптоп LENOVO LOQ 15IRX9 i7-13650HX/16GB DDR5/1TB/RTX 4050 6GB",
+    "warranty": "24",
+    "regular_price": 71999,
+    "happy_price": 65999,
+    "features": {
+        "Display": "15.6\" (39.5cm)",
+        "Resolution": "(1920 x 1080) FHD, IPS, 300nits, Anti-glare, 144Hz, G-SYNC®",
+        "Processor": "Intel® Core™ i7-13650HX, 14C (6P + 8E) / 20T, P-core 2.6 / 4.9GHz, E-core 1.9 / 3.6GHz, 24MB",
+        "Graphics": "NVIDIA® GeForce RTX™ 4050 6GB GDDR6, Boost Clock 2370MHz, TGP 105W",
+        "RAM": "16GB DDR5-4800",
+        "Storage": "1TB SSD M.2 2242 PCIe® 4.0x4 NVMe®",
+        "Wireless": "Wi-Fi® 6, 11ax 2x2 + BT5.2",
+        "Audio": "High Definition (HD) Audio, Realtek® ALC3287 codec",
+        "Speakers": "Stereo speakers, 2W x2, optimized with Nahimic Audio",
+        "Camera": "FHD 1080p with E-shutter",
+        "Microphone": "2x, Array",
+        "Headset Port": "1 x Headset (headphone and microphone combo) jack (3.5mm)",
+        "RJ45 Ethernet Port": "1 x Ethernet (RJ-45)",
+        "USB Ports": "3 x USB-A (USB 5Gbps / USB 3.2 Gen 1)\n1 x USB-C® (USB 10Gbps / USB 3.2 Gen 2), with PD 140W and DisplayPort™ 1.4",
+        "HDMI Port": "1 x HDMI® 2.1, up to 8K/60Hz",
+        "USB-C Port": "1 x USB-C (USB 10Gbps / USB 3.2 Gen 2), with PD 140W and DisplayPort™ 1.4",
+        "Display Port": "Yes",
+        "Power Adapter": "170W Slim Tip (3-pin)",
+        "Battery": "Integrated 60Wh"
+    },
+    "category": "gaming_laptops"
+}

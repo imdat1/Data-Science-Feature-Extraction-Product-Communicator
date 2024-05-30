@@ -1,0 +1,27 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-11-64GB-White-mwlu2se-a",
+    "title": "IPHONE 11 64GB WHITE",
+    "warranty": "12",
+    "regular_price": 35990,
+    "happy_price": 27999,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "iOS iOS 13, upgradable to iOS 13.1.2",
+        "Display Size": "6.1\" Liquid Retina IPS",
+        "Resolution": "828 x 1792 pixels",
+        "Motion Coprocessor": "Embedded M11 motion coprocessor",
+        "Chipset": "Apple A13 Bionic (7 nm+)",
+        "CPU": "Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder)",
+        "Internal Memory": "64GB",
+        "RAM": "4GB",
+        "Primary Camera 1": "12 MP, f/1.8, 26mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS",
+        "Primary Ultrawide Camera": "12 MP, f/2.4, 13mm (ultrawide)",
+        "Secondary Camera": "12 MP, f/2.2, 23mm (wide)",
+        "Depth Sensor": "SL 3D camera",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac,dual-band,hotspot",
+        "Bluetooth": "Bluetooth 5.0,A2DP,LE,NFC",
+        "GPS": "GPS with A-GPS,GLONASS,Galileo",
+        "Battery": "Li-Ion 3110mAh"
+    },
+    "category": "mobile_phones"
+}

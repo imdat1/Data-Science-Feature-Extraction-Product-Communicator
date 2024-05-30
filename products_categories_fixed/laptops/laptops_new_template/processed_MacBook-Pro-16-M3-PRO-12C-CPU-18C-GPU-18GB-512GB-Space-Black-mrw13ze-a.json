@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/MacBook-Pro-16-M3-PRO-12C-CPU-18C-GPU-18GB-512GB-Space-Black-mrw13ze-a",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f APPLE MACBOOK PRO 16 M3 PRO/12C CPU/18C GPU/18GB/512GB SPACE BLACK MRW13ZE/A",
+    "warranty_months": 12,
+    "regular_price_mkd": 182999,
+    "happy_price_mkd": 177999,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0458:16.2\"(41.14cm) Liquid Retina XDR display\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Apple M3 Pro chip with 12-core CPU and 18-core GPU, 16?core Neural Engine\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430: 18?core GPU\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(3456 x 2234) Liquid Retina XDR, 1000 nits, 120 Hz\n\u041c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:18GB\n512GB SSD\n1080p FaceTime HD \u043a\u0430\u043c\u0435\u0440\u0430\n\u0422\u0440\u0438 \u043c\u0438\u043a\u0440\u043e\u0444\u043e\u043d\u0438\nBacklit Magic Keyboard \u0441\u043e Touch ID\nBluetooth 5.3\nWireless: Wi-Fi 6E (802.11ax)\nSDXC card slot\nHDMI port\n3.5 mm headphone jack\nMagSafe 3 port\n\u0422\u0440\u0438 Thunderbolt\nThunderbolt 4 (up to 40Gb/s)\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430: \u0434\u043e 22 \u0447\u0430\u0441\u0430",
+    "features": {
+        "screen_size_inches": 16.2,
+        "screen_resolution": "3456 x 2234",
+        "screen_refresh_rate_hz": 120,
+        "screen_brightness_nits": 1000,
+        "screen_type": "Liquid Retina XDR",
+        "processor_model": "Apple M3 Pro chip",
+        "processor_cores": 12,
+        "gpu_model": "18?core GPU",
+        "ram_size_gb": 18,
+        "storage_size_gb": 512,
+        "storage_type": "SSD",
+        "wifi_standard": "Wi-Fi 6E (802.11ax)",
+        "bluetooth_version": 5.3,
+        "usb_type_c_ports": 3,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1,
+        "card_reader": "SDXC",
+        "keyboard_type": "Backlit Magic Keyboard",
+        "battery_capacity_wh": null,
+        "battery_cells": null
+    }
+}

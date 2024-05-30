@@ -1,0 +1,27 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/PHILIPS-43-PFS-6808",
+    "title": "FHD SMART LED TV PHILIPS 43 PFS 6808, 43\"(108cm)",
+    "warranty_months": 24,
+    "regular_price_mkd": 20999,
+    "happy_price_mkd": 14999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "43\"(108cm) FHD SMART LED TV\nРезолуција:1.920 x 1.080\nHDR10\nHLG (Hybrid Log Gamma)\nSimplyShare\nЗвучник:16W RMS\nClear Sound\nDolby Atmos\nAlexa, Google Assistant\nКонекција:\n3 x HDMI, 2x USB, LAN, CI+\n2 x USB\n1 x Digital Audio излез (Optical)\n1 x RF In (Terrestrial / Cable/ Satellite влез)\n1 x 3.5mm Headphone jack\n1 x CI+ Card Slot\nDVB-T/T2/T2-HD/C/S/S2\nWiFi вградено",
+    "features": {
+        "screen_size_inches": 43,
+        "screen_resolution": "1920 x 1080",
+        "panel_type": "LED",
+        "hdr_technology": "HDR10, HLG",
+        "audio_output_watts": 16,
+        "audio_features": "Dolby Atmos, Clear Sound",
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "wifi_spec": null,
+        "hdr10_plus": null,
+        "hlg": "Yes",
+        "youtube": null,
+        "netflix": null,
+        "amazon_prime_video": null
+    }
+}

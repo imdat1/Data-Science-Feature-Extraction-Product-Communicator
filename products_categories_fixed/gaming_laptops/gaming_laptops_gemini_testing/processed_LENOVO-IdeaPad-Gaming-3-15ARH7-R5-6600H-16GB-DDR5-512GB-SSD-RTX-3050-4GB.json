@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/LENOVO-IdeaPad-Gaming-3-15ARH7-R5-6600H-16GB-DDR5-512GB-SSD-RTX-3050-4GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f LENOVO GAMING 3 15ARH7 R5-6600H/16GB DDR5/512GB/RTX 3050 4GB",
+    "warranty": "24",
+    "regular_price": "45.999",
+    "happy_price": "41.999",
+    "features": {
+        "Display": "15.6\" (39.5cm)",
+        "Resolution": "FHD (1920x1080) IPS 250nits Anti-glare, 45% NTSC, 120Hz, FreeSync\u2122",
+        "Processor": "AMD Ryzen\u2122 5 6600H (6C / 12T, 3.3 / 4.5GHz, 3MB L2 / 16MB L3)",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 3050 4GB GDDR6, Boost Clock 1740MHz, TGP 85W",
+        "RAM": "16GB DDR5-4800",
+        "Storage": "512GB SSD M.2 2242 PCIe\u00ae 4.0x4 NVMe\u00ae",
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c",
+        "Audio": "High Definition (HD) Audio, Realtek\u00ae ALC3287 codec",
+        "Speakers": "Stereo speakers, 2W x2, Nahimic Audio",
+        "Camera": "HD 720p with Privacy Shutter",
+        "Microphone": "2x, Array",
+        "Ethernet": "100/1000M (RJ-45)",
+        "Wireless": "Wi-Fi\u00ae 6, 11ax 2x2 + BT5.1",
+        "Keyboard": "White Backlit",
+        "Headset Port": "1 x Headset (headphone and microphone combo) port",
+        "RJ45 Ethernet Port": "1 x RJ-45 Ethernet port",
+        "USB Ports": "2x USB 3.2 Gen 1, 1x USB-C\u00ae 3.2 Gen 2",
+        "HDMI Port": "1x HDMI\u00ae 2.0",
+        "Power Adapter": "170W Slim Tip (3-pin)",
+        "Display Port": "1x USB-C\u00ae 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort\u2122 1.4)"
+    }
+}

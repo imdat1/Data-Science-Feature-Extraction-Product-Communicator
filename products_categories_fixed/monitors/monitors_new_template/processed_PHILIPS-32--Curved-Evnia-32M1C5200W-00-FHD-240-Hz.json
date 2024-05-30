@@ -1,0 +1,26 @@
+{
+    "url": "https://www.neptun.mk/categories/monitori1/PHILIPS-32--Curved-Evnia-32M1C5200W-00-FHD-240-Hz",
+    "title": "\u041c\u041e\u041d\u0418\u0422\u041e\u0420 PHILIPS 32\" CURVED EVNIA 32M1C5200W/00 FHD 240 HZ, 32\"(80CM)",
+    "warranty_months": 36,
+    "regular_price_mkd": 16499,
+    "happy_price_mkd": 15499,
+    "category": "monitori1",
+    "device_type": "Monitor",
+    "description": "\u041c\u043e\u043d\u0438\u0442\u043e\u0440\n\u0415\u043a\u0440\u0430\u043d: 32\"(80cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430: (1920 x 1080)\n\u0421\u043e\u043e\u0434\u043d\u043e\u0441 \u043d\u0430 \u0441\u043b\u0438\u043a\u0430: 16:9\n\u0412\u0438\u0434 \u043d\u0430 \u043f\u0430\u043d\u0435\u043b: VA\nCurved \u0434\u0438\u0441\u043f\u043b\u0435\u0458\nEffective viewing area: 698.4 (H) x 392.85 (V) -> at a 1500R curvature\n\u0421\u0432\u0435\u0442\u043b\u0438\u043d\u0430: 300 cd/\u043c2\n\u0411\u0440\u0437\u0438\u043d\u0430 \u043d\u0430 \u043e\u0441\u0432\u0435\u0436\u0443\u0432\u0430\u045a\u0435: Max 240Hz\n\u0421\u0442\u0430\u0442\u0438\u0447\u0435\u043d \u0441\u043e\u043e\u0434\u043d\u043e\u0441 \u043d\u0430 \u043a\u043e\u043d\u0442\u0440\u0430\u0441\u0442: 3500:1\n\u0412\u0440\u0435\u043c\u0435 \u043d\u0430 \u0440\u0435\u0430\u043a\u0446\u0438\u0458\u0430: 4ms(G/G)\nMPRT: 0.5 ms ultra-fast speed\n\u0410\u0433\u043e\u043b \u043d\u0430 \u0433\u043b\u0435\u0434\u0430\u045a\u0435 (\u0445\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u043d\u043e/\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u043d\u043e): 178\u00b0/178\u00b0\n\u041f\u043e\u0434\u0434\u0440\u0436\u0430\u043d\u0438 \u0431\u043e\u0438: Max 16.7M\nLowBlue \u043c\u043e\u0434\nFlicker Free\nHDMI, DisplayPort",
+    "features": {
+        "screen_size_inches": 32,
+        "screen_resolution": "1920 x 1080",
+        "screen_refresh_rate_hz": 240,
+        "screen_brightness_nits": 300,
+        "screen_type": "Curved",
+        "panel_type": "VA",
+        "aspect_ratio": "16:9",
+        "contrast_ratio_static": "3500:1",
+        "response_time_ms": 4,
+        "supported_colors_million": 16.7,
+        "viewing_angle_horiz_degrees": 178,
+        "viewing_angle_vert_degrees": 178,
+        "hdmi_ports": 1,
+        "displayport_ports": 1
+    }
+}

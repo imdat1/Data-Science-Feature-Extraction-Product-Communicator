@@ -1,0 +1,19 @@
+{
+    "url": "https://www.neptun.mk/categories/PECATARI/HP-DeskJet-2320-All-in-One",
+    "title": "\u041f\u0420\u0418\u041d\u0422\u0415\u0420 HP DESKJET 2320 ALL-IN-ONE",
+    "warranty_months": 12,
+    "regular_price_mkd": 2499,
+    "happy_price_mkd": 2199,
+    "category": "\u041f\u0415\u0427\u0410\u0422\u0410\u0420\u0418",
+    "device_type": "Printer",
+    "description": "\u041f\u0420\u0418\u041d\u0422\u0415\u0420\n\u041c\u0443\u043b\u0442\u0438\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d\nCompact design\n\u0411\u0440\u0437\u0438\u043d\u0430 \u043d\u0430 \u043f\u0435\u0447\u0430\u0442\u0435\u045a\u0435:7.5 ppm\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:600x300\nFull-speed USB 2.0 interface\nGDI\n150 paper input tray\nWhite - F5S40B\nsupp cert 3YM60/61/62/63AE",
+    "features": {
+        "print": true,
+        "printing_speed_ppm": 7.5,
+        "resolution": "600x300",
+        "interface": "Full-speed USB 2.0",
+        "paper_input_tray": 150,
+        "color": "White",
+        "model": "F5S40B"
+    }
+}

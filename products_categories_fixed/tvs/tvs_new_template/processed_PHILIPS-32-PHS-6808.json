@@ -1,0 +1,22 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/PHILIPS-32-PHS-6808",
+    "title": "SMART HD LED PHILIPS 32 PHS 6808, 32\" (82CM), WI-FI",
+    "warranty_months": 24,
+    "regular_price_mkd": 14499,
+    "happy_price_mkd": 10999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "32\" (82cm) SMART HD LED \u0442\u0435\u043b\u0435\u0432\u0438\u0437\u043e\u0440\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430: 1280x720\nPixel Plus HD\nHDR10\nHLG (Hybrid Log Gamma)\nSmartTV apps\n\u0417\u0432\u0443\u0447\u043d\u0438\u043a:10W RMS\n\u041a\u043e\u043d\u0435\u043a\u0446\u0438\u0458\u0430:\n3 x HDMI, 2x USB, LAN,\n1 x Digital Audio \u0438\u0437\u043b\u0435\u0437 (Optical)\n1 x 3.5mm Headphone jack\n1 x CI+\nDVB-T/T2/T2-HD/C/S/S2\nWiFi \u0432\u0433\u0440\u0430\u0434\u0435\u043d\u043e",
+    "features": {
+        "screen_size_inches": 32,
+        "screen_resolution": "1280x720",
+        "panel_type": "LED",
+        "hdr_technology": "HDR10, HLG",
+        "audio_output_watts": 10,
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "wifi_spec": "Wi-Fi enabled",
+        "dvb_t2cs2": "Yes"
+    }
+}

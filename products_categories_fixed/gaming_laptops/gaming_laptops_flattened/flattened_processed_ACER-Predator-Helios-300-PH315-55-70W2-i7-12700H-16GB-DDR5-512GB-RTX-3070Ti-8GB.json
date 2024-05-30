@@ -1,0 +1,22 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ACER-Predator-Helios-300-PH315-55-70W2-i7-12700H-16GB-DDR5-512GB-RTX-3070Ti-8GB",
+    "title": "Лаптоп ACER Predator Helios 300 PH315-55-70W2 i7-12700H/16GB/512GB/RTX 3070Ti 8GB",
+    "regular_price": 105999,
+    "happy_price": 96999,
+    "warranty": "24",
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "FHD (1920 x 1080) FHD IPS 165Hz SlimBezel",
+        "Processor": "Intel® Core™ i7-12700H (14-core/20-thread, 24MB cache, up to 4.7 GHz max boost)",
+        "Graphics": "NVIDIA® GeForce RTX™ 3070 Ti 8GB",
+        "RAM": "16 GB DDR5",
+        "Storage": "512GB PCIe NVMe SED SSD",
+        "Operating System": "Без оперативен систем",
+        "LAN": "10/100/1000/2500 Mbps",
+        "Wireless": "WIFI6E+BT",
+        "Camera": "FHD USB Camera",
+        "Battery": "90Wh Li-ion battery",
+        "Power Adapter": "280W AC Adapter"
+    },
+    "category": "gaming_laptops"
+}

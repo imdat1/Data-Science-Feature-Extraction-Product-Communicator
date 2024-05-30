@@ -1,0 +1,31 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-15-Pro-Max-256GB-Natural-Titanium",
+    "title": "IPHONE 15 PRO MAX 256GB NATURAL TITANIUM",
+    "warranty": "12",
+    "regular_price": 97490,
+    "happy_price": 87990,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "iOS 17.0",
+        "Water Resistance": "IP68 (up to 6m for 30 mins)",
+        "Payment System": "Apple Pay, Ultra-Wideband (UWB) support",
+        "Display Size": "6.7\" LTPO Super Retina XDR OLED, 120Hz",
+        "Resolution": "1290 x 2796p",
+        "Chipset": "Apple A17 Pro (3 nm)",
+        "CPU": "Hexa-core (2x3.78 GHz + 4)",
+        "GPU": "Apple GPU (6-core graphics)",
+        "Internal Memory": "256GB",
+        "Primary Camera 1": "48 MP, f/1.8, 24mm (wide), 1.22µm, dual pixel PDAF, sensor-shift OIS",
+        "Primary Telephoto Camera": "12 MP, f/2.8, 77mm (telephoto), PDAF, OIS, 3x optical zoom",
+        "Primary Ultrawide Camera": "12 MP, f/2.2, 13mm, 120° (ultrawide), 1.4µm, dual pixel PDAF",
+        "Primary Depth Sensor": "TOF 3D LiDAR scanner",
+        "Secondary Camera": "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF",
+        "Depth Sensor": "SL 3D, (depth/biometrics sensor)",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+        "Bluetooth": "Bluetooth 5.3, A2DP, LE",
+        "GPS": "dual-band A-GPS, GLONASS, GALILEO, BDS, QZSS",
+        "Sensors": "Face ID, LiDAR scanner, accelerometer, gyro, proximity, compass, barometer",
+        "Charging": "Lightning, USB 2.0, Fast charging, 50% in 30 mins (advertised), USB Power Delivery 2.0, MagSafe wireless charging 15W, Qi magnetic fast wireless charging 7.5W"
+    },
+    "category": "mobile_phones"
+}

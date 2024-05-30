@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/LENOVO-LOQ-15IRH8-i7-13700H-16GB-DDR5-512GB-RTX-4060-8GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f LENOVO LOQ 15IRH8 I7-13700H/16GB DDR5/512GB/RTX 4060 8GB",
+    "warranty": "24",
+    "regular_price": "84.999",
+    "happy_price": "76.999",
+    "features": {
+        "Display": "15.6\" (39.5cm)",
+        "Resolution": "(1920 x 1080) FHD, IPS, 350nits, Anti-glare, 45% NTSC, 144Hz, G-SYNC\u00ae",
+        "Processor": "Intel\u00ae Core\u2122 i7-13700H, 14C (6P + 8E) / 20T, P-core 2.4 / 5.0GHz, E-core 1.8 / 3.7GHz, 24MB",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 4060 8GB GDDR6, Boost Clock 2370MHz, TGP 115W",
+        "RAM": "16GB SO-DIMM DDR5-5200",
+        "Storage": "512GB SSD M.2 2242 PCIe\u00ae 4.0x4 NVMe\u00ae",
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c",
+        "Audio": "High Definition (HD) Audio, Realtek\u00ae ALC3287 codec",
+        "Speakers": "Stereo speakers, 2W x2, optimized with Nahimic Gaming Audio",
+        "Camera": "HD 720p with E-shutter",
+        "Microphone": "2x, Array",
+        "Ethernet": "100/1000M (RJ-45)",
+        "Wireless": "Wi-Fi\u00ae 6, 11ax 2x2 + BT5.1",
+        "HDMI Port": "1x HDMI\u00ae 2.1, up to 8K/60Hz",
+        "RJ45 Ethernet Port": "1x Ethernet (RJ-45)",
+        "USB Ports": "1x USB 3.2 Gen 1, 1x USB-C\u00ae 3.2 Gen 2 (support data transfer, Power Delivery 140W and DisplayPort\u2122 1.4), 2x USB 3.2 Gen 2",
+        "Headset Port": "1x Headphone / microphone combo jack (3.5mm)",
+        "Battery": "Integrated 60Wh",
+        "Power Adapter": "230W Slim Tip (3-pin)",
+        "Display Port": "1x USB-C\u00ae 3.2 Gen 2 (support data transfer, Power Delivery 140W and DisplayPort\u2122 1.4)"
+    }
+}

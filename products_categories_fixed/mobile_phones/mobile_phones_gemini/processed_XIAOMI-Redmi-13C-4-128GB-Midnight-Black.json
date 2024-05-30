@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/XIAOMI-Redmi-13C-4-128GB-Midnight-Black",
+    "title": "XIAOMI REDMI 13C 6,74\", 50MP+2MP+0.08MP/8MP, 4/128GB, 5000 MAH MIDNIGHT BLACK",
+    "warranty": "24",
+    "regular_price": 7999,
+    "happy_price": 6999,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 13, MIUI 14",
+        "Display Size": "6,74\"",
+        "Resolution": "720x1600 pixels, IPS LCD, 90Hz, 450 nits (typ), 600 nits",
+        "Display Protection": "Corning Gorilla Glass",
+        "Chipset": "Mediatek MT6769Z Helio G85 (12nm)",
+        "CPU": "Octa-core (1x3.35 GHz Cortex-X3 & 3x3.0 GHz Cortex-A715 & 4x2.0 GHz Cortex-A510)",
+        "GPU": "Mali-G52 MC2",
+        "Internal Memory": "128GB",
+        "RAM": "4GB",
+        "Primary Camera 1": "50 MP, f/1.8, 28mm (wide), PDAF",
+        "Primary Macro Camera": "2 MP, f/2.4, (macro)",
+        "Primary Auxiliary Lens Camera": "0.08 MP (auxiliary lens)",
+        "Secondary Camera": "8 MP, f/2.0",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "USB": "USB Type-C 2.0",
+        "Battery": "Li-Po 5000 mAh"
+    },
+    "category": "mobile_phones"
+}

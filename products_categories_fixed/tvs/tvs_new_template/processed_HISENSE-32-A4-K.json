@@ -1,0 +1,24 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/HISENSE-32-A4-K",
+    "title": "HD READY SMART LED TV HISENSE 32 A4 K, 32\" (82CM), WI-FI",
+    "warranty_months": 24,
+    "regular_price_mkd": 12999,
+    "happy_price_mkd": 9999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "32\" (82cm) HD Ready SMART LED TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:1366 x 768p\n\u041c\u043e\u045c\u043d\u043e\u0441\u0442 \u043d\u0430 \u0437\u0432\u0443\u043a:20 W\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c: Android R\nQuad Core \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u0440\nDolby Digital\nDTS Virtual-X\nBluetooth 5.0\nGoogle Cast\n2 x HDMI, 2 x USB,\nDigital audio out (optical)\nHeadphone Jack\nEthernet-LAN RJ-45\nWi-Fi",
+    "features": {
+        "screen_size_inches": 32,
+        "screen_resolution": "1366 x 768p",
+        "panel_type": "LED",
+        "smart_tv_os": "Android R",
+        "processor": "Quad Core",
+        "audio_output_watts": 20,
+        "audio_features": "Dolby Digital, DTS Virtual-X",
+        "hdmi_ports": 2,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth 5.0",
+        "wifi_spec": "Wi-Fi"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/DELL-Vostro-3535-R7-7730U-16GB-512GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f DELL VOSTRO 3535 R7-7730U/16GB/512GB",
+    "warranty_months": 36,
+    "regular_price_mkd": 41999,
+    "happy_price_mkd": 35999,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0439:15.6\" (39.6cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(1920 x 1080) FHD 120Hz 250 nits WVA Anti- Glare LED Backlit Narrow Border Display\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:AMD Ryzen\u00ae 7 7730U (8-core, 16-thread)\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430:AMD\u00ae Radeon\u00ae Graphics\nRAM \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:16 GB, 2 x 8 GB, DDR4, 3200 MHz\n\u0414\u0438\u0441\u043a (Storage):512 GB, M.2, PCIe NVMe, SSD\nWireless\n802.11ac, MU-MIMO + Bluetooth\n\u041a\u0430\u043c\u0435\u0440\u0430: 1080p at 30 fps FHD\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c:Ubuntu\nBacklit Keyboard + FingerPrint\n\u041f\u043e\u0440\u0442\u0438:\n1 USB 3.2 Gen 1 port\n1 USB 3.2 Gen 1 Type-C\u2122 port\n1 USB 2.0 port\n1 headset (headphone and microphone combo) port\n1 HDMI 1.4 port\n1 RJ45 Ethernet port (flip-down)\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:4 Cell, 54 Wh",
+    "features": {
+        "screen_size_inches": 15.6,
+        "screen_resolution": "1920 x 1080",
+        "screen_refresh_rate_hz": 120,
+        "screen_brightness_nits": 250,
+        "processor_model": "AMD Ryzen\u00ae 7 7730U",
+        "processor_cores": 8,
+        "processor_threads": 16,
+        "gpu_model": "AMD\u00ae Radeon\u00ae Graphics",
+        "ram_size_gb": 16,
+        "ram_type": "DDR4",
+        "storage_size_gb": 512,
+        "storage_type": "M.2, PCIe NVMe, SSD",
+        "wifi_standard": "802.11ac",
+        "bluetooth_version": null,
+        "usb_type_c_ports": 1,
+        "usb_type_a_ports": 2,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1,
+        "keyboard_type": "Backlit Keyboard",
+        "security_feature_1": "FingerPrint"
+    }
+}

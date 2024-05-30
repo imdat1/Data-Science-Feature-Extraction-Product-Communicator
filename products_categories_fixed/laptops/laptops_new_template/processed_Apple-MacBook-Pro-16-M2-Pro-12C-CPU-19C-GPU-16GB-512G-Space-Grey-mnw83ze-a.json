@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/Apple-MacBook-Pro-16-M2-Pro-12C-CPU-19C-GPU-16GB-512G-Space-Grey-mnw83ze-a",
+    "title": null,
+    "warranty_months": 12,
+    "regular_price_mkd": 183199,
+    "happy_price_mkd": 155999,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0458:16.2\"(41.14cm) Liquid Retina XDR display\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Apple M2 Pro chip with 12\u2011core CPU, 19\u2011core GPU, 16\u2011core Neural Engine\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430: 19\u2011core GPU\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(3456 x 2234) Liquid Retina XDR, 1000 nits, 120 Hz\n\u041c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:16GB\n512GB SSD M.2 NVMe PCIe\n1080p FaceTime HD \u043a\u0430\u043c\u0435\u0440\u0430\n\u0422\u0440\u0438 \u043c\u0438\u043a\u0440\u043e\u0444\u043e\u043d\u0438\n\u0410\u0443\u0434\u0438\u043e: Hi-Fi, Dolby Atmos\nBacklit Magic Keyboard \u0441\u043e Touch ID, Ambient light sensor\nForce Touch Trackpad\nBluetooth 5.3\nWireless: Wi-Fi 6E (802.11ax)\nSDXC card slot\nHDMI port\n3.5 mm headphone jack\nMagSafe 3 port\n\u0422\u0440\u0438 Thunderbolt 4 (USB-C) ports\nCharging\nDisplayPort\nThunderbolt 4 (up to 40Gb/s)\nUSB 4 (up to 40Gb/s)\n140W USB-C Apple MagSafe 3 Power Adapter\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:100 Wh - 22 h",
+    "features": {
+        "screen_size_inches": 16.2,
+        "screen_resolution": "3456 x 2234",
+        "screen_refresh_rate_hz": 120,
+        "screen_brightness_nits": 1000,
+        "screen_type": "Liquid Retina XDR",
+        "processor_model": "Apple M2 Pro chip",
+        "processor_cores": 12,
+        "gpu_model": "19\u2011core GPU",
+        "ram_size_gb": 16,
+        "storage_size_gb": 512,
+        "storage_type": "SSD M.2 NVMe PCIe",
+        "wifi_standard": "Wi-Fi 6E",
+        "bluetooth_version": 5.3,
+        "usb_type_c_ports": 3,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1,
+        "card_reader": "SDXC card slot",
+        "keyboard_type": "Backlit Magic Keyboard",
+        "audio_feature_1": "Hi-Fi, Dolby Atmos",
+        "battery_capacity_wh": 100
+    }
+}

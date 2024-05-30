@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/SAMSUNG-QE-65-QN85-DBTXXH",
+    "title": "SAMSUNG QE 65 QN85 DBTXXH",
+    "warranty_months": 24,
+    "regular_price_mkd": 115999,
+    "happy_price_mkd": 108999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "65\"(164cm) 4\u041a QLED Smart TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:3.840 x 2.160\n\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0458\u0430 \u043d\u0430 \u0435\u043a\u0440\u0430\u043d\u043e\u0442: Neo QLED\nNeo Quantum \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u0440 4K\nDolby Atmos\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c:Tizen\u2122\nQuantum HDR 1500\nAI Upscale\nHLG (Hybrid Log Gamma)\nFilmmaker Mode (FMM)\nHDR 10+\nQuantum Matrix \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0458\u0430\n\u0410\u0443\u0434\u0438\u043e \u0438\u0437\u043b\u0435\u0437 (RMS):60 W\n\u0410\u0443\u0434\u0438\u043e \u043a\u0430\u043d\u0430\u043b\u0438: 2.2.2\nQ-Symphony\n\u0410\u0434\u0430\u043f\u0442\u0438\u0432\u0435\u043d \u0437\u0432\u0443\u043a+\nVESA: 400 x 300\nWi-Fi 5, Bluetooth  5.2\nFreeSync Premium Pro\n4 x HDMI,2  x USB, LAN, eARC, CI+(1.4)\nDVB-T2/C/S2 x2",
+    "features": {
+        "screen_size_inches": 65,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "QLED",
+        "smart_tv_os": "Tizen\u2122",
+        "processor": "Neo Quantum \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u0440 4K",
+        "hdr_technology": "Quantum HDR 1500",
+        "audio_output_watts": 60,
+        "audio_features": "Dolby Atmos, Q-Symphony, Adaptive Sound+",
+        "hdmi_ports": 4,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth  5.2",
+        "wifi_spec": "Wi-Fi 5",
+        "ai_upscale": "Yes",
+        "hlg": "Yes",
+        "filmmaker_mode": "Yes",
+        "hdr10_plus": "Yes",
+        "freesync_premium_pro": "Yes"
+    }
+}

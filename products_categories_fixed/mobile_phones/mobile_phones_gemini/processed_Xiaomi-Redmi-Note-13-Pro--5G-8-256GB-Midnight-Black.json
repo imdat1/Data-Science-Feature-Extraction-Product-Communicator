@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-Note-13-Pro--5G-8-256GB-Midnight-Black",
+    "title": "XIAOMI REDMI NOTE 13 PRO+ 5G, 6.67\", 200+8+2/16MP, 8/256GB, 5000 MAH, MIDNIGHT BLACK",
+    "warranty": "24",
+    "regular_price": 28999,
+    "happy_price": 25999,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 13, MIUI 14",
+        "Display Size": "6.67\"",
+        "Resolution": "1720 x 1220 pixels, AMOLED, 120Hz, Dolby Vision",
+        "Display Protection": "Gorilla Glass Victus",
+        "Chipset": "Mediatek Dimensity 7200 Ultra (4 nm)",
+        "CPU": "Octa-core (2x2.8 GHz Cortex-A715 & 6x2.0 GHz Cortex-A510)",
+        "GPU": "Mali-G610 MC4",
+        "Internal Memory": "256GB",
+        "RAM": "8GB",
+        "Primary Camera 1": "200 MP, f/1.7, (wide), 1/1.4\", 0.56µm, multi-directional PDAF, OIS",
+        "Primary Ultrawide Camera": "8 MP, f/2.2, 120° (ultrawide), 1/4\", 1.12µm",
+        "Primary Macro Camera": "2 MP, f/2.4, (macro)",
+        "Secondary Camera": "16 MP",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "Bluetooth 5.3, A2DP, LE",
+        "GPS": "GPS (L1), GLONASS (G1), BDS (B1I), GALILEO (E1), QZSS (L1)",
+        "USB": "Type-C 2.0",
+        "Fast Charging": "120W wired",
+        "Battery": "Li-Po 5000 mAh"
+    },
+    "category": "mobile_phones"
+}

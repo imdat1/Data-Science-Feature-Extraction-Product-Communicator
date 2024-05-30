@@ -1,0 +1,91 @@
+Prompt:
+
+You are an AI assistant tasked with extracting detailed features from product descriptions to create structured data suitable for database insertion and querying. The goal is to ensure all features are in a flat JSON format without using lists or nested dictionaries. Each product's features should be extracted with clarity and consistency, using descriptive and query-friendly attribute names. If a feature is not found in the product description, it should be omitted from the JSON. Below is the template and guidelines for extracting features from cable and divider descriptions.
+
+Template:
+
+json
+Copy code
+{
+    "url": "{product_url}",
+    "title": "{product_title}",
+    "warranty_months": {warranty_months},
+    "regular_price_mkd": {regular_price},
+    "happy_price_mkd": {happy_price},
+    "category": "{category}",
+    "description": "{description}",
+    "features":{
+        "device_type": "Cable or Divider",
+        "number_of_sockets": {number_of_sockets},
+        "max_power_watts": {max_power_watts},
+        "voltage_volts": {voltage_volts},
+        "cable_length_meters": {cable_length_meters},
+        "input_type": "{input_type}",
+        "output_type": "{output_type}",
+        "resolution_supported": "{resolution_supported}"
+    }
+}
+Guidelines:
+
+URL and Title:
+
+url: URL of the product page.
+title: Title or name of the product.
+General Attributes:
+
+warranty_months: Warranty period in months.
+regular_price_mkd: Regular price in MKD (Macedonian denar).
+happy_price_mkd: Discounted price in MKD, if available.
+category: Category of the product (e.g., "KABLI_I_RAZDELNICI").
+device_type: Specify the type of device, in this case, "Cable or Divider".
+description: The full product description.
+Cable or Divider Specific Features:
+
+number_of_sockets: Number of sockets, if applicable (e.g., 7).
+max_power_watts: Maximum power in watts (e.g., 3500).
+voltage_volts: Voltage in volts (e.g., 230).
+cable_length_meters: Length of the cable in meters (e.g., 1.4).
+input_type: Input type (e.g., "HDMI™ Plug").
+output_type: Output type (e.g., "3.5 mm Jack Socket, VGA Socket").
+resolution_supported: Supported resolution (e.g., "FHD 1080p").
+Example Product Descriptions:
+
+HAMA 7-Way Power Extension Cable:
+{
+    "url": "https://www.neptun.mk/categories/KABLI_I_RAZDELNICI/HAMA-7-way-with-Switch-1-4m-White",
+    "title": "ПРОДОЛЖЕН КАБЕЛ HAMA 7-WAY WITH SWITCH 1.4M WHITE",
+    "warranty_months": 24,
+    "regular_price_mkd": 669,
+    "happy_price_mkd": null,
+    "category": "KABLI_I_RAZDELNICI",
+    "description": "Продолжен кабел\n7 приклучоци\nМоќност:3500W\nНапон:230 V\nДолжина на кабелот:1.4 m",
+    "device_type": "Cable or Divider",
+    "features":{
+        "number_of_sockets": 7,
+        "max_power_watts": 3500,
+        "voltage_volts": 230,
+        "cable_length_meters": 1.4
+    }
+}
+HAMA HDMI to VGA Cable:
+{
+    "url": "https://www.neptun.mk/categories/KABLI_I_RAZDELNICI/HAMA-HDMI-to-VGA-Audio-Socket-FHD-1080p",
+    "title": "КАБЕЛ HAMA HDMI TO VGA AUDIO SOCKET FHD 1080P",
+    "warranty_months": 24,
+    "regular_price_mkd": 1199,
+    "happy_price_mkd": null,
+    "category": "KABLI_I_RAZDELNICI",
+    "description": "Кабел\nИнпут:HDMI™ Plug\nАутпут:3.5 mm Jack Socket, VGA Socket\nДолжина на кабелот:0.15 m\nРезолуција:FHD 1080p",
+    "features":{
+        "device_type": "Cable or Divider",
+        "input_type": "HDMI™ Plug",
+        "output_type": "3.5 mm Jack Socket, VGA Socket",
+        "cable_length_meters": 0.15,
+        "resolution_supported": "FHD 1080p"
+    }
+}
+Usage Instructions:
+
+Replace placeholder values with the extracted information from the product description.
+Ensure all numerical values are appropriate types (e.g., integers or floats).
+If a feature is not found, omit the corresponding key-value pair from the JSON.

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/FUEGO-40-EL-720-GTV",
+    "title": "FHD SMART TV FUEGO 40 EL 720 GTV 40\"(100CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 10999,
+    "happy_price_mkd": 9999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "40\"(100cm) DLED FHD Smart TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:1.920 x 1.080\n\u041e\u0441\u0432\u0435\u0442\u043b\u0435\u043d\u043e\u0441\u0442: 250cd/m2\n\u041a\u043e\u043d\u0442\u0440\u0430\u0441\u0442: 3000:1\n\u0410\u0433\u043e\u043b \u043d\u0430 \u0432\u0438\u0434\u043b\u0438\u0432\u043e\u0441\u0442: 178\u00b0 x 178\u00b0\n\u041f\u043e\u0434\u0440\u0436\u0430\u043d\u0438 \u0431\u043e\u0438:16.7M\n\u0412\u0440\u0435\u043c\u0435 \u043d\u0430 \u0440\u0435\u0430\u043a\u0446\u0438\u0458\u0430: 8ms\n\u0418\u0437\u043b\u0435\u0437 \u0437\u0432\u0443\u043a (RMS):2\u00d78W (speaker 8\u03a910W)\nWIFI:IEEE 802.11a/b/g/n\nBluetooth: 5.0\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c: Android 11\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440: Arm Cortex-A55*4 1.45GHz\nYoutube\nGoogle Play\nNetflix 7.x*\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d Google Assistant\nHBBTV 1.5\nLive TV\nLocal Multimedia\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d chromecast\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430:Mali-G31 MP2\n\u041f\u0440\u0438\u043a\u043b\u0443\u0447\u043e\u0446\u0438 \u0438 \u043a\u043e\u043d\u0435\u043a\u0442\u043e\u0440\u0438:\n1xRJ45\n1xOPTICAL\n3xHDMI1.4\n1xAV IN\n1x*TV1(S2)\n1xTV2(ATV/DVB-T/C/T2)\n2xUSB2.0\n1xCI\nDVB-T/T2/C/S/S2",
+    "features": {
+        "screen_size_inches": 40,
+        "screen_resolution": "1920 x 1080",
+        "panel_type": "DLED",
+        "smart_tv_os": "Android 11",
+        "processor": "Arm Cortex-A55*4 1.45GHz",
+        "audio_output_watts": 16,
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth: 5.0",
+        "wifi_spec": "WIFI:IEEE 802.11a/b/g/n",
+        "youtube": "Yes",
+        "netflix": "Yes",
+        "dvb_t2cs2": "Yes"
+    }
+}

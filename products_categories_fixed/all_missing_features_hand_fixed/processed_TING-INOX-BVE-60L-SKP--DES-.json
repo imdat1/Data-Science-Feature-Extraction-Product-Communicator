@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/BOJLERI/TING-INOX-BVE-60L-SKP--DES-",
+    "title": "TING INOX BVE 60L SKP (DES)",
+    "warranty": "12",
+    "regular_price": "13.799",
+    "happy_price": null,
+    "category": "BOJLERI",
+    "device_type": null,
+    "description": [
+        "Capacity: 60L\nDimensions:\nWidth 435mm\nHeight 672mm\nVoltage:220 V\nPower 2500 W\nConnection: Single\nInlet/Outlet (Top-Left) 1/2M\nConnection: 14mm\nMaterial of the tank: Stainless Steel AISI 304(1.4301)\nInsulated polyurethane\nControlled by a thermostat. Option for setting the desired temperature\nProtection against water leaks, electric shocks and overheating\nWorking pressure: 6 bar\nProtection class: IP24\nMaximum temperature: 75\u00b0C/99\u00b0C\nProtection class: IP24\nAnti-corrosion system-Magnesium anode"
+    ],
+    "features": {
+        "capacity_l": 60,
+        "width_mm": 435,
+        "height_mm": 672,
+        "voltage_v": 220,
+        "power_w": 2500,
+        "connection": "Single",
+        "inlet_outlet": "1/2M",
+        "connection_mm": 14,
+        "material": "Stainless Steel AISI 304(1.4301)",
+        "insulation": "Insulated polyurethane",
+        "control": "Controlled by a thermostat. Option for setting the desired temperature",
+        "protection": "Protection against water leaks, electric shocks and overheating",
+        "pressure_bar": 6,
+        "protection_class": "IP24",
+        "max_temperature_c": "75/99",
+        "anti_corrosion": "Anti-corrosion system-Magnesium anode"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/MacBook-Air-13-6-Midnight-M2-8C-GPU-8GB-256GB-ZEE-mly33ze-a",
+    "title": "MacBook Air 13.6\" Midnight M2 8C-GPU 8GB 256GB ZEE mly33ze/a",
+    "warranty_months": null,
+    "regular_price_mkd": 90399,
+    "happy_price_mkd": 71999,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u0414\u0438\u0441\u043f\u043b\u0435\u0458:13.6\"(34.54cm) Liquid Retina\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(2560x1664) 224 ppi, 500 \u043d\u0438\u0442\u0438\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Apple M2 chip with 8-core CPU,\nGPU 8-core\nRAM \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:8GB\n\u0414\u0438\u0441\u043a (Storage): 256GB SSD\nWeb camera 1080p\nBluetooth\nWi-Fi\nThunderbolt (USB-C)\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:18 h\nmacOS",
+    "features": {
+        "screen_size_inches": 13.6,
+        "screen_resolution": "2560x1664",
+        "screen_brightness_nits": 500,
+        "screen_type": "Liquid Retina",
+        "processor_model": "Apple M2 chip",
+        "processor_cores": 8,
+        "gpu_model": "8-core",
+        "ram_size_gb": 8,
+        "storage_size_gb": 256,
+        "storage_type": "SSD",
+        "operating_system": "macOS",
+        "battery_capacity_wh": null
+    }
+}

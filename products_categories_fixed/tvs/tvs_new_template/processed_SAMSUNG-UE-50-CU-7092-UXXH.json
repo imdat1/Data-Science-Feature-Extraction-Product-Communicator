@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/SAMSUNG-UE-50-CU-7092-UXXH",
+    "title": "4К LED UHD Smart TV SAMSUNG UE 50 CU 7092 UXXH, 50\"(127cm)",
+    "warranty_months": 24,
+    "regular_price_mkd": 29999,
+    "happy_price_mkd": 25999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "50\"(127cm) 4К LED UHD Smart TV\nРезолуција:3.840 x 2.160\nПроцесор Crystal Processor 4K\nОперативен систем:Tizen™ Smart TV\nHDR 10+\nMega Contrast\nFilmmaker Mode (FMM)\nUHD Dimming\nMotion Xcelerator\nBrigtness Detection\nObject Tracking Sound: OTS Lite\nИзлез за звук (RMS):20W\nQ-Symphony\nOTS Lite\nMultiroom Link\nBluetooth Audio\nAdaptive Sound\nSmartThings Hub / Matter Hub / IoT-Sensor Funtionality\nWi-Fi 5\nBluetooth v5.2\nAutomatic game mode\n3 x HDMI, 1 x USB, LAN, eARC, CI слот, Bluetooth v5.2\nDVB-T2CS2",
+    "features": {
+        "screen_size_inches": 50,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "LED",
+        "smart_tv_os": "Tizen™",
+        "processor": "Crystal Processor 4K",
+        "hdr_technology": "HDR 10+",
+        "audio_output_watts": 20,
+        "audio_features": "OTS Lite, Q-Symphony, Multiroom Link, Bluetooth Audio, Adaptive Sound",
+        "hdmi_ports": 3,
+        "usb_ports": 1,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth v5.2",
+        "wifi_spec": "Wi-Fi 5",
+        "filmmaker_mode": "Yes",
+        "motion_xcelerator": "Yes",
+        "dvb_t2cs2": "Yes"
+    }
+}

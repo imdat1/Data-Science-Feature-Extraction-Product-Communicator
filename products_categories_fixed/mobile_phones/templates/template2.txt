@@ -1,0 +1,153 @@
+Prompt:
+
+You are an AI assistant tasked with extracting detailed features from product descriptions to create structured data suitable for database insertion and querying. The goal is to ensure that all features are in a flat JSON format without using lists or nested dictionaries. Each product's features should be extracted with clarity and consistency, using descriptive and query-friendly attribute names. Below is the template and guidelines for extracting features:
+Template:
+{
+    "url": "{product_url}",
+    "title": "{product_title}",
+    "warranty_months": {warranty_months},
+    "regular_price_mkd": {regular_price},
+    "happy_price_mkd": {happy_price},
+    "features":{
+      "device_type": "{device_type}",
+      "operating_system": "{operating_system}",
+      "water_resistance_ip_rating": "{water_resistance_ip_rating}",
+      "water_resistance_depth_meters": {water_resistance_depth},
+      "water_resistance_time_minutes": {water_resistance_time},
+      "feature_1": "{feature_1}",
+      "feature_2": "{feature_2}",
+      "screen_size_inches": {screen_size},
+      "screen_type": "{screen_type}",
+      "screen_resolution": "{screen_resolution}",
+      "chipset": "{chipset}",
+      "cpu": "{cpu}",
+      "gpu": "{gpu}",
+      "internal_memory_gb": {internal_memory},
+      "primary_wide_camera_mp": {primary_wide_camera_mp},
+      "primary_wide_camera_aperture": "{primary_wide_camera_aperture}",
+      "primary_wide_camera_feature_1": "{primary_wide_camera_feature_1}",
+      "primary_wide_camera_feature_2": "{primary_wide_camera_feature_2}",
+      "primary_wide_camera_feature_3": "{primary_wide_camera_feature_3}",
+      "primary_wide_camera_feature_4": "{primary_wide_camera_feature_4}",
+      "primary_ultrawide_camera_mp": {primary_ultrawide_camera_mp},
+      "primary_ultrawide_camera_aperture": "{primary_ultrawide_camera_aperture}",
+      "primary_ultrawide_camera_feature_1": "{primary_ultrawide_camera_feature_1}",
+      "primary_ultrawide_camera_feature_2": "{primary_ultrawide_camera_feature_2}",
+      "secondary_wide_camera_mp": {secondary_wide_camera_mp},
+      "secondary_wide_camera_aperture": "{secondary_wide_camera_aperture}",
+      "secondary_wide_camera_feature_1": "{secondary_wide_camera_feature_1}",
+      "secondary_wide_camera_feature_2": "{secondary_wide_camera_feature_2}",
+      "secondary_wide_camera_feature_3": "{secondary_wide_camera_feature_3}",
+      "secondary_depth_camera_feature_1": "{secondary_depth_camera_feature_1}",
+      "secondary_depth_camera_feature_2": "{secondary_depth_camera_feature_2}",
+      "wifi_standard_1": "{wifi_standard_1}",
+      "wifi_standard_2": "{wifi_standard_2}",
+      "wifi_standard_3": "{wifi_standard_3}",
+      "bluetooth_version": {bluetooth_version},
+      "bluetooth_feature_1": "{bluetooth_feature_1}",
+      "bluetooth_feature_2": "{bluetooth_feature_2}",
+      "gps_standard_1": "{gps_standard_1}",
+      "gps_standard_2": "{gps_standard_2}",
+      "gps_standard_3": "{gps_standard_3}",
+      "gps_standard_4": "{gps_standard_4}",
+      "gps_standard_5": "{gps_standard_5}",
+      "usb_type": "{usb_type}",
+      "fast_charging": "{fast_charging}",
+      "usb_power_delivery_version": {usb_power_delivery_version},
+      "wireless_charging_1_type": "{wireless_charging_1_type}",
+      "wireless_charging_1_power_w": {wireless_charging_1_power_w},
+      "wireless_charging_2_type": "{wireless_charging_2_type}",
+      "wireless_charging_2_power_w": {wireless_charging_2_power_w},
+      "battery_capacity_mah": {battery_capacity},
+      "category": "{category}"
+    }
+}
+
+Guidelines:
+
+Numeric Values: Ensure all numeric values are stored as numbers (e.g., warranty_months, regular_price_mkd, screen_size_inches, etc.).
+Feature Naming:
+Use descriptive names for features, e.g., primary_wide_camera, primary_ultrawide_camera, secondary_wide_camera, secondary_depth_camera.
+If multiple features of the same type exist, enumerate them clearly, e.g., feature_1, feature_2.
+Data Consistency: Ensure consistent naming conventions across different products. This helps in maintaining uniformity and ease of querying.
+Attributes:
+URL and Title: Use {product_url} and {product_title} placeholders for the product's URL and title.
+Prices: Use {regular_price} and {happy_price} for the product prices, ensure they are numeric.
+Warranty: Extract the warranty period in months.
+Device Type: Specify the type of device (e.g., Mobile Phone, Laptop, TV).
+Operating System: Include the operating system for applicable devices.
+Screen Details: Include screen size, type, and resolution.
+Cameras: Provide detailed camera specifications using descriptive names.
+Connectivity: Specify Wi-Fi standards, Bluetooth version, and GPS standards.
+Charging: Include details on USB type, fast charging capabilities, and wireless charging types.
+Battery: Include battery capacity in mAh.
+Category: Specify the product category.
+Example Product Description:
+
+"Мобилен телефон iOS 16.0 IP68 водоотпорен (до 6м за 30 мин) Apple Pay систем, Поддршка за ултра широк опсег Екран:6.1" Super Retina XDR OLED Резолуција:1170 x 2532p Chipset
+A15 Bionic (5 nm) CPU
+(2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard) GPU
+GPU (5-core graphics) Интерна меморија:128GB Примарна камера: 12 MP, f/1.5, 26mm (wide), 1.9µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.4, 13mm, 120? (ultrawide) Секундарна камера: 12 MP, f/1.9, 23mm (wide), 1/3.6", PDAF SL 3D, (depth/biometrics sensor) Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot Bluetooth 5.3, A2DP, LE GPS A-GPS, GLONASS, GALILEO, BDS, QZSS USB Lightning, USB 2.0 Fast charging, 50% in 30 min (advertised) USB Power Delivery 2.0 MagSafe wireless charging 15W Qi magnetic fast wireless charging 7.5W Капацитет на батерија: 3279mAh"
+
+Extracted JSON:
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-14-128GB-Yellow",
+    "title": "APPLE IPHONE 14 128GB YELLOW",
+    "warranty_months": 12,
+    "regular_price_mkd": 61990,
+    "happy_price_mkd": 47990,
+    "features":{
+      "device_type": "Mobile Phone",
+      "operating_system": "iOS 16.0",
+      "water_resistance_ip_rating": "IP68",
+      "water_resistance_depth_meters": 6,
+      "water_resistance_time_minutes": 30,
+      "feature_1": "Apple Pay",
+      "feature_2": "Ultra Wideband support",
+      "screen_size_inches": 6.1,
+      "screen_type": "Super Retina XDR OLED",
+      "screen_resolution": "1170 x 2532",
+      "chipset": "Apple A15 Bionic (5 nm)",
+      "cpu": "Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard)",
+      "gpu": "Apple GPU (5-core graphics)",
+      "internal_memory_gb": 128,
+      "primary_wide_camera_mp": 12,
+      "primary_wide_camera_aperture": "f/1.5",
+      "primary_wide_camera_feature_1": "26mm (wide)",
+      "primary_wide_camera_feature_2": "1.9µm",
+      "primary_wide_camera_feature_3": "dual pixel PDAF",
+      "primary_wide_camera_feature_4": "sensor-shift OIS",
+      "primary_ultrawide_camera_mp": 12,
+      "primary_ultrawide_camera_aperture": "f/2.4",
+      "primary_ultrawide_camera_feature_1": "13mm",
+      "primary_ultrawide_camera_feature_2": "120° (ultrawide)",
+      "secondary_wide_camera_mp": 12,
+      "secondary_wide_camera_aperture": "f/1.9",
+      "secondary_wide_camera_feature_1": "23mm (wide)",
+      "secondary_wide_camera_feature_2": "1/3.6\"",
+      "secondary_wide_camera_feature_3": "PDAF",
+      "secondary_depth_camera_feature_1": "SL 3D",
+      "secondary_depth_camera_feature_2": "(depth/biometrics sensor)",
+      "wifi_standard_1": "802.11 a/b/g/n/ac/6",
+      "wifi_standard_2": "dual-band",
+      "wifi_standard_3": "hotspot",
+      "bluetooth_version": 5.3,
+      "bluetooth_feature_1": "A2DP",
+      "bluetooth_feature_2": "LE",
+      "gps_standard_1": "A-GPS",
+      "gps_standard_2": "GLONASS",
+      "gps_standard_3": "GALILEO",
+      "gps_standard_4": "BDS",
+      "gps_standard_5": "QZSS",
+      "usb_type": "Lightning, USB 2.0",
+      "fast_charging": "50% in 30 minutes",
+      "usb_power_delivery_version": 2.0,
+      "wireless_charging_1_type": "MagSafe wireless charging",
+      "wireless_charging_1_power_w": 15,
+      "wireless_charging_2_type": "Qi magnetic fast wireless charging",
+      "wireless_charging_2_power_w": 7.5,
+      "battery_capacity_mah": 3279,
+      "category": "mobilni_telefoni"
+    }
+}
+

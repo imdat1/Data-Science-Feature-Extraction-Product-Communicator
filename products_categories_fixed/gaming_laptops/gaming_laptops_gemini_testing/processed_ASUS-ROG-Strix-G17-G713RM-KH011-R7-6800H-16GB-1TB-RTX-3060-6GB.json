@@ -1,0 +1,27 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-ROG-Strix-G17-G713RM-KH011-R7-6800H-16GB-1TB-RTX-3060-6GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ASUS ROG STRIX G17 G713RM-KH011 R7-6800H/16GB/1TB/RTX 3060 6GB",
+    "regular_price": "105.999",
+    "happy_price": "81.999",
+    "warranty": "24",
+    "features": {
+        "Display": "17.3\" (43.9cm)",
+        "Resolution": "(1920 x 1080) FHD IPS 360Hz",
+        "Processor": "AMD Rembrandt R7-H (TBD) R7-6800H",
+        "Graphics": "NVIDIA GeForce RTX 3060 6GB",
+        "RAM": "16GB DDR5",
+        "Storage": "1TB SSD",
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c",
+        "LAN": "10/100/1000/2500 Mbps",
+        "Wireless": "Wi-Fi 6E(802.11ax)+Bluetooth 5.2 (Dual band) 2*2",
+        "RJ45 Ethernet Port": "1 x RJ45 LAN port",
+        "USB Ports": "1 x USB 3.2 Gen 2 Type-C, 1 x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery, 2 x USB 3.2 Gen 1 Type-A",
+        "HDMI Port": "1 x HDMI 2.0b",
+        "Headset Port": "1 x 3.5mm Combo Audio Jack",
+        "Keyboard": "4-Zone RGB",
+        "Speakers": "2-speaker system with Smart Amplifier Technology",
+        "Audio Tech": "AI noise-canceling technology",
+        "Audio Certification": "Dolby Atmos, Hi-Res certification, Smart Amp Technology",
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion"
+    }
+}

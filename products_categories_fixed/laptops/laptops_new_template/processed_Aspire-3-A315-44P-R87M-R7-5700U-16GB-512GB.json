@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/Aspire-3-A315-44P-R87M-R7-5700U-16GB-512GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ASPIRE 3 A315-44P-R87M R7-5700U/16GB/512GB",
+    "warranty_months": 24,
+    "regular_price_mkd": 29999,
+    "happy_price_mkd": 25999,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0458:15.6\" (39.6 cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(1920 x 1080) FHD LED\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:AMD Ryzen\u2122 7 5700U, 8C, 16T, 8MB L3 cache\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430:AMD Radeon\u2122 Graphics\nRAM \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430: 16GB DDR4, 3200MHz\n\u0414\u0438\u0441\u043a (Storage): 512GB M.2 PCIe NVMe\n\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c\nWireless:802.11ax (2x2)\nBluetooth: 5.1\n\u041f\u043e\u0440\u0442\u0438\u043a\u043b\u044e\u0447\u043e\u0446\u0438:\n2x USB-A 3.2 Gen 1\n1x USB-C\u00ae 3.2 Gen 1 (support DisplayPort over USB-C, USB charging)\n1x HDMI\u00ae\n1x Headphone / microphone combo jack (3.5mm)\n1x Power connector\n\u041a\u0430\u043c\u0435\u0440\u0430: HD 720p\n\u0410\u0443\u0434\u0438\u043e: Dual speakers",
+    "features": {
+        "screen_size_inches": 15.6,
+        "screen_resolution": "1920 x 1080",
+        "processor_model": "AMD Ryzen\u2122 7 5700U",
+        "processor_cores": 8,
+        "processor_threads": 16,
+        "gpu_model": "AMD Radeon\u2122 Graphics",
+        "ram_size_gb": 16,
+        "ram_type": "DDR4",
+        "storage_size_gb": 512,
+        "storage_type": "M.2 PCIe NVMe",
+        "wifi_standard": "802.11ax",
+        "bluetooth_version": 5.1,
+        "usb_type_a_ports": 2,
+        "usb_type_c_ports": 1,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1
+    }
+}

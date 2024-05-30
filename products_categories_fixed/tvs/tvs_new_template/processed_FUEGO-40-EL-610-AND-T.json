@@ -1,0 +1,25 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/FUEGO-40-EL-610-AND-T",
+    "title": "FHD SMART LED TV FUEGO 40EL610 ANDT, 40\"(102CM), 60HZ, ANDROIDTV, WIFI",
+    "warranty_months": 24,
+    "regular_price_mkd": 9499,
+    "happy_price_mkd": 8995,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "40\"(102cm)Full HD SMART LED TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:1920x1080\n60Hz CMP\nAndroidTV\n3xHDMI,2xUSB\nDVB-T/C/T2\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d Wi-Fi",
+    "features": {
+        "screen_size_inches": 40,
+        "screen_resolution": "1920 x 1080",
+        "screen_refresh_rate_hz": 60,
+        "panel_type": "LED",
+        "smart_tv_os": "AndroidTV",
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": null,
+        "bluetooth_version": null,
+        "wifi_spec": null,
+        "hdr_technology": null,
+        "audio_output_watts": null,
+        "audio_features": null
+    }
+}

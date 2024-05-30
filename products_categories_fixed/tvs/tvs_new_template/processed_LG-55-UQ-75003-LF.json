@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/LG-55-UQ-75003-LF",
+    "title": "4K UHD SMART LED TV LG 55 UQ75003LF, 55\"(139.7CM), \u03b15 GEN5 AI, WIFI",
+    "warranty_months": 24,
+    "regular_price_mkd": 34999,
+    "happy_price_mkd": 24995,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "55\"(139.7cm) 4k UHD SMART LED TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(3840 x 2160)\n\u03b15 Gen5 AI Processor\nAI Brightness Control\n4K Upscaling\nFILMMAKER MODETM\nActive HDR\nALLM / HGiG\nHDMI 2.0\nWiFi 5\n2.0 Ch. / 20W\nAI Sound\nBluetooth Surround Ready*\nAI Acoustic Tuning*\nClear Voice Pro\nSound Share\nTV Sound Mode Share\ne-ARC (HDMI 2)\nLG ThinQ AI\nGoogle Assistant\nAmazon Alexa & Alexa lite (Built in)\nAirplay2 & Homekit\nHome Dashboard\nSports Alert\nIntelligent Voice Recognition\nAI Recommendation\nGame Optimizer\n3 x HDMI,1 x USB, eARC (HDMI 2), CI Slot, Bluetooth\nDVB-T2/C/S2",
+    "features": {
+        "screen_size_inches": 55,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "LED",
+        "smart_tv_os": "LG ThinQ AI",
+        "processor": "\u03b15 Gen5 AI Processor",
+        "hdr_technology": "Active HDR",
+        "audio_output_watts": 20,
+        "audio_features": "AI Sound, AI Acoustic Tuning, Clear Voice Pro, Sound Share, TV Sound Mode Share, Bluetooth Surround Ready",
+        "hdmi_ports": 3,
+        "usb_ports": 1,
+        "lan_ports": null,
+        "bluetooth_version": null,
+        "wifi_spec": "Wi-Fi 5",
+        "ai_upscale": "Yes",
+        "filmmaker_mode": "Yes",
+        "google_assistant": "Yes",
+        "amazon_alexa": "Yes",
+        "airplay2": "Yes",
+        "homekit": "Yes",
+        "dvb_t2cs2": "Yes"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-Note-12-Pro-8-256GB-Glacier-Blue",
+    "title": "XIAOMI REDMI NOTE 12 PRO 6.67\", 8/256GB, 108+8+5+2/16MP, 5000 MAH, GLACIER BLUE",
+    "warranty": "24",
+    "regular_price": 20999,
+    "happy_price": 14999,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 12, MIUI 13",
+        "Display Size": "6.67\"",
+        "Resolution": "1080 x 2400 pixels, AMOLED, 120Hz",
+        "Display Protection": "Corning Gorilla Glass 5",
+        "Water Resistance": "IP53",
+        "Chipset": "Qualcomm SM7150 Snapdragon 732G (8 nm)",
+        "CPU": "Octa-core (2x2.3 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
+        "GPU": "Adreno 618",
+        "Internal Memory": "256GB",
+        "RAM": "8GB",
+        "Primary Camera 1": "108 MP, f/1.9, 1/1.52\", 0.7µm, PDAF, (wide)",
+        "Primary Ultrawide Camera": "8 MP, f/1.9, 119°, 1/4\", 1.12µm, (ultrawide)",
+        "Primary Macro Camera": "5 MP, f/2.4, (macro)",
+        "Primary Depth Camera": "2 MP, f/2.4, (depth)",
+        "Secondary Camera": "16 MP, 1/3.06\", 1.0µm, (wide)",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Bluetooth 5.1, A2DP, LE",
+        "GPS": "GPS (L1), GLONASS (G1), BDS (B1I+B1c), GALILEO (E1), QZSS (L1)",
+        "USB": "Type-C 2.0, OTG",
+        "Fast Charging": "67W wired",
+        "Battery": "Li-Po 5000 mAh"
+    },
+    "category": "mobile_phones"
+}

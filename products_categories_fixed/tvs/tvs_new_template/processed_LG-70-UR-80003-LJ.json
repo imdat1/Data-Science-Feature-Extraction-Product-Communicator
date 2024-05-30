@@ -1,0 +1,27 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/LG-70-UR-80003-LJ",
+    "title": "4K UHD SMART LED TV LG 70 UR 80003 LJ,70\"(177.8CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 66999,
+    "happy_price_mkd": 57999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "70\"(177.8cm) 4k UHD SMART LED TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(3840 x 2160)\n\u03b15 AI \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u0440 Gen6\nLED\nwebOS Smart TV\nFILMMAKER MODE\nALLM / HGiG\nHDMI\nWiFi\ne-ARC (HDMI 2)\nLG ThinQ\nAirplay2 & Homekit\n4K HDR10 Pro\nGame Optimizer\n3 x HDMI,2 x USB, eARC (HDMI 2), CI Slot\nDVB-T2/C/S2",
+    "features": {
+        "screen_size_inches": 70,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "LED",
+        "smart_tv_os": "webOS",
+        "processor": "\u03b15 AI Gen6",
+        "hdr_technology": "4K HDR10 Pro",
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": 0,
+        "wifi_spec": "Wi-Fi",
+        "filmmaker_mode": "Yes",
+        "e_arc": "Yes",
+        "dvb_t2cs2": "Yes",
+        "game_optimizer": "Yes",
+        "airplay2_homekit": "Yes"
+    }
+}

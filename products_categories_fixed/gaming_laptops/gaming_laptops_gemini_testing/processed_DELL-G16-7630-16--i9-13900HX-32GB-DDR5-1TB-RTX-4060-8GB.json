@@ -1,0 +1,27 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/DELL-G16-7630-16--i9-13900HX-32GB-DDR5-1TB-RTX-4060-8GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f DELL G16 7630 16\" I9-13900HX/32GB DDR5/1TB/RTX 4060 8GB",
+    "warranty": "36",
+    "regular_price": "129.999",
+    "happy_price": "111.999",
+    "features": {
+        "Display": "16\" (40.64cm)",
+        "Resolution": "QHD+, 240Hz, 3ms, DCI-P3 100%, ComfortViewPlus, NVIDIA G-SYNC+DDS Display",
+        "Processor": "13th Gen Intel\u00ae Core\u2122 ) i9-13900HX (36 MB cache, 24 cores, 32 threads, up to 5.40 GHz Turbo)",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 4060, 8 GB GDDR6",
+        "RAM": "32GB (2 x 16GB), DDR5, 4800 MT/s",
+        "Storage": "1 TB, M.2, PCIe NVMe, SSD",
+        "Network Card": "Killer E3100 PCI-e Gigabit ethernet controller",
+        "Wireless": "Wi-Fi 6 AX201, 2x2, 802.11ax, Bluetooth\u00ae 5.2",
+        "Camera": "Integrated widescreen HD (720p) Webcam with Single Array Digital Microphone",
+        "Headset Port": "1 x headset (headphone and microphone combo) port",
+        "RJ45 Ethernet Port": "1 x RJ45 Ethernet port",
+        "USB Ports": "3 x USB 3.2 Gen 1 ports",
+        "HDMI Port": "1 x HDMI 2.1 port",
+        "Thunderbolt Port": "1 x Thunderbolt\u2122 4 port with DisplayPort\u2122",
+        "USB-C Port": "1 x USB-C 3.2 Gen 2 port with DisplayPort\u2122",
+        "Battery": "6-Cell Battery, 86WHr (Integrated)",
+        "Backlit Keyboard": "Pozadinsko osvetluvanje na tastatura (backlit keyboard)",
+        "Weight": "2.87kg"
+    }
+}

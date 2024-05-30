@@ -1,0 +1,17 @@
+{
+    "url": "https://www.neptun.mk/categories/Gaming_mouse/LOGITECH-G203-LIGHTSYNC-Gaming---BLACK",
+    "title": "GAMING MOUSE LOGITECH G203 LIGHTSYNC GAMING - BLACK",
+    "warranty_months": 24,
+    "regular_price_mkd": 2599,
+    "happy_price_mkd": 2199,
+    "category": "Gaming_mouse",
+    "device_type": "Gaming Mouse",
+    "description": "Gaming Mouse\nResolution:200 - 8000 DPI\nCable length:2m",
+    "features": {
+        "resolution_dpi": [
+            200,
+            8000
+        ],
+        "cable_length_meters": 2
+    }
+}

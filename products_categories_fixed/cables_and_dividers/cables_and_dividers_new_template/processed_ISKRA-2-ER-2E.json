@@ -1,0 +1,15 @@
+{
+    "url": "https://www.neptun.mk/categories/KABLI_I_RAZDELNICI/ISKRA-2-ER-2E",
+    "title": "\u0420\u0410\u0417\u0414\u0415\u041b\u041d\u0418\u041a ISKRA 2 ER-2E",
+    "warranty_months": 12,
+    "regular_price_mkd": 149,
+    "happy_price_mkd": null,
+    "category": "KABLI_I_RAZDELNICI",
+    "description": "\u0420\u0410\u0417\u0414\u0415\u041b\u041d\u0418\u041a\n2 \u0415\u0423\u0420\u041e \u0423\u0422\u0418\u0427\u041d\u0418\u0426\u0418\n\u041d\u0430\u043f\u043e\u043d: 250V\n\u041d\u043e\u043c\u0438\u043d\u0430\u043b\u043d\u0430 \u0444\u0440\u0435\u043a\u0432\u0435\u043d\u0446\u0438\u0458\u0430: 50 Hz\n\u041d\u043e\u043c\u0438\u043d\u0430\u043b\u043d\u0430 \u0441\u0442\u0440\u0443\u0458\u0430: 5A\n\u041a\u043b\u0430\u0441\u0430 \u0437\u0430 \u0437\u0430\u0448\u0442\u0438\u0442\u0430: II\nIP \u0437\u0430\u0448\u0442\u0438\u0442\u0430: IP20\n\u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u043d\u0430 \u043e\u043f\u0442\u043e\u0432\u0430\u0440\u0443\u0432\u0430\u045a\u0435: 3680W",
+    "features": {
+        "device_type": "Cable or Divider",
+        "number_of_sockets": 2,
+        "max_power_watts": 3680,
+        "voltage_volts": 250
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/Gigabyte-G6X-9MG-16--i7-13650HX-16GB-DDR5-1TB-RTX-4050-6GB",
+    "title": "GIGABYTE G6X 9MG 16\" I7-13650HX/16GB DDR5/1TB/RTX 4050 6GB",
+    "warranty": "24",
+    "regular_price": "70.999",
+    "happy_price": "64.999",
+    "features": {
+        "Display": "16\"(40.64cm)",
+        "Resolution": "(1920x1200) WUXGA 165Hz Display ?45% NTSC, MUX Switch?",
+        "Processor": "Intel\u00ae Core\u2122 i7-13650HX Processor (24M Cache, up to 4.9 GHz, 14 cores : 6 P-core and 8 E-core)",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 4050 Laptop GPU 6GB GDDR6",
+        "RAM": "16GB DDR5-4800MHz",
+        "Storage": "1\u0422B M.2 PCIe\u00ae Gen4x4 NVMe\u2122",
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c",
+        "Keyboard": "RGB Backlit Keyboard (15 colors, with 10-key)",
+        "Wireless": "Intel\u00ae Wi-Fi 6E (802.11ax 2x2)\nBluetooth\u00ae V5.2",
+        "LAN": "1G",
+        "Headset Port": "1 x Audio Jack support mic / headphone combo",
+        "USB Ports": "2 x Type-A support USB3.2 Gen1, 1 x Type-C support USB3.2 Gen2, Power Delivery 3.0, 1 x Type-A support USB3.2 Gen2, 1 x Type-C support USB3.2 Gen2, DisplayPort\u2122 1.4",
+        "HDMI Port": "1 x HDMI 2.1",
+        "RJ45 Ethernet Port": "1 x RJ-45",
+        "Speakers": "2x 2W",
+        "Microphone": "HD (720p)",
+        "Battery": "Lithium-Ion 73Wh",
+        "Power Adapter": "180W AC Adapter, 100W PD",
+        "Weight": "~2.5kg"
+    }
+}

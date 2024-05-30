@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/QLED-SAMSUNG-QE-75-Q80-CATXXH-",
+    "title": "4\u041a QLED SMART TV QLED SAMSUNG QE 75 Q80 CATXXH, 75\"(190.5CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 137999,
+    "happy_price_mkd": 115999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "75\"(190.5cm) 4\u041a QLED Smart TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:3.840 x 2.160\nDolby Atmos\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440 Neural Quantum 4K\nQuantum HDR+\nMotion Xcelerator Turbo+\nFilmmaker Mode (FMM)\nAI Upscale\nDolby Atmos\n\u0410\u0434\u0430\u043f\u0442\u0438\u0432\u0435\u043d \u0437\u0432\u0443\u043a+\n\u0417\u0432\u0443\u043a \u043a\u043e\u0458 \u0433\u043e \u0441\u043b\u0435\u0434\u0438 \u043e\u0431\u0458\u0435\u043a\u0442\u043e\u0442 OTS Lite\nQ-Symphony\n\u0418\u0437\u043b\u0435\u0437 \u0437\u0430 \u0437\u0432\u0443\u043a (RMS):40W\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c:Tizen\u2122\n\u0410\u043c\u0431\u0438\u0435\u043d\u0442\u0430\u043b\u0435\u043d \u0440\u0435\u0436\u0438\u043c+\nWireless Dex\nFreeSync Premium Pro\n\u0421\u043b\u0438\u043a\u0430 \u0432\u043e \u0441\u043b\u0438\u043a\u0430\n4 x HDMI,2 x USB, eARC,LAN, CI+(1.4), Bluetooth BT5.2\nDVB-T2CS2 x 2",
+    "features": {
+        "screen_size_inches": 75,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "QLED",
+        "processor": "Neural Quantum 4K",
+        "hdr_technology": "Quantum HDR+",
+        "audio_output_watts": 40,
+        "audio_features": "Dolby Atmos, Adaptive Sound+, OTS Lite, Q-Symphony",
+        "hdmi_ports": 4,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth BT5.2",
+        "wifi_spec": null,
+        "dolby_atmos": "Yes",
+        "adaptive_sound_plus": "Yes",
+        "sound_following_object": "Yes",
+        "q_symphony": "Yes",
+        "ambient_mode_plus": "Yes",
+        "wireless_dex": "Yes",
+        "freesync_premium_pro": "Yes",
+        "dvb_t2cs2": "Yes"
+    }
+}

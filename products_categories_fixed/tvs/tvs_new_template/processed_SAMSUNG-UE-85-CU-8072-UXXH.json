@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/SAMSUNG-UE-85-CU-8072-UXXH",
+    "title": "4\u041a UHD SMART TV SAMSUNG UE 85 CU 8072 UXXH, 85\" (214 CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 119999,
+    "happy_price_mkd": 89999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "85\" (214 cm) 4\u041a UHD Smart TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:3.840 x 2.160\nOperating System Tizen\u2122\nCrystal Processor 4K\nHDR 10+\nHLG (Hybrid Log Gamma)\nUHD Dimming\nDynamic Crystal Color\nGame Motion Plus\nAuto Game Mode (ALLM)\nMotion Xcelerator Turbo+\nQ-Syphony\n2CH audio\n3xHDMI,2xUSB,eARC/ARC,LAN, CI\nBluetooth\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d Wi-Fi\nAirSlim\nSmart Hub",
+    "features": {
+        "screen_size_inches": 85,
+        "screen_resolution": "3840 x 2160",
+        "smart_tv_os": "Tizen\u2122",
+        "processor": "Crystal Processor 4K",
+        "hdr_technology": "HDR 10+, HLG (Hybrid Log Gamma)",
+        "audio_output_watts": null,
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "Yes",
+        "wifi_spec": "\u0412\u0433\u0440\u0430\u0434\u0435\u043d Wi-Fi",
+        "hdr10_plus": "Yes",
+        "hlg": "Yes",
+        "game_motion_plus": "Yes",
+        "auto_game_mode_allm": "Yes",
+        "motion_xcelerator_turbo_plus": "Yes",
+        "q_symphony": "Yes"
+    }
+}

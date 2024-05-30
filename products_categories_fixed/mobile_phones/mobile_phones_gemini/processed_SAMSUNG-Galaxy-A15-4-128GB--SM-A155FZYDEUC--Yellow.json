@@ -1,0 +1,31 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-Galaxy-A15-4-128GB--SM-A155FZYDEUC--Yellow",
+    "title": "SAMSUNG GALAXY A15, 6.5\", 50+5+2/13MP, 4/128GB, 5000 MAH, YELLOW",
+    "warranty": "24",
+    "regular_price": 11499,
+    "happy_price": 10999,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 14, One UI 6",
+        "Display Size": "6.5\"",
+        "Resolution": "1080x2340 FHD+ Super AMOLED",
+        "Refresh Rate": "90Hz",
+        "Peak Brightness": "800 nits",
+        "Chipset": "Mediatek Helio G99 (6nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2",
+        "Internal Memory": "128GB",
+        "RAM": "4GB",
+        "Primary Camera 1": "50 MP, f/1.8, (wide), AF",
+        "Primary Ultrawide Camera": "5 MP, f/2.2, (ultrawide)",
+        "Primary Macro Camera": "2 MP, f/2.4, (macro)",
+        "Secondary Camera": "13 MP, f/2.0, (wide)",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "v5.3",
+        "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "USB": "Type-C 2.0",
+        "Fingerprint Sensor": "Side-mounted",
+        "Battery": "Li-Po 5000 mAh"
+    },
+    "category": "mobile_phones"
+}

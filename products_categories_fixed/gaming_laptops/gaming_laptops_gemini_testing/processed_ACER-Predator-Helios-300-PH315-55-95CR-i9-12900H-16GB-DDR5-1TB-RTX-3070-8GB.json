@@ -1,0 +1,31 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ACER-Predator-Helios-300-PH315-55-95CR-i9-12900H-16GB-DDR5-1TB-RTX-3070-8GB",
+    "title": "",
+    "warranty": "24",
+    "regular_price": "92.999",
+    "happy_price": "76.999",
+    "features": {
+        "Display": "15.6\" (39.6 cm)",
+        "Resolution": "(1920 x 1080) FHD, IPS, 165Hz, NVIDIA G-SYNC\u00ae",
+        "Processor": "12th Gen Intel\u00ae Core\u2122 i9-12900H, 14 Core\u2122, 24MB",
+        "Graphics": "NVIDIA\u00ae GeForce\u00ae RTX\u2122 3070 8 GB GDDR6 VRAM",
+        "RAM": "16GB DDR5 (1 x 16)",
+        "Storage": "1TB SSD PCIe",
+        "Wireless": "Intel\u00ae Killer\u2122 Wireless Wi-Fi 6E, Bluetooth\u00ae 5.2",
+        "LAN": "Killer\u2122 Ethernet E2600",
+        "HDMI Port": "1 x (HDMI 2.1 with HDCP support)",
+        "DisplayPort": "2 x DisplayPort\u00ae (1 x MiniDispalyPort)",
+        "USB Type-C Port": "1 x via USB Type-C) Thunderbolt Thunderbolt\u00ae 4 (via USB Type-C) USB 3.2",
+        "USB Ports": "4 x (1 x USB Type -C Gen2)",
+        "USB Gen2 Port": "1 x Gen2 (mit Power-Off USB Charging)",
+        "USB Gen1 Port": "2 x Gen1",
+        "RJ45 Ethernet Port": "1 x Ethernet (RJ-45)",
+        "Headset Port": "1 x headphone/speaker jack",
+        "Keyboard Backlight": true,
+        "Speakers": "Acer TrueHarmony",
+        "Microphone": true,
+        "Battery": "90Wh Li-ion 4-cell battery",
+        "Power Adapter": "280 W",
+        "Weight": "2.6kg"
+    }
+}

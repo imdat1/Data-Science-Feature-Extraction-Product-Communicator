@@ -1,0 +1,26 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-Galaxy-A04s-3-32GB--SM-A047FZGUEUC--Green",
+    "title": "SAMSUNG GALAXY A04S, 6.5\", 32/3GB, 50+2+2/5MP, 5000MAH (SM-A047FZGUEUC) GREEN",
+    "warranty": "24",
+    "regular_price": 10699,
+    "happy_price": 6499,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 12, One UI Core 4",
+        "Display Size": "6.5\"",
+        "Resolution": "720 x 1600 pixels, PLS LCD, 90Hz",
+        "CPU": "Octa-core (4x2.0 GHz Cortex-A55 & 4x2.0 GHz Cortex-A55)",
+        "Internal Memory": "32GB",
+        "RAM": "3GB",
+        "Primary Camera 1": "50 MP, f/1.8, (wide), PDAF",
+        "Primary Macro Camera": "2 MP, f/2.4, (macro)",
+        "Primary Depth Camera": "2 MP, f/2.4, (depth)",
+        "Secondary Camera": "5 MP, f/2.2, (wide)",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "Bluetooth 5.0, A2DP, LE",
+        "GPS": "A-GPS, GLONASS, BDS, GALILEO, QZSS",
+        "USB": "Type-C 2.0",
+        "Battery": "Li-Po 5000 mAh"
+    },
+    "category": "mobile_phones"
+}

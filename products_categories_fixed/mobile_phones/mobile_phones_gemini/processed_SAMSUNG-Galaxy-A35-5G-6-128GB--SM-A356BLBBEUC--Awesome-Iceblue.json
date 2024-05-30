@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-Galaxy-A35-5G-6-128GB--SM-A356BLBBEUC--Awesome-Iceblue",
+    "title": "SAMSUNG GALAXY A35 5G, 6.6\", 6/128GB, 50+8+5/13MP, 5000MAH, AWESOME ICEBLUE",
+    "warranty": "24",
+    "regular_price": 22999,
+    "happy_price": 20999,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 14, One UI 6.1",
+        "Display Size": "6.6\"",
+        "Resolution": "1080x2340 pixels, Super AMOLED, 120Hz, 500 nits",
+        "Chipset": "Exynos 1380 (5 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G68 MP5",
+        "Internal Memory": "128GB",
+        "RAM": "6GB",
+        "Primary Camera 1": "50 MP, f/1.8, (wide), 1/1.96\", PDAF, OIS",
+        "Primary Ultrawide Camera": "8 MP, f/2.2, 123°, (ultrawide), 1/4.0\", 1.12µm",
+        "Primary Macro Camera": "5 MP, f/2.4, (macro)",
+        "Secondary Camera": "13 MP, f/2.2, (wide), 1/3.06\", 1.12µm",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX",
+        "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "USB": "Type-C 2.0, OTG",
+        "Biometrics": "Fingerprint (under display)",
+        "Battery": "Li-Po 5000 mAh"
+    },
+    "category": "mobile_phones"
+}

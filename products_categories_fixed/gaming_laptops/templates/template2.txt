@@ -1,0 +1,160 @@
+Prompt:
+
+You are an AI assistant tasked with extracting detailed features from product descriptions to create structured data suitable for database insertion and querying. The goal is to ensure all features are in a flat JSON format without using lists or nested dictionaries. Each product's features should be extracted with clarity and consistency, using descriptive and query-friendly attribute names. If a feature is not found in the product description, it should be omitted from the JSON. Below is the template and guidelines for extracting features from gaming laptops.
+
+Template:
+{
+    "url": "{product_url}",
+    "title": "{product_title}",
+    "warranty_months": {warranty_months},
+    "regular_price_mkd": {regular_price},
+    "happy_price_mkd": {happy_price},
+    "category": "{category}",
+    "device_type": "Gaming Laptop",
+    "description": "{description}",
+    "features":{
+        "screen_size_inches": {screen_size_inches},
+        "screen_resolution": "{screen_resolution}",
+        "screen_type": "{screen_type}",
+        "screen_refresh_rate_hz": {screen_refresh_rate_hz},
+        "processor_model": "{processor_model}",
+        "processor_cores": {processor_cores},
+        "processor_threads": {processor_threads},
+        "processor_base_clock_ghz": {processor_base_clock_ghz},
+        "processor_max_clock_ghz": {processor_max_clock_ghz},
+        "gpu_model": "{gpu_model}",
+        "gpu_memory_gb": {gpu_memory_gb},
+        "ram_size_gb": {ram_size_gb},
+        "ram_type": "{ram_type}",
+        "storage_size_tb": {storage_size_tb},
+        "storage_type": "{storage_type}",
+        "operating_system": "{operating_system}",
+        "wifi_standard": "{wifi_standard}",
+        "bluetooth_version": {bluetooth_version},
+        "usb_type_c_ports": "{usb_type_c_ports}",
+        "usb_type_a_ports": "{usb_type_a_ports}",
+        "hdmi_ports": "{hdmi_ports}",
+        "audio_jack_ports": "{audio_jack_ports}",
+        "card_reader": "{card_reader}",
+        "keyboard_type": "{keyboard_type}",
+        "audio_feature_1": "{audio_feature_1}",
+        "battery_capacity_wh": {battery_capacity_wh},
+        "battery_cells": {battery_cells},
+        "security_feature_1": "{security_feature_1}"
+    }
+}
+
+Guidelines:
+
+URL and Title:
+
+url: URL of the product page.
+title: Title or name of the product.
+General Attributes:
+
+warranty_months: Warranty period in months.
+regular_price_mkd: Regular price in MKD (Macedonian denar).
+happy_price_mkd: Discounted price in MKD.
+category: Category of the product (e.g., "gaming_laptopi").
+device_type: Specify the type of device, in this case, "Gaming Laptop".
+description: The full product description.
+Screen Details:
+
+screen_size_inches: Screen size in inches.
+screen_resolution: Screen resolution (e.g., "2880 x 1800").
+screen_type: Type of screen (e.g., "OLED").
+screen_refresh_rate_hz: Screen refresh rate in Hz.
+Processor Details:
+
+processor_model: Processor model (e.g., "AMD Ryzen 9 8945HS").
+processor_cores: Number of processor cores.
+processor_threads: Number of processor threads.
+processor_base_clock_ghz: Processor base clock speed in GHz.
+processor_max_clock_ghz: Processor max clock speed in GHz.
+GPU Details:
+
+gpu_model: GPU model (e.g., "NVIDIA GeForce RTX 4070").
+gpu_memory_gb: GPU memory size in GB.
+Memory and Storage:
+
+ram_size_gb: RAM size in GB.
+ram_type: Type of RAM (e.g., "DDR5X").
+storage_size_tb: Storage size in TB (e.g., 1TB should be represented as 1).
+storage_type: Type of storage (e.g., "M.2 2280 PCIe Gen4 SSD").
+Operating System:
+
+operating_system: Operating system (e.g., "Windows 11 Home").
+Connectivity:
+
+wifi_standard: Wi-Fi standard (e.g., "Wi-Fi 6E").
+bluetooth_version: Bluetooth version.
+Ports:
+
+usb_type_c_ports: Number of USB Type-C ports.
+usb_type_a_ports: Number of USB Type-A ports.
+hdmi_ports: Number of HDMI ports.
+audio_jack_ports: Number of audio jack ports.
+card_reader: Type of card reader (e.g., "microSD (UHS-II)").
+Keyboard:
+
+keyboard_type: Type of keyboard (e.g., "Backlit Chiclet Keyboard 1-Zone RGB").
+Audio Features:
+
+audio_feature_1: Audio feature (e.g., "4-speaker system with Smart Amplifier Technology").
+Battery:
+
+battery_capacity_wh: Battery capacity in Watt-hours (Wh).
+battery_cells: Number of battery cells (e.g., 4).
+Security Features:
+
+security_feature_1: Security feature (e.g., "BIOS Administrator Password").
+Example Product Description:
+
+"Лаптоп Дисплеј: 14" (39.6cm) Резолуција:(2880 x 1800) 3К, OLED, 120Hz Процесор
+Ryzen™ 9 8945HS, 4GHz (24MB Cache, up to 5.2 GHz, 8 cores, 16 Threads) Графика
+GeForce RTX 4070 8GB GDDR6 RAM меморија:16GB DDR5X Диск (Storage):1TB M.2 2280 PCIe Gen4 SSD Оперативен систем
+11 Home Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth 5.3 Порти: 1x Type C USB 4 support DisplayPort / power delivery 1x USB 3.2 Gen 2 Type-C support DisplayPort 2x USB 3.2 Gen 2 Type-A 1x card reader (microSD) 1x HDMI 2.1 FRL 1x 3.5mm Combo Audio Jack Вгадени 3 микрофони Backlit Chiclet Keyboard 1-Zone RGB 4x звучници (4-speaker system with Smart Amplifier Technology) Аудио
+AI noise-canceling - Dolby Atmos Hi-Res certification Smart Amp Technology Security BIOS Administrator Password Батерија:73WHrs, 4S1P, 4-cell Li-ion"
+
+Extracted JSON:
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-ROG-Zephyrus-G14-GA403UI-QS048W-14--OLED-R9-8945HS-16GB-DDR5X-1TB-RTX-4070-8GB-WIN11",
+    "title": "ASUS ROG Zephyrus G14 GA403UI-QS048W",
+    "warranty_months": 24,
+    "regular_price_mkd": 139999,
+    "happy_price_mkd": 129999,
+    "category": "gaming_laptopi",
+    "device_type": "Gaming Laptop",
+    "description": "Лаптоп Дисплеј: 14\" (39.6cm) Резолуција:(2880 x 1800) 3К, OLED, 120Hz Процесор:AMD Ryzen™ 9 8945HS, 4GHz (24MB Cache, up to 5.2 GHz, 8 cores, 16 Threads) Графика:NVIDIA GeForce RTX 4070 8GB GDDR6 RAM меморија:16GB DDR5X Диск (Storage):1TB M.2 2280 PCIe Gen4 SSD Оперативен систем:Windows 11 Home Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth 5.3 Порти: 1x Type C USB 4 support DisplayPort / power delivery 1x USB 3.2 Gen 2 Type-C support DisplayPort 2x USB 3.2 Gen 2 Type-A 1x card reader (microSD) 1x HDMI 2.1 FRL 1x 3.5mm Combo Audio Jack Вгадени 3 микрофони Backlit Chiclet Keyboard 1-Zone RGB 4x звучници (4-speaker system with Smart Amplifier Technology) Аудио:Tech AI noise-canceling - Dolby Atmos Hi-Res certification Smart Amp Technology Security BIOS Administrator Password Батерија:73WHrs, 4S1P, 4-cell Li-ion",
+    "features":{
+        "screen_size_inches": 14,
+        "screen_resolution": "2880 x 1800",
+        "screen_type": "OLED",
+        "screen_refresh_rate_hz": 120,
+        "processor_model": "AMD Ryzen™ 9 8945HS",
+        "processor_cores": 8,
+        "processor_threads": 16,
+        "processor_base_clock_ghz": 4,
+        "processor_max_clock_ghz": 5.2,
+        "gpu_model": "NVIDIA GeForce RTX 4070",
+        "gpu_memory_gb": 8,
+        "ram_size_gb": 16,
+        "ram_type": "DDR5X",
+        "storage_size_tb": 1,
+        "storage_type": "M.2 2280 PCIe Gen4 SSD",
+        "operating_system": "Windows 11 Home",
+        "wifi_standard": "Wi-Fi 6E",
+        "bluetooth_version": 5.3,
+        "usb_type_c_ports": 2,
+        "usb_type_a_ports": 2,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1,
+        "card_reader": "microSD (UHS-II)",
+        "keyboard_type": "Backlit Chiclet Keyboard 1-Zone RGB",
+        "audio_feature_1": "4-speaker system with Smart Amplifier Technology",
+        "battery_capacity_wh": 73,
+        "battery_cells": 4,
+        "security_feature_1": "BIOS Administrator Password"
+    }
+}
+

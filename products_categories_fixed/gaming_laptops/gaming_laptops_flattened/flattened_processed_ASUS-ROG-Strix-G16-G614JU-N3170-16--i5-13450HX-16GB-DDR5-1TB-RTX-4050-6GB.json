@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-ROG-Strix-G16-G614JU-N3170-16--i5-13450HX-16GB-DDR5-1TB-RTX-4050-6GB",
+    "title": "ЛАПТОП ASUS ROG STRIX G16 G614JU-N3170 16\" I5-13450HX/16GB DDR5/1TB/RTX 4050 6GB",
+    "regular_price": 83999,
+    "happy_price": 71999,
+    "warranty": "24",
+    "features": {
+        "Display": "16'' (40.6cm)",
+        "Resolution": "(1920 x 1200) WUXGA, IPS, 165Hz",
+        "Processor": "Intel Core i5-13450HX Processor 2.4 GHz (20M Cache, up to 4.6 GHz, 10 cores)",
+        "Graphics": "NVIDIA GeForce RTX 4050 Laptop GPU 6GB GDDR6\nNVIDIA G-Sync",
+        "RAM": "16GB DDR5",
+        "Storage": "1TB PCIe 4.0 NVMe M.2 SSD",
+        "Operating System": "Без оперативен систем",
+        "Wireless": "Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth 5.3",
+        "LAN": "10/100/1000 Mbps",
+        "Ports": "1x RJ45 LAN port\n1x Thunderbolt 4 support DisplayPort\n1x USB 3.2 Gen 2 Type-C support\n1x HDMI 2.1 FRL\n1x 3.5mm Combo Audio Jack",
+        "Camera": "720P HD",
+        "Microphone": "вграден",
+        "Speakers": "система со 2 звучници со Smart Amplifier Technology",
+        "Audio": "Tech AI noise-canceling\nDolby Atmos\nHi-Res certification\nAI noise-canceling technology\nDolby Atmos\nSmart Amp Technology",
+        "Keyboard": "Backlit Chiclet Keyboard 4-Zone RGB",
+        "Security": "BIOS Administrator Password and User Password Protection",
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion",
+        "Fast Charging": "0-50% за 30 минути"
+    },
+    "category": "gaming_laptops"
+}

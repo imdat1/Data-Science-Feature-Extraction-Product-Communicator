@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/PERSONALNI_KOMPJUTERI/iMac-24--M3-8C-CPU-10C-GPU-8GB-256GB-Silver-mqrj3ze-a",
+    "title": "APPLE IMAC 24\" M3/8C CPU/10C GPU/8GB/256GB SILVER MQRJ3ZE/A",
+    "warranty_months": 12,
+    "regular_price_mkd": 108999,
+    "happy_price_mkd": null,
+    "category": "PERSONALNI_KOMPJUTERI",
+    "device_type": "Computer",
+    "description": "iMac\n\u0415\u043a\u0440\u0430\u043d:24.0\" (60.9cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(4480 x 2520) 4.5K Retina\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Apple M3 Octa core (8-core CPU with 4 performance cores and 4 efficiency cores)\n\u0413\u0440\u0430\u0444\u0438\u0447\u043a\u0430:Apple M3 10 core\n\u0412\u043d\u0430\u0442\u0440\u0435\u0448\u043d\u0430 \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:8GB RAM\n\u041c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:256GB\n\u0412\u0435\u0431-\u043a\u0430\u043c\u0435\u0440\u0430:1080p FaceTime HD camera\nDisplayPort\nThunderbolt 3 (up to 40Gb/s)\nUSB 4 (up to 40Gb/s)\nUSB 3.1 Gen 2 (up to 10Gb/s)\nThunderbolt 2, HDMI, DVI, and VGA supported using adapters (sold separately)\n3.5 mm headphone jack\nBluetooth 5.3\nWi?Fi 6E (802.11ax)3\n\u0412\u043a\u043b\u0443\u0447\u0435\u043d\u043e \u0432\u043e \u043f\u0430\u043a\u0443\u0432\u0430\u045a\u0435\u0442\u043e:\niMac\nMagic Keyboard\nMagic Mouse\n143W power adapter\nPower cord (2 m)\nUSB-C to Lightning Cable",
+    "features": {
+        "display_size_inches": 24.0,
+        "resolution": "4480 x 2520 4.5K Retina",
+        "processor": "Apple M3 Octa core (8-core CPU with 4 performance cores and 4 efficiency cores)",
+        "graphics": "Apple M3 10 core",
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "webcam_resolution": "1080p",
+        "ports": [
+            "DisplayPort",
+            "Thunderbolt 3 (up to 40Gb/s)",
+            "USB 4 (up to 40Gb/s)",
+            "USB 3.1 Gen 2 (up to 10Gb/s)",
+            "3.5 mm headphone jack"
+        ],
+        "connectivity": [
+            "Bluetooth 5.3",
+            "Wi?Fi 6E (802.11ax)3"
+        ]
+    }
+}

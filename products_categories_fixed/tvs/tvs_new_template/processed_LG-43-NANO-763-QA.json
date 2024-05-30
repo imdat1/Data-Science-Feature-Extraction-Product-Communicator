@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/LG-43-NANO-763-QA",
+    "title": "4K UHD NANOCELL SMART TV LG 43 NANO763QA, 43\"(108CM), \u03b15 GEN5 AI, WIFI",
+    "warranty_months": 24,
+    "regular_price_mkd": 30999,
+    "happy_price_mkd": 22999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "43\"(108cm) 4k UHD NanoCell SMART TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(3840 x 2160)\n\u03b15 Gen5 AI \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u0440\nReal 4K NanoCell\nNano Color\nAI Picture Pro\nAI Genre Selection(SDR/HDR)\nAI Brightness Control\nAI Upscaling\nFILMMAKER MODE\nActive HDR / HFR\nAMD FreeSync Premium / VRR / ALLM / HGiG\nHDMI 2.1\nWiFi 5\n2.0 Ch. / 20W\nAI Sound Pro\nBluetooth Surround Ready\nAI Acoustic Tuning\nClear Voice Pro\nSound Share\nTV Sound Mode Share\ne-ARC (HDMI 2)\nLG ThinQ AI\nGoogle Assistant\nAmazon Alexa* & Alexa lite\nAirplay2 & Homekit\nHome Dashboard\nSports Alert\nIntelligent Voice Recognition\nAI Recommendation\nMagic Remote\nGame Optimizer\nMagic Explorer\n3 x HDMI,2xUSB,LAN,eARC, CI Slot, Bluetooth\nDVB-C/T2/S2",
+    "features": {
+        "screen_size_inches": 43,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "NanoCell",
+        "smart_tv_os": "\u03b15 Gen5 AI",
+        "hdr_technology": "Active HDR / HFR",
+        "audio_output_watts": 20,
+        "audio_features": "AI Sound Pro, Bluetooth Surround Ready, AI Acoustic Tuning, Clear Voice Pro, Sound Share, TV Sound Mode Share",
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": null,
+        "wifi_spec": "WiFi 5",
+        "ai_upscale": "Yes",
+        "filmmaker_mode": "Yes",
+        "freesync_premium_pro": "Yes",
+        "e_arc": "Yes",
+        "dvb_t2cs2": "Yes",
+        "youtube": null,
+        "netflix": null,
+        "amazon_prime_video": null
+    }
+}

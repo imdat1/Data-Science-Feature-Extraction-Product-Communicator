@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Apple-iPhone-15-128GB-Pink",
+    "title": "IPHONE 15 128GB PINK",
+    "warranty": "12",
+    "regular_price": 63690,
+    "happy_price": 55690,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "iOS 17.0",
+        "Water Resistance": "IP68 (up to 6m for 30 mins)",
+        "Payment System": "Apple Pay, Ultra-Wideband (UWB) support",
+        "Display Size": "6.1\" Super Retina XDR OLED",
+        "Resolution": "1171 x 2556p",
+        "Chipset": "Apple A16 Bionic (4 nm)",
+        "CPU": "Hexa-core (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth)",
+        "GPU": "Apple GPU (5-core graphics)",
+        "Internal Memory": "128GB",
+        "Primary Camera 1": "48 MP, f/1.6, 26mm (wide), 1.0µm, dual pixel PDAF, sensor-shift OIS",
+        "Primary Ultrawide Camera": "12 MP, f/2.4, 13mm, 120° (ultrawide)",
+        "Secondary Camera": "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF",
+        "Depth Sensor": "SL 3D, (depth/biometrics sensor)",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+        "Bluetooth": "Bluetooth 5.3, A2DP, LE",
+        "GPS": "A-GPS, GLONASS, GALILEO, BDS, QZSS",
+        "USB": "Type-C 2.0, DisplayPort",
+        "Fast Charging": "50% in 30 mins (advertised)",
+        "USB Power Delivery": "USB Power Delivery 2.0",
+        "Wireless Charging 1": "MagSafe wireless charging 15W",
+        "Wireless Charging 2": "Qi magnetic fast wireless charging 7.5W"
+    },
+    "category": "mobile_phones"
+}

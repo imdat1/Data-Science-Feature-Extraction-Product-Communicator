@@ -1,0 +1,33 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-TUF-Gaming-F16-FX607JV-N3112-i7-13650HX-16GB-DDR5-512GB-RTX-4060-8GB",
+    "title": "ЛАПТОП ASUS TUF GAMING F16 FX607JV-N3112 I7-13650HX/16GB DDR5/512GB/RTX 4060 8GB",
+    "regular_price": 87999,
+    "happy_price": 76999,
+    "warranty": "24",
+    "features": {
+        "Display": "16.0\" (40.6cm)",
+        "Resolution": "FHD+ 16:10 (1920 x 1200, WUXGA), IPS, 165Hz, G-Sync",
+        "Processor": "13th Gen Intel Core i7-13650HX Processor 2.6 GHz 24M Cache, up to 4.9 GHz, 14 cores)",
+        "Graphics": "NVIDIA GeForce RTX 4060 8GB GDDR6",
+        "RAM": "16GB DDR5-4800",
+        "Storage": "512GB PCIe 4.0 NVMe M.2 SSD",
+        "Operating System": "Без оперативен систем",
+        "LAN": "10/100/1000 Mbps",
+        "Wireless": "Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth 5.2",
+        "Headset Port": "1 x 3.5mm Combo Audio Jack",
+        "RJ45 Ethernet Port": "1 x RJ45 LAN port",
+        "Thunderbolt Port": "1 x Thunderbolt 4 support DisplayPort",
+        "USB-C Port": "1 x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery / G-SYNC",
+        "USB Ports": "2 x USB 3.2 Gen 1 Type-A",
+        "HDMI Port": "1 x HDMI 2.1 FRL",
+        "Camera": "720P HD camera",
+        "Microphone": "2 x вградени",
+        "Audio": "Tech AI noise-canceling - Dolby Atmos",
+        "Security": "BIOS Administrator Password and User Password Protection",
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion",
+        "Power Adapter": "240W AC Adapter",
+        "Backlit Keyboard": "Backlit Chiclet Keyboard 1-Zone RGB",
+        "Display Port": "Yes"
+    },
+    "category": "gaming_laptops"
+}

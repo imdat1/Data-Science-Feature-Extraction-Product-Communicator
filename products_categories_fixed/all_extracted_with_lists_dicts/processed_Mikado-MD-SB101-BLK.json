@@ -1,0 +1,19 @@
+{
+    "url": "https://www.neptun.mk/categories/SOUNDBAR/Mikado-MD-SB101-BLK",
+    "title": "SOUNDBAR MIKADO MD-SB101 BLK, 2.1CH",
+    "warranty_months": 24,
+    "regular_price_mkd": 2699,
+    "happy_price_mkd": null,
+    "category": "SOUNDBAR",
+    "device_type": "Soundbar",
+    "description": "Soundbar\n\u041a\u0430\u043d\u0430\u043b\u0438:2.1CH\nBluetooth\nUSB\nAUX\nTF",
+    "features": {
+        "audio_channels": "2.1CH",
+        "connections": [
+            "Bluetooth",
+            "USB",
+            "AUX",
+            "TF"
+        ]
+    }
+}

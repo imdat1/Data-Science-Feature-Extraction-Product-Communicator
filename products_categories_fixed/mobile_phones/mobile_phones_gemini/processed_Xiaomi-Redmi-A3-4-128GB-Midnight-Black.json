@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-A3-4-128GB-Midnight-Black",
+    "title": "XIAOMI REDMI A3, 6.71\", 4/128GB, 8+0.8/5MP, 5000MAH, MIDNIGHT BLACK",
+    "warranty": "24",
+    "regular_price": 6999,
+    "happy_price": null,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 14 (Go edition), MIUI",
+        "Display Size": "6.71\"",
+        "Resolution": "720x1650 pixels, IPS LCD",
+        "Refresh Rate": "90Hz",
+        "Display Protection": "Corning Gorilla Glass 3",
+        "Chipset": "Mediatek Helio G36 (12 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53)",
+        "GPU": "PowerVR GE8320",
+        "Internal Memory": "128GB",
+        "RAM": "4GB",
+        "Primary Camera 1": "8 MP, (wide)",
+        "Primary Auxiliary Lens Camera": "0.08 MP (auxiliary lens)",
+        "Secondary Camera": "5 MP",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "USB": "Type-C 2.0",
+        "Fast Charging": "10W wired",
+        "Battery": "5000mAh"
+    },
+    "category": "mobile_phones"
+}

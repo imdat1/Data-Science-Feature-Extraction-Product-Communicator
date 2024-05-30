@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-Note-13-8-256GB-Mint-Green",
+    "title": "XIAOMI REDMI NOTE 13, 6.67\", 8/256GB, 108+8+2/16MP, 5000MAH, MINT GREEN",
+    "warranty": "24",
+    "regular_price": 15499,
+    "happy_price": 13499,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 13, MIUI 14",
+        "Display Size": "6.67",
+        "Resolution": "1080 x 2400 pixels, FHD+, AMOLED, 120Hz",
+        "Display Protection": "Corning Gorilla Glass 5",
+        "Water Resistance": "IP54",
+        "Chipset": "Mediatek Dimensity 6080 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2",
+        "Internal Memory": "256GB",
+        "RAM": "8GB",
+        "Primary Camera 1": "108 MP, f/1.7, (wide), 0.64µm, PDAF",
+        "Primary Depth Camera": "2 MP, f/2.4, (depth)",
+        "Secondary Camera": "16 MP, (wide)",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "Bluetooth 5.2, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "USB": "Type-C 2.0",
+        "Fast Charging": "33W wired",
+        "Battery": "Li-Po 5000 mAh"
+    },
+    "category": "mobile_phones"
+}

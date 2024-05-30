@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/DELL-G15-5530-i5-13450HX-16GB-DDR5-512GB-RTX-3050-6GB",
+    "title": "ЛАПТОП DELL G15 5530 I5-13450HX/16GB DDR5/512GB/RTX 3050 6GB",
+    "warranty": "36",
+    "regular_price": 69999,
+    "happy_price": 62999,
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(1920 x 1080) FHD 120Hz 250 nits WVA Anti- Glare LED Backlit Narrow Border Display",
+        "Processor": "13th Gen Intel® Core™ i5-13450HX (20 MB cache, 10 cores, 16 threads, up to 4.60 GHz Turbo)",
+        "Graphics": "NVIDIA® GeForce RTX™ 3050, 6 GB GDDR6",
+        "RAM": "16 GB: 2 x 8 GB, DDR5, 4800 MT/s",
+        "Storage": "512 GB, M.2, PCIe NVMe, SSD",
+        "Wireless": "Wi-Fi 6 AX201, 2x2, 802.11ax, Bluetooth® 5.2",
+        "Camera": "Integrated widescreen HD (720p) Webcam with Single Array Digital Microphone",
+        "Headset Port": "1 x Headset (headphone and microphone combo) port",
+        "RJ45 Ethernet Port": "1 x RJ45 Ethernet port",
+        "USB Ports": "3 x USB 3.2 Gen 1 ports",
+        "HDMI Port": "1 x HDMI 2.1 port",
+        "USB-C Port": "1 x USB-C 3.2 Gen 2 port™",
+        "Display Port": "Yes",
+        "Battery": "3 Cell, 56 Wh, integrated",
+        "Power Adapter": "240W AC Adapter",
+        "Backlit Keyboard": "Позадинско осветлување на тастатурата (backlit keyboard)",
+        "Color": "Carbon BlackDark Shadow Gray with Black thermal shelf"
+    },
+    "category": "gaming_laptops"
+}

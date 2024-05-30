@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/FUEGO-65-ELU-720-GTV",
+    "title": "4K SMART TV FUEGO 65 ELU 720 GTV 65\"(165CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 27999,
+    "happy_price_mkd": 24999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": [
+        "65\"(165cm) DLED 4K Smart TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:3.840 x 2.160\n\u041e\u0441\u0432\u0435\u0442\u043b\u0435\u043d\u043e\u0441\u0442: 250cd/m2\n\u041a\u043e\u043d\u0442\u0440\u0430\u0441\u0442: 5000:1\n\u0410\u0433\u043e\u043b \u043d\u0430 \u0432\u0438\u0434\u043b\u0438\u0432\u043e\u0441\u0442: 178\u00b0 x 178\u00b0\n\u041f\u043e\u0434\u0440\u0436\u0430\u043d\u0438 \u0431\u043e\u0438:1.07G\n\u0412\u0440\u0435\u043c\u0435 \u043d\u0430 \u0440\u0435\u0430\u043a\u0446\u0438\u0458\u0430: 6.5ms\n\u0418\u0437\u043b\u0435\u0437 \u0437\u0430 \u0437\u0432\u0443\u043a (RMS):2\u00d712W (speaker 8\u03a915W?\nWIFI:IEEE 802.11a/b/g/n/ac\nBluetooth: 5.1\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c: Android 11\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440: ARM CA53 Quad core with Max 1.5GHz\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430:G52MC1\nYoutube\nGoogle Play\nNetflix 7.x*\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d Google Assistant\nHBBTV 1.5\nLive TV\nLocal Multimedia\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d chromecast\n\u041f\u0440\u0438\u043a\u043b\u0443\u0447\u043e\u0446\u0438 \u0438 \u043a\u043e\u043d\u0435\u043a\u0442\u043e\u0440\u0438:\n1 x RJ45\n1 x OPTICAL\n4 x HDMI2.0\n1 x AV IN\n1 x TV(DVB-S/S2)\n1 x TV(DVB-C/T/T2)\n2 x USB2.0\n1 x CI\nDVB-T/T2/C/S/S2"
+    ],
+    "features": {
+        "screen_size_inches": 65,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "DLED",
+        "smart_tv_os": "Android 11",
+        "processor": "ARM CA53 Quad core with Max 1.5GHz",
+        "audio_output_watts": 24,
+        "audio_features": null,
+        "hdmi_ports": 4,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "5.1",
+        "wifi_spec": "IEEE 802.11a/b/g/n/ac",
+        "youtube": "Yes",
+        "netflix": "Yes"
+    }
+}

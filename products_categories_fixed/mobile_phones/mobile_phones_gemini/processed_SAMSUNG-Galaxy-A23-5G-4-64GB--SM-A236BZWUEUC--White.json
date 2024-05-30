@@ -1,0 +1,25 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/SAMSUNG-Galaxy-A23-5G-4-64GB--SM-A236BZWUEUC--White",
+    "title": "SAMSUNG GALAXY A23 5G, 6.5\", 4/64GB, 5000 MAH (SM-A236BZWUEUC) WHITE",
+    "warranty": "24",
+    "regular_price": 19399,
+    "happy_price": 9999,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 11",
+        "Display Size": "6.5\"",
+        "Resolution": "720 x 1600 pixels, PLS TFT",
+        "CPU": "Octa-core (2x1.6 GHz & 6x1.6 GHz)",
+        "Internal Memory": "64GB",
+        "RAM": "4GB",
+        "Primary Camera 1": "48 MP, f/1.8, (wide), AF",
+        "Primary Depth Camera": "2 MP, f/2.4, (depth)",
+        "Secondary Camera": "5 MP, f/2.2",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "Bluetooth 5.0, A2DP, LE",
+        "GPS": "A-GPS",
+        "USB": "microUSB 2.0",
+        "Battery": "Li-Po 5000 mAh"
+    },
+    "category": "mobile_phones"
+}

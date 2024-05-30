@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/SAMSUNG-QE-55-S95-CATXXH-",
+    "title": "4\u041a OLED UHD SMART TV SAMSUNG QE 55 S95 CATXXH, 55\"(139.7CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 111999,
+    "happy_price_mkd": 94999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "55\"(139.7cm) 4\u041a OLED UHD Smart TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:3.840 x 2.160\nNeural Quantum Processor 4K\nInfinity One Design\nDolby Atmos\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c:Tizen\nQuantum HDR OLED\nAI Upscale\nFilmmaker Mode (FMM)\nQ-Symphony\n\u0418\u0437\u043b\u0435\u0437 \u0437\u0430 \u0437\u0432\u0443\u043a (RMS):70 W\n\u0421\u0430\u0431\u0432\u0443\u0444\u0435\u0440\n\u0422\u0438\u043f \u043d\u0430 \u0437\u0432\u0443\u043a\u043e\u0442:4.2.2 CH\n\u0410\u0434\u0430\u043f\u0442\u0438\u0432\u0435\u043d \u0437\u0432\u0443\u043a +\n\u0410\u043c\u0431\u0438\u0435\u043d\u0442\u0430\u043b\u0435\u043d \u0440\u0435\u0436\u0438\u043c +\nWifi DEX\nFreeSync Premium PRO\n\u0421\u043b\u0438\u043a\u0430-\u0432\u043e-\u0441\u043b\u0438\u043a\u0430\n4 x HDMI,3  x USB, LAN, CI+(1.4), Bluetooth v5.2\nDVB-T2CS2 x 2",
+    "features": {
+        "screen_size_inches": 55,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "OLED",
+        "smart_tv_os": "Tizen",
+        "processor": "Neural Quantum Processor 4K",
+        "hdr_technology": "Quantum HDR OLED",
+        "audio_output_watts": 70,
+        "audio_features": "Dolby Atmos, Adaptive Sound+, Q-Symphony",
+        "hdmi_ports": 4,
+        "usb_ports": 3,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth v5.2",
+        "wifi_spec": "Wi-Fi 802.11n, 2 x 2, Dual band",
+        "ai_upscale": "Yes",
+        "dolby_atmos": "Yes",
+        "filmmaker_mode": "Yes",
+        "q_symphony": "Yes",
+        "picture_in_picture": "Yes",
+        "wireless_dex": "Yes",
+        "freesync_premium_pro": "Yes"
+    }
+}

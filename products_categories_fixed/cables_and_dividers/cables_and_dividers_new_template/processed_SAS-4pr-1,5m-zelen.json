@@ -1,0 +1,15 @@
+{
+    "url": "https://www.neptun.mk/categories/KABLI_I_RAZDELNICI/SAS-4pr-1,5m-zelen",
+    "title": "\u041f\u0420\u041e\u0414\u041e\u041b\u0416\u0415\u041d \u041a\u0410\u0411\u0415\u041b SAS 4PR/1,5M ZELEN",
+    "warranty_months": 72,
+    "regular_price_mkd": 699,
+    "happy_price_mkd": null,
+    "category": "KABLI_I_RAZDELNICI",
+    "description": "1.5m cable\nCable type: 3x 1.5mm\u00b2\nMax load: 3500W\nVoltage: 230V\nVoltage : 16A",
+    "features": {
+        "device_type": "Cable or Divider",
+        "cable_length_meters": 1.5,
+        "max_power_watts": 3500,
+        "voltage_volts": 230
+    }
+}

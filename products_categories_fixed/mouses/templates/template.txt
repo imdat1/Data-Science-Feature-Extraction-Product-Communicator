@@ -1,0 +1,102 @@
+Prompt:
+
+You are an AI assistant tasked with extracting detailed features from product descriptions to create structured data suitable for database insertion and querying. The goal is to ensure all features are in a flat JSON format without using lists or nested dictionaries. Each product's features should be extracted with clarity and consistency, using descriptive and query-friendly attribute names. If a feature is not found in the product description, it should be omitted from the JSON. Below is the template and guidelines for extracting features from mouse descriptions.
+
+Template:
+
+json
+Copy code
+{
+    "url": "{product_url}",
+    "title": "{product_title}",
+    "warranty_months": {warranty_months},
+    "regular_price_mkd": {regular_price},
+    "happy_price_mkd": {happy_price},
+    "category": "{category}",
+    "description": "{description}",
+    "features":{
+        "device_type": "Mouse",
+        "connection_type": "{connection_type}",
+        "dpi": {dpi},
+        "tracking_technology": "{tracking_technology}",
+        "buttons_count": {buttons_count},
+        "scroll_wheel": "{scroll_wheel}",
+        "battery_type": "{battery_type}",
+        "weight_grams": {weight_grams},
+        "ergonomic_design": "{ergonomic_design}",
+        "compatible_os": "{compatible_os}"
+    }
+}
+Guidelines:
+
+URL and Title:
+
+url: URL of the product page.
+title: Title or name of the product.
+General Attributes:
+
+warranty_months: Warranty period in months.
+regular_price_mkd: Regular price in MKD (Macedonian denar).
+happy_price_mkd: Discounted price in MKD, if available.
+category: Category of the product (e.g., "GLUVCINA").
+device_type: Specify the type of device, in this case, "Mouse".
+description: The full product description.
+Mouse Specific Features:
+
+connection_type: Connection type (e.g., "2.4GHz wireless technology", "USB-Typ-A-Plug 2.4 GHz RF").
+dpi: Resolution in dpi (e.g., 1000, 1600, 1200).
+tracking_technology: Tracking technology (e.g., "оптички").
+buttons_count: Number of buttons (e.g., 4, 3).
+scroll_wheel: Scroll wheel presence (e.g., "Yes", "No").
+battery_type: Battery type (e.g., "1 AA", "AAA Micro").
+weight_grams: Weight in grams (e.g., 70).
+ergonomic_design: Ergonomic design presence (e.g., "Yes", "No").
+compatible_os: Compatible operating systems (e.g., "MAC OS 10.10 or higher/Windows 11/10/8/7").
+Example Product Descriptions:
+
+ASUS WT465 Mouse:
+{
+    "url": "https://www.neptun.mk/categories/GLUVCINA/ASUS-WT465-2-4GHz-Wireless-Black",
+    "title": "MOUSE ASUS WT465 2.4GHZ WIRELESS BLACK",
+    "warranty_months": 12,
+    "regular_price_mkd": 799,
+    "happy_price_mkd": 649,
+    "category": "GLUVCINA",
+    "description": "Wireless mouse\nРезолуција:1000/1600dpi\n2.4GHz wireless technology\nTracking: оптички\nButtons:4+scroll\nБатерии: 1 AA\nТежина: 70g\nЕргономски дизајн",
+    "features":{
+        "device_type": "Mouse",
+        "connection_type": "2.4GHz wireless technology",
+        "dpi": 1600,
+        "tracking_technology": "оптички",
+        "buttons_count": 4,
+        "scroll_wheel": "Yes",
+        "battery_type": "1 AA",
+        "weight_grams": 70,
+        "ergonomic_design": "Yes"
+    }
+}
+HAMA MW-300 Mouse:
+{
+    "url": "https://www.neptun.mk/categories/GLUVCINA/HAMA-MW-300-3-Button-Wireless-Black",
+    "title": "WIFI MOUSE HAMA MW-300 3-BUTTON WIRELESS BLACK",
+    "warranty_months": 24,
+    "regular_price_mkd": 699,
+    "happy_price_mkd": null,
+    "category": "GLUVCINA",
+    "description": "Mouse\nРезолуција:1200\nКонекција:USB-Typ-A-Plug 2.4 GHz RF\nБатерија:AAA Micro\nWireless\nКомпатибилен:MAC OS 10.10 or higher/Windows 11/10/8/7",
+    "features":{
+        "device_type": "Mouse",
+        "connection_type": "USB-Typ-A-Plug 2.4 GHz RF",
+        "dpi": 1200,
+        "tracking_technology": "оптички",
+        "buttons_count": 3,
+        "scroll_wheel": "Yes",
+        "battery_type": "AAA Micro",
+        "compatible_os": "MAC OS 10.10 or higher/Windows 11/10/8/7"
+    }
+}
+Usage Instructions:
+
+Replace placeholder values with the extracted information from the product description.
+Ensure all numerical values are appropriate types (e.g., integers or floats).
+If a feature is not found, omit the corresponding key-value pair from the JSON.

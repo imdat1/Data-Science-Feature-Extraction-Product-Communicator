@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/mobilni_telefoni/Xiaomi-Redmi-Note-13-Pro-8-256GB-Lavender-Purple",
+    "title": "XIAOMI REDMI NOTE 13 PRO, 6.67\", 8/256GB, 200+8+2/16MP, 5000 MAH, LAVENDER PURPLE",
+    "warranty": "24",
+    "regular_price": 20499,
+    "happy_price": 18499,
+    "features": {
+        "Product Type": "Mobile Phone",
+        "Operating System": "Android 13, MIUI 14",
+        "Display Size": "6.67\"",
+        "Resolution": "1080 x 2400 pixels, AMOLED, 120Hz",
+        "Display Protection": "Corning Gorilla Glass 5",
+        "Chipset": "Mediatek Helio G99 Ultra",
+        "CPU": "Octa-core",
+        "Network": "4G(LTE)",
+        "Internal Memory": "256GB",
+        "RAM": "8GB",
+        "Primary Camera 1": "200 MP, (wide), PDAF, OIS",
+        "Primary Ultrawide Camera": "8 MP, 120°, (ultrawide)",
+        "Primary Macro Camera": "2 MP, f/2.4, (macro)",
+        "Secondary Camera": "16 MP, f/2.4, (wide)",
+        "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Bluetooth",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "USB": "Type-C 2.0, OTG",
+        "Fast Charging": "67W wired",
+        "Battery": "Li-Po 5000 mAh"
+    },
+    "category": "mobile_phones"
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-ROG-Strix-G16-G614JVR-N3086-16--i9-14900HX-16GB-DDR5-1TB-RTX-4060-8GB",
+    "title": "ЛАПТОП ASUS ROG STRIX G16 G614JVR-N3086 16\" I9-14900HX/16GB DDR5/1TB/RTX 4060 8GB",
+    "regular_price": 99999,
+    "happy_price": 92999,
+    "warranty": "24",
+    "features": {
+        "Display": "16\" (40.6cm)",
+        "Resolution": "(1920 x 1200) WUXGA, IPS, 165Hz",
+        "Processor": "Intel Core i9-14900HX (36M Cache, up to 5.8 GHz, 24 cores)",
+        "Graphics": "NVIDIA GeForce RTX 4060 8GB GDDR6",
+        "NVIDIA G-Sync": "Yes",
+        "RAM": "16GB DDR5",
+        "Storage": "1TB PCIe 4.0 NVMe M.2 SSD",
+        "Operating System": "Без оперативен систем",
+        "LAN": "10/100/1000 Mbps",
+        "Wireless": "Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth 5.3",
+        "Camera": "720P HD camera",
+        "Headset Port": "1x 3.5mm Combo Audio Jack",
+        "RJ45 Ethernet Port": "1x RJ45 LAN port",
+        "Thunderbolt Port": "1x Thunderbolt 4 support DisplayPort",
+        "USB-C Port": "1x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery / G-SYNC",
+        "USB Ports": "2x USB 3.2 Gen 2 Type-A",
+        "HDMI Port": "1x HDMI 2.1 FRL",
+        "Keyboard": "Backlit Chiclet Keyboard 4-Zone RGB",
+        "Microphone": true,
+        "Battery": "90WHrs, 4S1P, 4-cell Li-ion",
+        "Audio": "Тех AI noise-canceling - Dolby Atmos,Hi-Res certification\nAI noise-canceling technology\nDolby Atmos\nHi-Res certification\nSmart Amp Technology\nSecurity BIOS Administrator Password and User Password Protection",
+        "Speakers": "2 x встроенных динамика со Smart Amplifier Technology"
+    },
+    "category": "gaming_laptops"
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/HISENSE-43-A6-K",
+    "title": "4K UHD DLED SMART TV HISENSE 43 A6 K, 43\"(108CM)",
+    "warranty_months": "24",
+    "regular_price_mkd": "16.999",
+    "happy_price_mkd": "15.999",
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "43\"(108cm) 4k UHD DLED SMART TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(3840 x 2160)\nDLED:\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0458\u0430 \u043d\u0430 \u043f\u043e\u0437\u0430\u0434\u0438\u043d\u0441\u043a\u043e \u043e\u0441\u0432\u0435\u0442\u043b\u0443\u0432\u0430\u045a\u0435\nHDR \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0458\u0430: HDR10, HDR 10+\nDolby Vision\nVsync \u0444\u0440\u0435\u043a\u0432\u0435\u043d\u0446\u0438\u0458\u0430 : 60 Hz\n\u041e\u0441\u0432\u0435\u0442\u043b\u0435\u043d\u043e\u0441\u0442 \u043d\u0430 \u0441\u043b\u0438\u043a\u0430: 200 \u043d\u0438\u0442\u0438\nHLG \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0458\u0430\n\u0418\u0437\u043b\u0435\u0437\u043d\u0430 \u0458\u0430\u0447\u0438\u043d\u0430 \u043d\u0430 \u0437\u0432\u0443\u043a: 2x7 W\nDTS Virtual X\nAI 4k Upscaler\n\u041f\u043e\u0434\u0438\u0433\u0430\u045a\u0435 \u043d\u0430 \u0440\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430\u0442\u0430 \u0434\u043e Ultra HD\n3D \u0434\u0438\u0433\u0438\u0442\u0430\u043b\u0435\u043d \u0444\u0438\u043b\u0442\u0435\u0440\nMPEG \u043d\u0430\u043c\u0430\u043b\u0443\u0432\u0430\u045a\u0435 \u043d\u0430 \u0448\u0443\u043c\u043e\u0442\n\u041d\u0430\u043c\u0430\u043b\u0443\u0432\u0430\u045a\u0435 \u043d\u0430 \u0448\u0443\u043c\u043e\u0442 \u043d\u0430 \u0441\u043b\u0438\u043a\u0430\u0442\u0430\n\u041a\u043e\u0440\u0438\u0441\u043d\u0438\u0447\u043a\u0438 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0458\u0441: VIDAA\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d Wi-Fi\nBluetooth\nHDMI, USB, LAN,CI +\nDVB-T2/T/C/S2/S",
+    "features": {
+        "screen_size_inches": 43,
+        "screen_resolution": "3840 x 2160",
+        "screen_refresh_rate_hz": 60,
+        "panel_type": "DLED",
+        "hdr_technology": "HDR10, HDR 10+\nDolby Vision",
+        "audio_output_watts": "14",
+        "audio_features": "DTS Virtual X",
+        "hdmi_ports": null,
+        "usb_ports": null,
+        "lan_ports": null,
+        "bluetooth_version": null,
+        "wifi_spec": "Wi-Fi",
+        "hlg": "Yes",
+        "ai_upscale": "Yes",
+        "3d_support": "Yes"
+    }
+}

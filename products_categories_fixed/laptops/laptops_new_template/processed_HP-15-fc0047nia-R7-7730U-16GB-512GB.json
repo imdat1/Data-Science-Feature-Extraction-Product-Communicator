@@ -1,0 +1,33 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/HP-15-fc0047nia-R7-7730U-16GB-512GB",
+    "title": "HP 15-FC0047NIA R7-7730U/16GB/512GB",
+    "warranty_months": 36,
+    "regular_price_mkd": 35999,
+    "happy_price_mkd": 32999,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0439:15.6\" (39.6 cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(1920 x 1280) FHD, micro-edge, anti-glare, 250 nits, 45% NTSC\nChipset: AMD integrated SoC\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440: AMD Ryzen\u2122 7 7730U (up to 4.5 GHz max boost clock, 16 MB L3 cache, 8 cores, 16 threads)\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430: AMD Radeon\u00ae Graphics\nRAM \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430: 16 GB DDR4-3200 MHz (2 x 8 GB)\n\u0414\u0438\u0441\u043a (Storage): 512 GB PCIe\u00ae NVMe\u2122 M.2 SSD\n\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c\nRealtek Wi-Fi 6 (1x1) + Bluetooth\u00ae 5.3\n\u041a\u0430\u043c\u0435\u0440\u0430:HP True Vision 720p HD camera with temporal noise reduction and integrated dual array digital microphones\n\u0410\u0443\u0434\u0438\u043e:Dual speakers\n\u041f\u043e\u0440\u0442\u0438:\n1 USB Type-C\u00ae 5Gbps signaling rate\n2 USB Type-A 5Gbps signaling rate\n1 AC smart pin\n1 HDMI 1.4b\n1 headphone/microphone combo\nPower:45 W Smart AC power adapter\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:3-cell, 41 Wh Li-ion polymer Up to 10 hours",
+    "features": {
+        "screen_size_inches": 15.6,
+        "screen_resolution": "1920 x 1280",
+        "screen_brightness_nits": 250,
+        "screen_type": "FHD, micro-edge, anti-glare",
+        "processor_model": "AMD Ryzen\u2122 7 7730U",
+        "processor_cores": 8,
+        "processor_threads": 16,
+        "processor_max_clock_ghz": 4.5,
+        "gpu_model": "AMD Radeon\u00ae Graphics",
+        "ram_size_gb": 16,
+        "ram_type": "DDR4-3200 MHz",
+        "storage_size_gb": 512,
+        "storage_type": "PCIe\u00ae NVMe\u2122 M.2 SSD",
+        "wifi_standard": "Wi-Fi 6",
+        "bluetooth_version": 5.3,
+        "usb_type_c_ports": 1,
+        "usb_type_a_ports": 2,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1,
+        "battery_capacity_wh": 41,
+        "battery_cells": 3
+    }
+}

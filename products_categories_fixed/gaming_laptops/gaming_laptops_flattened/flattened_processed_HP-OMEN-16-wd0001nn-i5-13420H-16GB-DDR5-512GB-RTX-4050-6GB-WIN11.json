@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/HP-OMEN-16-wd0001nn-i5-13420H-16GB-DDR5-512GB-RTX-4050-6GB-WIN11",
+    "title": "ЛАПТОП HP OMEN 16-WD0001NN I5-13420H/16GB/512GB/RTX 4050 6GB/WIN11",
+    "warranty": "36",
+    "regular_price": 82999,
+    "happy_price": 66999,
+    "features": {
+        "Display": "16.1\" (40.9cm)",
+        "Resolution": "1920 x 1080 FHD IPS 144 Hz",
+        "Chipset": "Intel® integrated SoC",
+        "Processor": "Intel® Core™ i5-13420H (up to 4.6 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 8 cores, 12 threads)",
+        "Graphics": "NVIDIA® GeForce RTX™ 4050 6 GB GDDR6",
+        "RAM": "16GB DDR5",
+        "Storage": "512 SSD",
+        "Wireless": "Intel® Wi-Fi 6E AX211 (2x2) and Bluetooth® 5.3 wireless card (supporting gigabit data rate)",
+        "Camera": "HP True Vision 1080p FHD",
+        "Audio": "Audio by B&O; DTS:X® Ultra, Dual speakers, HP Audio Boost",
+        "LAN": "Integrated 10/100/1000 GbE LAN",
+        "Operating System": "Windows 11 Home",
+        "USB-C Ports": "2 x SuperSpeed USB Type-C® 5Gbps signaling rate (DisplayPort™ 1.4, HP Sleep and Charge)",
+        "USB-A Ports": "4 x SuperSpeed USB Type-A 5Gbps signaling rate, 1 x USB Type-A 5Gbps signaling rate (HP Sleep and Charge)",
+        "HDMI Port": "1 x HDMI 2.1",
+        "RJ45 Ethernet Port": "1 x RJ-45",
+        "Headset Port": "1 x headphone/microphone combo",
+        "Power Adapter": "230 W Smart AC power adapter",
+        "Battery": "6-cell, 83 Wh Li-ion polymer"
+    },
+    "category": "gaming_laptops"
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ACER-Nitro-5-AN517-54-79DQ-17-3--i7-11600H-32GB-512GB-SSD-RTX-3050-4GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ACER NITRO 5 AN517-54-79DQ 17.3\" I7-11600H/32GB/512GB SSD/RTX 3050 4GB",
+    "warranty": "24",
+    "regular_price": "60.999",
+    "happy_price": "56.999",
+    "features": {
+        "Display": "17.3\" (43.9cm)",
+        "Resolution": "FHD (1920 x 1080) FHD, IPS, 144Hz, 250 cd/m\u00b2",
+        "Processor": "Intel\u00ae Core\u2122 i7-11600H Hexa-core (6 Core\u2122, 4.60 GHz, 18 MB cache)",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 3050 4GB GDDR6",
+        "RAM": "32 GB DDR4 3200MHz",
+        "Storage": "512GB PCIe NVMe M.2 SSD",
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c",
+        "Wireless": "WIFI IEEE 802.11ax, Bluetooth 5.1",
+        "Camera": "HD WEB CAM",
+        "Microphone": true,
+        "Headset Port": "1 x Headset port",
+        "RJ45 Ethernet Port": "1 x Network (RJ-45) port",
+        "Audio Line Out": "1 x Audio Line Out port",
+        "USB Ports": "4 x USB ports",
+        "HDMI Port": "1 x HDMI port",
+        "Battery": "57Wh Lithium Polymer (Li-Polymer)",
+        "Battery Life": "\u0434\u043e 8h",
+        "Power Adapter": "180W AC Adapter",
+        "Backlit Keyboard": "Red Backlight"
+    }
+}

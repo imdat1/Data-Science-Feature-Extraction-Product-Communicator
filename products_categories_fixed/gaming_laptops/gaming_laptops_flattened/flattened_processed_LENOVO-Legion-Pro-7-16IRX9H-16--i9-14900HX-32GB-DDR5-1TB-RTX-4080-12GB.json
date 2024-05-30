@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/LENOVO-Legion-Pro-7-16IRX9H-16--i9-14900HX-32GB-DDR5-1TB-RTX-4080-12GB",
+    "title": "LENOVO LEGION PRO 7 16IRX9H 16\" I9-14900HX/32GB DDR5/1TB/RTX 4080 12GB",
+    "regular_price": 187999,
+    "happy_price": 175999,
+    "warranty": "24",
+    "features": {
+        "Display": "16\" (40.64cm)",
+        "Resolution": "WQXGA (2560x1600), IPS 500nits Anti-glare, 100% DCI-P3, 240Hz, DisplayHDR™ 400, Dolby® Vision®, G-SYNC®, Low Blue Light, High Gaming Performance",
+        "Processor": "Intel® Core™ i9-14900HX, 24C (8P + 16E) / 32T, P-core 2.2 / 5.8GHz, E-core 1.6 / 4.1GHz, 36MB",
+        "Graphics": "NVIDIA® GeForce RTX™ 4080 12GB GDDR6, Boost Clock 2280MHz, TGP 175W",
+        "RAM": "32GB DDR5-5600",
+        "Storage": "1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®",
+        "Audio": "High Definition (HD) Audio, Realtek® ALC3306 codec",
+        "Speakers": "Stereo speakers, 2W x2, audio by HARMAN, optimized with Nahimic Audio, Smart Amplifier (AMP)",
+        "Camera": "FHD 1080p with E-shutter",
+        "Microphone": "2x, Array",
+        "Ethernet": "100/1000M (RJ-45)",
+        "Wireless": "Intel® Killer Wi-Fi® 6E AX1675i, 11ax 2x2 + BT5.3",
+        "Keyboard": "RGB Backlit (with Lighting Lens)",
+        "USB Ports": "1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On, and 3x USB-A (USB 5Gbps / USB 3.2 Gen 1)",
+        "USB-C Ports": "1x USB-C® (USB 10Gbps / USB 3.2 Gen 2), with Lenovo® PD 140W and DisplayPort™ 1.4, and 1x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with DisplayPort™ 1.4",
+        "HDMI Port": "1x HDMI® 2.1, up to 8K/60Hz",
+        "Headset Port": "1x Headphone / microphone combo jack (3.5mm)",
+        "RJ45 Ethernet Port": "1x Ethernet (RJ-45)",
+        "Power Adapter": "330W Slim Tip Tiny GaN (3-pin)",
+        "Battery": "Integrated 99.9Wh"
+    },
+    "category": "gaming_laptops"
+}

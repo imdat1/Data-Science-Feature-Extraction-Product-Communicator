@@ -1,0 +1,31 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/ASUS-X515EA-BQ322W-i3-1115G4-8GB-512GB-WIN",
+    "title": "ASUS X515EA-BQ322W i3-1115G4/8GB/512GB WIN",
+    "warranty_months": 24,
+    "regular_price_mkd": 31999,
+    "happy_price_mkd": 21999,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0458: 15.6\" (39.6cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(1920 x 1080) FHD IPS 16:9\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Intel Core i3-1115G4 Processor 3.0 GHz (6M Cache, up to 4.1 GHz, 2 cores)\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430:Intel UHD Graphics\nRAM \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:8GB DDR4\n\u0414\u0438\u0441\u043a (Storage):512 GB SSD\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c:WIN\n\u041a\u0430\u043c\u0435\u0440\u0430:VGA\nWi-Fi 5(802.11ac)+Bluetooth 4.1 (Dual band) 1*1\n\u041f\u043e\u0440\u0442\u0438\n1 x USB 3.2 Gen 1 Type-A\n1 x USB 3.2 Gen 1 Type-C\n2 x USB 2.0 Type-A//1x HDMI 1.4\n1 x 3.5mm Combo Audio Jack\n1 x DC-in//N/A\nAC Adapter:4.0, 45W AC Adapter, Output: 19V DC, 2.37A, 45W, Input: 100~240V AC 50/60Hz universal\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:37WHrs, 2S1P, 2-cell Li-ion\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c: Windows 11 Home",
+    "features": {
+        "screen_size_inches": 15.6,
+        "screen_resolution": "1920 x 1080",
+        "screen_type": "IPS",
+        "processor_model": "Intel Core i3-1115G4",
+        "processor_cores": 2,
+        "processor_base_clock_ghz": 3.0,
+        "processor_max_clock_ghz": 4.1,
+        "gpu_model": "Intel UHD Graphics",
+        "ram_size_gb": 8,
+        "ram_type": "DDR4",
+        "storage_size_gb": 512,
+        "storage_type": "SSD",
+        "operating_system": "Windows 11 Home",
+        "wifi_standard": "Wi-Fi 5",
+        "bluetooth_version": 4.1,
+        "usb_type_c_ports": 1,
+        "usb_type_a_ports": 3,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1
+    }
+}

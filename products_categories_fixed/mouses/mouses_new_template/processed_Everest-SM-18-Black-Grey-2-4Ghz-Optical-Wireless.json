@@ -1,0 +1,19 @@
+{
+    "url": "https://www.neptun.mk/categories/GLUVCINA/Everest-SM-18-Black-Grey-2-4Ghz-Optical-Wireless",
+    "title": "MOUSE EVEREST SM-18 BLACK/GREY 2.4GHZ OPTICAL WIRELESS",
+    "warranty_months": 24,
+    "regular_price_mkd": 249,
+    "happy_price_mkd": null,
+    "category": "GLUVCINA",
+    "description": "Wireless mouse\nRange: 10m\n2.4GHz\nSensor: Optic Led\nNumber of buttons: 4\nResolution:800/1200/1600 Dpi\nBatteries: AA",
+    "features": {
+        "device_type": "Mouse",
+        "connection_type": "2.4GHz",
+        "dpi": 1600,
+        "tracking_technology": "Optic Led",
+        "buttons_count": 4,
+        "scroll_wheel": "Yes",
+        "battery_type": "AA",
+        "ergonomic_design": "No"
+    }
+}

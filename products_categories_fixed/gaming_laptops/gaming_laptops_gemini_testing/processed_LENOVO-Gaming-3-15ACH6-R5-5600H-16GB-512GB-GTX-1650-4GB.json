@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/LENOVO-Gaming-3-15ACH6-R5-5600H-16GB-512GB-GTX-1650-4GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f LENOVO GAMING 3 15ACH6 R5-5600H/16GB/512GB/GTX 1650 4GB",
+    "regular_price": "44.999",
+    "happy_price": "40.999",
+    "warranty": "24",
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "1920x1080 FHD, IPS 250nits Anti-glare, 45% NTSC",
+        "Chipset": "AMD SoC Platform",
+        "Processor": "AMD Ryzen\u2122 5 5600H (6C / 12T, 3.3 / 4.2GHz, 3MB L2 / 16MB L3)",
+        "Graphics": "NVIDIA\u00ae GeForce GTX 1650 4GB GDDR6",
+        "RAM": "16GB DDR4-3200",
+        "Storage": "512GB SSD M.2 2280 PCIe\u00ae 3.0x4 NVMe\u00ae",
+        "Wireless": "Wi-Fi\u00ae 6, 11ax 2x2 + BT5.1",
+        "Camera": "HD 720p with Privacy Shutter",
+        "Audio": "High Definition (HD) Audio, Realtek\u00ae ALC3287 codec",
+        "Speakers": "Stereo speakers, 2W x2, optimized with Nahimic Audio",
+        "Microphone": "2x, Array",
+        "Keyboard": "White Backlit, English",
+        "Headset Port": "1 x Headset / microphone combo jack (3.5mm)",
+        "RJ45 Ethernet Port": "1 x Ethernet (RJ-45)",
+        "USB Ports": "3 x USB 3.2 Gen 1 ports",
+        "HDMI Port": "1 x HDMI 2.0",
+        "USB-C Port": "1 x USB-C 3.2 Gen 1 (support data transfer only)",
+        "Battery": "Integrated 45Wh",
+        "Power Adapter": "135W Slim Tip (3-pin)"
+    }
+}

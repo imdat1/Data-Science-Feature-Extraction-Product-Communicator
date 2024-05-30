@@ -1,0 +1,22 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/GRUNDIG-32-GGH-6700B",
+    "title": "HD SMART LED TV GRUNDIG 32 GGH 6700B, 32\"(80CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 12999,
+    "happy_price_mkd": 9995,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "32\"(80cm) HD SMART LED TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:1.366x768\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:QuadCore\n\u041f\u0430\u043d\u0435\u043b: LED\n\u041e\u0421:\u0410\u043d\u0434\u0440\u043e\u0438\u0434 \u0441\u0438\u0441\u0442\u0435\u043c\n\u0417\u0432\u0443\u0447\u043d\u0438\u043a:2x8/16W\n2xHDMI, 2xUSB Bluetooth\nUSB Recording\nDVB-T2/C/S2\n\u0412\u0433\u0440\u0430\u0434\u0435\u043d Wi-Fi",
+    "features": {
+        "screen_size_inches": 32,
+        "screen_resolution": "1366x768",
+        "panel_type": "LED",
+        "smart_tv_os": "Android",
+        "processor": "QuadCore",
+        "audio_output_watts": "2x8/16W",
+        "hdmi_ports": 2,
+        "usb_ports": 2,
+        "dvb_t2cs2": "Yes",
+        "wifi_spec": "Wi-Fi"
+    }
+}

@@ -1,0 +1,272 @@
+You are an AI assistant tasked with extracting detailed features from various tech product descriptions to create structured data suitable for database insertion and querying. Your goal is to ensure all features are extracted with clarity and consistency, using descriptive and query-friendly attribute names. If a feature is not found in the product description, it should be omitted from the JSON. Ensure that numerical values are typed appropriately (integers or floats). Below is the template and guidelines for extracting features from a variety of tech product descriptions, including keyboards, headphones, computers, and more.
+
+Template:
+{
+    "url": "{product_url}",
+    "title": "{product_title}",
+    "warranty_months": {warranty_months},
+    "regular_price_mkd": {regular_price},
+    "happy_price_mkd": {happy_price},
+    "category": "{category}",
+    "device_type": "{device_type}",
+    "description": "{description}",
+    "features":{
+        "{feature_name_1}": "{feature_value_1}",
+        "{feature_name_2}": "{feature_value_2}",
+        "...": "...",
+        "{feature_name_n}": "{feature_value_n}"
+    }
+}
+Guidelines:
+
+URL and Title:
+
+url: URL of the product page.
+title: Title or name of the product.
+General Attributes:
+
+warranty_months: Warranty period in months.
+regular_price_mkd: Regular price in MKD (Macedonian denar).
+happy_price_mkd: Discounted price in MKD, if available.
+category: Category of the product (e.g., "Keyboards", "Headphones", "Computers").
+device_type: Specific type of the device (e.g., "Keyboard", "Headphone", "Laptop", "Monitor", "Cable").
+description: The full product description.
+Specific Features:
+
+Extract specific features mentioned in the product description with clear and descriptive attribute names.
+Ensure all numerical values are appropriately typed (e.g., integers or floats).
+If a feature is not found in the product description, omit the corresponding key-value pair from the JSON.
+Example:
+
+Given a product description for a keyboard and a laptop, the extracted JSON would look like this:
+
+Keyboard:
+{
+    "url": "https://www.example.com/products/keyboard123",
+    "title": "Mechanical Gaming Keyboard XYZ",
+    "warranty_months": 24,
+    "regular_price_mkd": 4599,
+    "happy_price_mkd": 3999,
+    "category": "tastaturi",
+    "device_type": "Keyboard",
+    "description": "Mechanical Gaming Keyboard with RGB lighting\nSwitch Type: Cherry MX Red\nKey Rollover: N-Key Rollover\nConnection: Wired\nCable Length: 1.8m\nBacklighting: RGB\nWeight: 1.2kg",
+    "features":{
+        "switch_type": "Cherry MX Red",
+        "key_rollover": "N-Key Rollover",
+        "connection_type": "Wired",
+        "cable_length_meters": 1.8,
+        "backlighting": "RGB",
+        "weight_kg": 1.2
+    }
+}
+Laptop:
+{
+    "url": "https://www.example.com/products/laptop456",
+    "title": "Laptop ABC 15.6\" i7/16GB/512GB SSD",
+    "warranty_months": 12,
+    "regular_price_mkd": 79999,
+    "happy_price_mkd": 74999,
+    "category": "kompjuteri",
+    "device_type": "Laptop",
+    "description": "15.6\" FHD Laptop with Intel i7 Processor\nProcessor: Intel Core i7-9750H\nRAM: 16GB DDR4\nStorage: 512GB SSD\nGraphics: NVIDIA GTX 1660 Ti\nBattery Life: Up to 10 hours\nWeight: 2.3kg",
+    "features":{
+        "display_size_inches": 15.6,
+        "resolution": "FHD",
+        "processor": "Intel Core i7-9750H",
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "graphics": "NVIDIA GTX 1660 Ti",
+        "battery_life_hours": 10,
+        "weight_kg": 2.3
+    }
+}
+Samsung 75" Neo QLED TV:
+{
+    "url": "https://www.neptun.mk/categories/televizori/SAMSUNG-QE-75-QN90-CATXXH",
+    "title": "4К NEO QLED UHD SMART TV SAMSUNG QE 75 QN90 CATXXH 75\"(190.5CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 219999,
+    "happy_price_mkd": 139995,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "75\"(190.5cm) 4К NEO QLED UHD Smart TV\nРезолуција:3,840 x 2,160\nRefresh Rate: 120Hz\nТехнологија Quantum Matrix Technology\nAnti Reflection\nUltimate UHD Dimming\nUltra Viewing Angle\nПроцесор Neural Quantum 4K\nNeo Quantum HDR+\nMotion Xcelerator Turbo+\nFilmmaker Mode (FMM)\nAI Upscale\nDolby Atmos\nАдаптивен звук+\nЗвук кој го следи објектот OTS Pro\nQ-Symphony\nИзлез за звук (RMS):60W\nВуфер\nОперативен систем:Tizen™\nАмбиентален режим+\nWireless Dex\nFreeSync Premium Pro\nСлика во слика\n4 x HDMI,2 x USB, eARC,LAN, CI+(1.4), Bluetooth v5.2\nDual Audio Support (Bluetooth)\nDVB-T2CS2 x 2\nBuds Auto Switch",
+    "features":{
+        "screen_size_inches": 75,
+        "screen_resolution": "3840 x 2160",
+        "screen_refresh_rate_hz": 120,
+        "panel_type": "QLED",
+        "smart_tv_os": "Tizen™",
+        "processor": "Neural Quantum 4K",
+        "hdr_technology": "Neo Quantum HDR+",
+        "audio_output_watts": 60,
+        "audio_features": "Dolby Atmos, Adaptive Sound+, OTS Pro, Q-Symphony",
+        "hdmi_ports": 4,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth v5.2",
+        "wifi_spec": "Wi-Fi 802.11n, 2 x 2, Dual band",
+        "anti_reflection": "Yes",
+        "ultimate_uhd_dimming": "Yes",
+        "ultra_viewing_angle": "Yes",
+        "ai_upscale": "Yes",
+        "dolby_atmos": "Yes",
+        "adaptive_sound_plus": "Yes",
+        "sound_following_object": "Yes",
+        "q_symphony": "Yes",
+        "picture_in_picture": "Yes",
+        "e_arc": "Yes",
+        "dual_audio_support": "Yes",
+        "dvb_t2cs2": "Yes",
+        "buds_auto_switch": "Yes",
+        "filmmaker_mode": "Yes",
+        "motion_xcelerator_turbo_plus": "Yes",
+        "ambient_mode_plus": "Yes",
+        "wireless_dex": "Yes",
+        "freesync_premium_pro": "Yes"
+    }
+}
+Philips 50" LED TV:
+{
+    "url": "https://www.neptun.mk/categories/televizori/PHILIPS-50-PUS-7608",
+    "title": "4K UHD LED SMART TV PHILIPS 50 PUS 7608, 50\"(127CM)",
+    "warranty_months": 24,
+    "regular_price_mkd": 25999,
+    "happy_price_mkd": 22999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "50\"(127cm) 4k UHD LED SMART TV\nРезолуција:3840 x 2160\nDual Core процесор\nDolby Vision and Dolby Atmos\nЗвучник:20W\nHDR10+/HLG\nPixel Precise Ultra HD\nDolby Vision\nYouTube, Netflix TV, Amazon Prime Video\nКонекција:\n3 x HDMI, 2 x USB, CI+, LAN\nWi-Fi 802.11n, 2 x 2, Dual band\nBluetooth 5.0\nDVB-T/T2/T2-HD/C/S/S2",
+    "features": {
+        "screen_size_inches": 50,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "LED",
+        "processor": "Dual Core",
+        "hdr_technology": "HDR10+/HLG, Dolby Vision",
+        "audio_output_watts": 20,
+        "audio_features": "Dolby Atmos",
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth 5.0",
+        "wifi_spec": "Wi-Fi 802.11n, 2 x 2, Dual band",
+        "hdr10_plus": "Yes",
+        "hlg": "Yes",
+        "pixel_precise_ultra_hd": "Yes",
+        "youtube": "Yes",
+        "netflix": "Yes",
+        "amazon_prime_video": "Yes"
+    }
+}
+ASUS WT465 Mouse:
+{
+    "url": "https://www.neptun.mk/categories/GLUVCINA/ASUS-WT465-2-4GHz-Wireless-Black",
+    "title": "MOUSE ASUS WT465 2.4GHZ WIRELESS BLACK",
+    "warranty_months": 12,
+    "regular_price_mkd": 799,
+    "happy_price_mkd": 649,
+    "category": "GLUVCINA",
+    "description": "Wireless mouse\nРезолуција:1000/1600dpi\n2.4GHz wireless technology\nTracking: оптички\nButtons:4+scroll\nБатерии: 1 AA\nТежина: 70g\nЕргономски дизајн",
+    "features":{
+        "device_type": "Mouse",
+        "connection_type": "2.4GHz wireless technology",
+        "dpi": 1600,
+        "tracking_technology": "оптички",
+        "buttons_count": 4,
+        "scroll_wheel": "Yes",
+        "battery_type": "1 AA",
+        "weight_grams": 70,
+        "ergonomic_design": "Yes"
+    }
+}
+HAMA MW-300 Mouse:
+{
+    "url": "https://www.neptun.mk/categories/GLUVCINA/HAMA-MW-300-3-Button-Wireless-Black",
+    "title": "WIFI MOUSE HAMA MW-300 3-BUTTON WIRELESS BLACK",
+    "warranty_months": 24,
+    "regular_price_mkd": 699,
+    "happy_price_mkd": null,
+    "category": "GLUVCINA",
+    "description": "Mouse\nРезолуција:1200\nКонекција:USB-Typ-A-Plug 2.4 GHz RF\nБатерија:AAA Micro\nWireless\nКомпатибилен:MAC OS 10.10 or higher/Windows 11/10/8/7",
+    "features":{
+        "device_type": "Mouse",
+        "connection_type": "USB-Typ-A-Plug 2.4 GHz RF",
+        "dpi": 1200,
+        "tracking_technology": "оптички",
+        "buttons_count": 3,
+        "scroll_wheel": "Yes",
+        "battery_type": "AAA Micro",
+        "compatible_os": "MAC OS 10.10 or higher/Windows 11/10/8/7"
+    }
+}
+Apple MacBook Air:
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/Apple-MacBook-Air-15-3-M3-8C-CPU-10C-GPU-8GB-512GB-Silver-mryq3ze-a",
+    "title": "APPLE MACBOOK AIR 15.3 M3/8C CPU/10C GPU/8GB/512GB SILVER MRYQ3ZE/A",
+    "warranty_months": 12,
+    "regular_price_mkd": 110999,
+    "happy_price_mkd": null,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "Лаптоп\nДисплеј:15.3\"(38.8cm)\nПроцесор:Apple M3 chip with 8-core\nGPU 10-core\nРезолуција:(2880x1864) Liquid Retina display, 224ppi, 500nits\nМеморија:8GB\n512GB SSD\nFaceTime HD камера од 1080p\nТри микрофони\nСистем од четири звучници со Spatial audio.\nBacklit Magic Keyboard со Touch ID, Ambient light sensor\nForce Touch Trackpad\nBluetooth 5.3\nWi-Fi 6E (802.11ax)\n2 x Thunderbolt / USB 4\nMagSafe 3 charging port\n3.5 mm headphone jack\nCharging\nDisplayPort\nThunderbolt 3 (up to 40Gb/s)\nUSB 4 (up to 40Gb/s)\n35W USB-C Power Adapter\nБатерија:66.5 Wh - 18 h",
+    "features":{
+        "screen_size_inches": 15.3,
+        "screen_resolution": "2880 x 1864",
+        "screen_brightness_nits": 500,
+        "screen_type": "Liquid Retina",
+        "processor_model": "Apple M3 chip",
+        "processor_cores": 8,
+        "gpu_model": "10-core",
+        "ram_size_gb": 8,
+        "storage_size_gb": 512,
+        "storage_type": "SSD",
+        "wifi_standard": "Wi-Fi 6E",
+        "bluetooth_version": 5.3,
+        "usb_type_c_ports": 2,
+        "audio_jack_ports": 1,
+        "keyboard_type": "Backlit Magic Keyboard",
+        "audio_feature_1": "Spatial audio",
+        "battery_capacity_wh": 66.5
+    }
+}
+ASUS Vivobook Go 15:
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/ASUS-Vivobook-Go-15-E510MA-EJ1462-N4020-8GB-512GB",
+    "title": "ЛАПТОП ASUS VIVOBOOK GO 15 E510MA-EJ1462 N4020/8GB/512GB",
+    "warranty_months": 24,
+    "regular_price_mkd": 17999,
+    "happy_price_mkd": 14999,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "Лаптоп\nДисплеј: 15.6 (39.6cm)\nРезолуција:FHD (1920 x 1080), 60Hz, IPS, 200nits\nПроцесор:Intel Celeron N4020 Processor 1.1 GHz (4M Cache, up to 2.8 GHz, 2 cores)\nГрафика:Intel UHD Graphics 600\nRAM меморија:8GB DDR4\nДиск (Storage): 512GB M.2 NVMe PCIe 3.0 SSD\nLED Backlit\nБез оперативен систем\nWi-Fi 5(802.11ac) (Dual band) 1*1 + Bluetooth 5.1\nПорти:\n1x USB 2.0 Type-A\n1x USB 3.2 Gen 1 Type-A\n1x USB 3.2 Gen 1 Type-C\n1x HDMI 1.4\n1x Headphone/Headset\n1x DC-in\nАудио:SonicMaster\nВградени звучници\nВграден микрофон\nБатерија:42WHrs, 3S1P, 3-cell Li-ion\n33W AC Adapter",
+    "features":{
+        "screen_size_inches": 15.6,
+        "screen_resolution": "1920 x 1080",
+        "screen_refresh_rate_hz": 60,
+        "screen_brightness_nits": 200,
+        "screen_type": "IPS",
+        "processor_model": "Intel Celeron N4020",
+        "processor_cores": 2,
+        "processor_base_clock_ghz": 1.1,
+        "processor_max_clock_ghz": 2.8,
+        "gpu_model": "Intel UHD Graphics 600",
+        "ram_size_gb": 8,
+        "ram_type": "DDR4",
+        "storage_size_gb": 512,
+        "storage_type": "M.2 NVMe PCIe 3.0 SSD",
+        "wifi_standard": "Wi-Fi 5",
+        "bluetooth_version": 5.1,
+        "usb_type_c_ports": 1,
+        "usb_type_a_ports": 2,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1,
+        "keyboard_type": "LED Backlit",
+        "audio_feature_1": "SonicMaster",
+        "battery_capacity_wh": 42,
+        "battery_cells": 3
+    }
+}
+Usage Instructions:
+
+Replace placeholder values with the extracted information from the product description.
+Do not use generic names for placeholder values like "feature_1, feature_2", but use the extracted information from the product description.
+Ensure all numerical values are in appropriate types (integers or floats), for example dimension values.
+If a feature is not found, omit the corresponding key-value pair from the JSON.

@@ -1,0 +1,21 @@
+{
+    "url": "https://www.neptun.mk/categories/GLUVCINA/LOGITECH-Wi-Fi-M187-Red",
+    "title": "MOUSE LOGITECH WI-FI M187 RED",
+    "warranty_months": 24,
+    "regular_price_mkd": 1199,
+    "happy_price_mkd": 395,
+    "category": "GLUVCINA",
+    "description": "Wireless mouse\nResolution:1000dpi\n2.4 GHz\nButtons:3",
+    "features": {
+        "device_type": "Mouse",
+        "connection_type": "2.4 GHz",
+        "dpi": 1000,
+        "tracking_technology": null,
+        "buttons_count": 3,
+        "scroll_wheel": null,
+        "battery_type": null,
+        "weight_grams": null,
+        "ergonomic_design": null,
+        "compatible_os": null
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-TUF-Gaming-F15-FX506HF-HN014-i5-11400H-8GB-512GB-RTX-2050-4GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ASUS TUF GAMING F15 FX506HF-HN014 I5-11400H/8GB/512GB/RTX 2050 4GB",
+    "warranty": "24",
+    "regular_price": "47.999",
+    "happy_price": "38.999",
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(1920 x 1080) FHD, IPS, 16:9, 144Hz",
+        "Processor": "Intel Core i5-11400H Processor 2.7 GHz (12M Cache, up to 4.5 GHz, 6 Cores)",
+        "Graphics": "NVIDIA GeForce RTX 2050 4GB GDDR6",
+        "RAM": "8GB DDR4 3200Mhz",
+        "Storage": "512GB PCIe 3.0 NVMe M.2 SSD",
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c",
+        "LAN": "10/100/1000 Mbps",
+        "Wireless": "Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth 5.2 (*Bluetooth version may change with OS version different.)",
+        "Camera": "720P HD camera",
+        "Microphone": true,
+        "Headset Port": "1x 3.5mm Combo Audio Jack",
+        "RJ45 Ethernet Port": "1x RJ45 LAN port",
+        "USB Ports": "3x USB 3.2 Gen 1 Type-A",
+        "HDMI Port": "1x HDMI 2.1 TMDS",
+        "USB-C Port": "1x Thunderbolt 4 support DisplayPort",
+        "Battery": "48WHrs, 3S1P, 3-cell Li-ion",
+        "Power Adapter": "150W AC Adapter, Output: 20V DC, 7.5A, 150W, Input: 100~240V AC, 50/60Hz universal",
+        "Backlit Keyboard": true,
+        "Display Port": true
+    }
+}

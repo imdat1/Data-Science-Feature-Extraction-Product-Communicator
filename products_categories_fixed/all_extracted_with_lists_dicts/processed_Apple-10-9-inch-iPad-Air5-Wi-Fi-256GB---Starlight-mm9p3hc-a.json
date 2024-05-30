@@ -1,0 +1,50 @@
+{
+    "url": "https://www.neptun.mk/categories/TABLETI/Apple-10-9-inch-iPad-Air5-Wi-Fi-256GB---Starlight-mm9p3hc-a",
+    "title": "\u0422\u0410\u0411\u041b\u0415\u0422 APPLE 10.9-INCH IPAD AIR5 WI-FI 256GB - STARLIGHT MM9P3HC/A",
+    "warranty_months": 12,
+    "regular_price_mkd": 57899,
+    "happy_price_mkd": 52999,
+    "category": "TABLETI",
+    "device_type": "Tablet",
+    "description": "Ipad\nE\u043a\u0440\u0430\u043d:10.9\" (27.9 \u0441\u043c) LED\u2011backlit Multi\u2011Touch display with IPS technology\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c:iPadOS\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:2360-1640 pix\nChipset:Apple M1 chip. 8-core. CPU 8-core graphics. Apple Neural Engine\nCPU:Octa-core\n\u0418\u043d\u0442\u0435\u0440\u043d\u0430 \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:256GB\nRAM \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:8GB\n\u041f\u0440\u0438\u043c\u0430\u0440\u043d\u0430 \u043a\u0430\u043c\u0435\u0440\u0430:\n12MP Wide camera, \u0192/1.8 aperture\nDigital zoom up to 5x\nFive-element lens\nAutofocus with Focus Pixels\nPanorama (up to 63MP)\nSmart HDR 3\nWide color capture for photos and Live Photos\nPhoto geotagging\nAuto image stabilization\nBurst mode\nImage formats captured: HEIF and JPEG\n\u0421\u0435\u043a\u0443\u043d\u0434\u0430\u0440\u043d\u0430 \u043a\u0430\u043c\u0435\u0440\u0430:\n12MP Ultra Wide front camera, 122\u00b0 field of view \u0192/2.4 aperture\nSmart HDR 3\n1080p HD video recording at 25 fps, 30 fps, or 60 fps\nTime\u2011lapse video with stabilization\nExtended dynamic range for video up to 30 fps\nCinematic video stabilization (1080p and 720p)\nWide color capture for photos and Live Photos\nLens correction\nRetina Flash\nAuto image stabilization\nBurst mode\nWifi:802.11ax Wi-Fi 6\nBluetooth 5.0 technology\nUSB TYPE-C\nFast charging 20W\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430: Li-Ion (32.4 Wh)",
+    "features": {
+        "display_size_inches": 10.9,
+        "display_resolution": "2360-1640 pix",
+        "operating_system": "iPadOS",
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "rear_camera_mp": 12,
+        "rear_camera_aperture": "1.8",
+        "rear_camera_features": [
+            "Digital zoom up to 5x",
+            "Five-element lens",
+            "Autofocus with Focus Pixels",
+            "Panorama (up to 63MP)",
+            "Smart HDR 3",
+            "Wide color capture for photos and Live Photos",
+            "Photo geotagging",
+            "Auto image stabilization",
+            "Burst mode",
+            "Image formats captured: HEIF and JPEG"
+        ],
+        "front_camera_mp": 12,
+        "front_camera_aperture": "2.4",
+        "front_camera_features": [
+            "Smart HDR 3",
+            "1080p HD video recording at 25 fps, 30 fps, or 60 fps",
+            "Time\u2011lapse video with stabilization",
+            "Extended dynamic range for video up to 30 fps",
+            "Cinematic video stabilization (1080p and 720p)",
+            "Wide color capture for photos and Live Photos",
+            "Lens correction",
+            "Retina Flash",
+            "Auto image stabilization",
+            "Burst mode"
+        ],
+        "wifi": "802.11ax Wi-Fi 6",
+        "bluetooth": "5.0",
+        "usb": "TYPE-C",
+        "fast_charging": "20W",
+        "battery_wh": 32.4
+    }
+}

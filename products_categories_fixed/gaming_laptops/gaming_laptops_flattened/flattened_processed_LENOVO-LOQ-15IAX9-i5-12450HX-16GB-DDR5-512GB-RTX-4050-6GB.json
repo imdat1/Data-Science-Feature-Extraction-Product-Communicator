@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/LENOVO-LOQ-15IAX9-i5-12450HX-16GB-DDR5-512GB-RTX-4050-6GB",
+    "title": "ЛАПТОП LENOVO LOQ 15IAX9 I5-12450HX/16GB DDR5/512GB/RTX 4050 6GB",
+    "regular_price": 57999,
+    "happy_price": 50999,
+    "warranty": "24",
+    "features": {
+        "Display": "15.6\" (39.5cm)",
+        "Resolution": "FHD (1920x1080) IPS 300nits Anti-glare, 100% sRGB, 144Hz, G-SYNC®",
+        "Processor": "Intel® Core™ i5-12450HX, 8C (4P + 4E) / 12T, P-core up to 4.4GHz, E-core up to 3.1GHz, 12MB",
+        "Graphics": "NVIDIA® GeForce RTX™ 4050 6GB GDDR6, Boost Clock 2370MHz, TGP 105W",
+        "RAM": "16GB DDR5-4800",
+        "Storage": "512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®",
+        "Operating System": "Без оперативен систем",
+        "Audio": "High Definition (HD) Audio, Realtek® ALC3287 codec",
+        "Speakers": "Stereo speakers, 2W x2, optimized with Nahimic Audio",
+        "Camera": "HD 720p with E-shutter",
+        "Microphone": "2x, Array",
+        "Ethernet": "100/1000M (RJ-45)",
+        "Wireless": "Wi-Fi® 6E, 11ax 2x2 + BT5.2",
+        "Keyboard": "White Backlit",
+        "USB Ports": "3x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-C® (USB 10Gbps / USB 3.2 Gen 2), with PD 140W and DisplayPort™ 1.4",
+        "HDMI Port": "1x HDMI® 2.1, up to 8K/60Hz",
+        "Headset Port": "1x Headphone / microphone combo jack (3.5mm)",
+        "RJ45 Ethernet Port": "1x Ethernet (RJ-45)",
+        "Power Adapter": "170W Slim Tip (3-pin)",
+        "Battery": "Integrated 60Wh"
+    },
+    "category": "gaming_laptops"
+}

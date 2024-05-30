@@ -1,0 +1,31 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/LENOVO-IdeaPad-Gaming-3-15ACH6-R5-5500H-16GB-512GB-RTX-2050-4GB",
+    "title": "LENOVO IdeaPad Gaming 3 15ACH6 R5-5500H/16GB/512GB/RTX 2050 4GB",
+    "warranty": "24",
+    "regular_price": 39999,
+    "happy_price": 36999,
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(1920x1080) FHD, IPS 250nits Anti-glare, 45% NTSC, 60Hz",
+        "Chipset": "AMD SoC Platform",
+        "Processor": "AMD Ryzen™ 5 5500H (4C / 8T, 3.3 / 4.2GHz, 2MB L2 / 8MB L3)",
+        "Graphics": "NVIDIA® GeForce RTX™ 2050 4GB GDDR6",
+        "RAM": "16GB DDR4-3200",
+        "Storage": "512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®",
+        "Operating System": "Без оперативен систем",
+        "Wireless": "Wi-Fi® 6, 11ax 2x2 + BT5.1",
+        "Camera": "HD 720p with Privacy Shutter",
+        "Audio": "High Definition (HD) Audio, Realtek® ALC3287 codec",
+        "Speakers": "Stereo speakers, 2W x2, Nahimic Audio",
+        "Microphone": "2x, Array",
+        "Keyboard": "White Backlit, English",
+        "Headset Port": "1 x Headset (headphone and microphone combo) port",
+        "RJ45 Ethernet Port": "1 x Ethernet (RJ-45)",
+        "USB Ports": "2x USB 3.2 Gen 1, 1x USB-C® 3.2 Gen 1 (support data transfer only)",
+        "HDMI Port": "1x HDMI® 2.0",
+        "Battery": "Integrated 45Wh",
+        "Power Adapter": "135W Slim Tip (3-pin)",
+        "Display Port": false
+    },
+    "category": "gaming_laptops"
+}

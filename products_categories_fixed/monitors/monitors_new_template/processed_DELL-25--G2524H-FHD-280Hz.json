@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/monitori1/DELL-25--G2524H-FHD-280Hz",
+    "title": "\u041c\u041e\u041d\u0418\u0422\u041e\u0420 DELL 25\" G2524H FHD 280HZ, HDMI, DP, USB",
+    "warranty_months": 36,
+    "regular_price_mkd": 17999,
+    "happy_price_mkd": 15999,
+    "category": "monitori1",
+    "device_type": "Monitor",
+    "description": "\u041c\u043e\u043d\u0438\u0442\u043e\u0440\n\u0415\u043a\u0440\u0430\u043d:25\"(63.5cm) FHD 280Hz\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:1920 x 1080\nContrast Ratio (dynamic):1.000:1\nFlat screen\nFast IPS\nAspect Ratio:16:9\n\u041e\u0441\u0432\u0435\u0442\u043b\u0435\u043d\u043e\u0441\u0442:400cd/m2\n\u0412\u0440\u0435\u043c\u0435 \u043d\u0430 \u0440\u0435\u0430\u043a\u0446\u0438\u0458\u0430:1ms\n\u041f\u043e\u0434\u0440\u0436\u0430\u043d\u0438 \u0431\u043e\u0438:16.8 million colors\nVESA Adaptive-Sync\nNVIDIA G-SYNC Compatible\nAMD FreeSync Premium\n\u0410\u0433\u043e\u043b \u043d\u0430 \u0432\u0438\u0434\u043b\u0438\u0432\u043e\u0441\u0442 178\u00b0/178\u00b0\n\u041f\u0440\u0438\u043a\u043b\u0443\u0447\u043e\u0446\u0438:\nHDMI (HDCP 1.4)\n2 x DisplayPort 1.4 (HDCP 1.4)\nUSB 3.2 Gen 1 upstream\nUSB 3.2 Gen 1 downstream with Battery Charging 1.2\nUSB 3.2 Gen 1 downstream\nErgonomic info:\nRotation Angle: -90\u00b0/+90\u00b0\nTilt Angle: -5\u00b0/+21\u00b0\nHeight Adjustment: 5.1 in\nSwivel Angle: -45\u00b0/+45\u00b0\nVESA Mounting Interface: 100mm",
+    "features": {
+        "screen_size_inches": 25,
+        "screen_resolution": "1920 x 1080",
+        "screen_refresh_rate_hz": 280,
+        "screen_brightness_nits": 400,
+        "screen_type": "Flat",
+        "panel_type": "Fast IPS",
+        "aspect_ratio": "16:9",
+        "contrast_ratio_static": "1000:1",
+        "response_time_ms": 1,
+        "supported_colors_million": 16.8,
+        "viewing_angle_horiz_degrees": 178,
+        "viewing_angle_vert_degrees": 178,
+        "hdmi_ports": 1,
+        "displayport_ports": 2,
+        "usb_c_ports": 0,
+        "usb_ports": 3,
+        "ethernet_ports": 0,
+        "speakers_watts": null,
+        "adaptive_sync": "VESA Adaptive-Sync\nNVIDIA G-SYNC Compatible\nAMD FreeSync Premium",
+        "ergonomics": "Rotation Angle: -90\u00b0/+90\u00b0\nTilt Angle: -5\u00b0/+21\u00b0\nHeight Adjustment: 5.1 in\nSwivel Angle: -45\u00b0/+45\u00b0\nVESA Mounting Interface: 100mm"
+    }
+}

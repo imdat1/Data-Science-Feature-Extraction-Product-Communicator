@@ -1,0 +1,42 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ASUS-TUF-Gaming-F15-FX507ZC4-HN083-i5-12500H-16GB-512GB-RTX-3050-4GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ASUS TUF GAMING F15 FX507ZC4-HN083 I5-12500H/16GB/512GB/RTX 3050 4GB",
+    "warranty_months": 24,
+    "regular_price_mkd": 54999,
+    "happy_price_mkd": 46999,
+    "category": "gaming_laptopi",
+    "device_type": "Gaming Laptop",
+    "description": [
+        "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0458:15.6\" (39.6cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(1920 x 1080) FHD, IPS, 144Hz\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:12th Gen Intel Core i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 12 cores: 4 P-cores)\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430:NVIDIA GeForce RTX 3050 4GB GDDR6\nRAM \u041c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:16GB DDR4-3200\n\u0414\u0438\u0441\u043a (Storage):512GB PCIe 3.0 NVMe M.2 SSD\n\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c\nLAN 10/100/1000 Mbps\nWi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth 5.2\n\u041f\u043e\u0440\u0442\u0438:\n1x Thunderbolt 4 support DisplayPort\n1x USB 3.2 Gen 2 Type-C support DisplayPort / G-SYNC\n2x USB 3.2 Gen 1 Type-A\n1x HDMI 2.0b\n1x 3.5mm Combo Audio Jack\n720P HD camera\n\u0412\u0433\u0430\u0434\u0435\u043d \u043c\u0438\u043a\u0440\u043e\u0444\u043e\u043d\n\u041e\u0441\u0432\u0435\u0442\u043b\u0435\u043d\u0430 \u0442\u0430\u0441\u0442\u0430\u0442\u0443\u0440\u0430: Backlit Chiclet Keyboard 1-Zone RGB\n2x \u0437\u0432\u0443\u0447\u043d\u0438\u0446\u0438\n\u0410\u0443\u0434\u0438\u043e: AI noise-canceling - Dolby Atmos\nSecurity BIOS Administrator Password and User Password Protection\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:56WHrs, 4S1P, 4-cell Li-ion\n200W AC Adapter"
+    ],
+    "features": {
+        "screen_size_inches": 15.6,
+        "screen_resolution": "1920 x 1080",
+        "screen_type": "IPS",
+        "screen_refresh_rate_hz": 144,
+        "processor_model": "12th Gen Intel Core i5-12500H Processor",
+        "processor_cores": 12,
+        "processor_threads": null,
+        "processor_base_clock_ghz": 2.5,
+        "processor_max_clock_ghz": 4.5,
+        "gpu_model": "NVIDIA GeForce RTX 3050",
+        "gpu_memory_gb": 4,
+        "ram_size_gb": 16,
+        "ram_type": "DDR4-3200",
+        "storage_size_tb": 0.512,
+        "storage_type": "PCIe 3.0 NVMe M.2 SSD",
+        "operating_system": "Windows 11 Home",
+        "wifi_standard": "Wi-Fi 6(802.11ax)",
+        "bluetooth_version": 5.2,
+        "usb_type_c_ports": 2,
+        "usb_type_a_ports": 2,
+        "hdmi_ports": 1,
+        "audio_jack_ports": 1,
+        "card_reader": "microSD (UHS-II)",
+        "keyboard_type": "Backlit Chiclet Keyboard 1-Zone RGB",
+        "audio_feature_1": "AI noise-canceling - Dolby Atmos",
+        "battery_capacity_wh": 56,
+        "battery_cells": 4,
+        "security_feature_1": "BIOS Administrator Password and User Password Protection"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.neptun.mk/categories/BATERII_2/PANASONIC-BK-4MCDE-4BE",
+    "title": "\u0411\u0430\u0442\u0435\u0440\u0438\u0438 PANASONIC BK-4MCDE/4BE",
+    "warranty_months": 12,
+    "regular_price_mkd": 639,
+    "happy_price_mkd": null,
+    "category": "BATERII_2",
+    "device_type": "Battery",
+    "description": [
+        "\u0411\u0430\u0442\u0435\u0440\u0438\u0438 PANASONIC BK-4MCDE/4BE"
+    ],
+    "features": {
+        "capacity_mah": 750,
+        "voltage_v": 1.2,
+        "type": "Ni-MH",
+        "size": "AAA"
+    }
+}

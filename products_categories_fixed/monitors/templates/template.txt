@@ -1,0 +1,153 @@
+Prompt:
+
+You are an AI assistant tasked with extracting detailed features from product descriptions to create structured data suitable for database insertion and querying. The goal is to ensure all features are in a flat JSON format without using lists or nested dictionaries. Each product's features should be extracted with clarity and consistency, using descriptive and query-friendly attribute names. If a feature is not found in the product description, it should be omitted from the JSON. Below is the template and guidelines for extracting features from monitors.
+
+Template:
+{
+    "url": "{product_url}",
+    "title": "{product_title}",
+    "warranty_months": {warranty_months},
+    "regular_price_mkd": {regular_price},
+    "happy_price_mkd": {happy_price},
+    "category": "{category}",
+    "device_type": "Monitor",
+    "description": "{description}",
+    "features":{
+        "screen_size_inches": {screen_size_inches},
+        "screen_resolution": "{screen_resolution}",
+        "screen_refresh_rate_hz": {screen_refresh_rate_hz},
+        "screen_brightness_nits": {screen_brightness_nits},
+        "screen_type": "{screen_type}",
+        "panel_type": "{panel_type}",
+        "aspect_ratio": "{aspect_ratio}",
+        "contrast_ratio_static": "{contrast_ratio_static}",
+        "response_time_ms": {response_time_ms},
+        "supported_colors_million": {supported_colors_million},
+        "viewing_angle_horiz_degrees": {viewing_angle_horiz_degrees},
+        "viewing_angle_vert_degrees": {viewing_angle_vert_degrees},
+        "hdmi_ports": {hdmi_ports},
+        "displayport_ports": {displayport_ports},
+        "vga_ports": {vga_ports},
+        "audio_in_ports": {audio_in_ports},
+        "usb_c_ports": {usb_c_ports},
+        "usb_ports": {usb_ports},
+        "ethernet_ports": {ethernet_ports},
+        "speakers_watts": {speakers_watts},
+        "adaptive_sync": "{adaptive_sync}",
+        "ergonomics": "{ergonomics}"
+    }
+}
+Guidelines:
+
+URL and Title:
+
+url: URL of the product page.
+title: Title or name of the product.
+General Attributes:
+
+warranty_months: Warranty period in months.
+regular_price_mkd: Regular price in MKD (Macedonian denar).
+happy_price_mkd: Discounted price in MKD, if available.
+category: Category of the product (e.g., "monitori1").
+device_type: Specify the type of device, in this case, "Monitor".
+description: The full product description.
+Screen Details:
+
+screen_size_inches: Screen size in inches.
+screen_resolution: Screen resolution (e.g., "1920 x 1080").
+screen_refresh_rate_hz: Screen refresh rate in Hz.
+screen_brightness_nits: Screen brightness in nits.
+screen_type: Type of screen (e.g., "Flat", "Curved").
+panel_type: Type of panel (e.g., "IPS", "TN").
+aspect_ratio: Aspect ratio (e.g., "16:9").
+contrast_ratio_static: Static contrast ratio (e.g., "1000:1").
+Performance:
+
+response_time_ms: Response time in milliseconds (ms).
+supported_colors_million: Number of supported colors in millions (e.g., 16.7).
+viewing_angle_horiz_degrees: Horizontal viewing angle in degrees.
+viewing_angle_vert_degrees: Vertical viewing angle in degrees.
+Ports:
+
+hdmi_ports: Number of HDMI ports.
+displayport_ports: Number of DisplayPort ports.
+vga_ports: Number of VGA ports.
+audio_in_ports: Number of audio in ports.
+usb_c_ports: Number of USB-C ports.
+usb_ports: Number of USB ports.
+ethernet_ports: Number of Ethernet ports (e.g., RJ45).
+Speakers and Audio:
+
+speakers_watts: Speaker output in watts (e.g., 2W x 2).
+Adaptive Sync and Ergonomics:
+
+adaptive_sync: Type of adaptive sync technology (e.g., "FreeSync Premium", "G-SYNC Compatible").
+ergonomics: Ergonomic features (e.g., "TILT / -5/23").
+Example Product Descriptions:
+
+AOC 27" Monitor:
+{
+    "url": "https://www.neptun.mk/categories/monitori1/AOC-27--27G2SPAE-BK-FHD-165Hz",
+    "title": "МОНИТОР AOC 27\" 27G2SPAE/BK FHD 165HZ, 27\"(68.6CM), 1MS",
+    "warranty_months": 36,
+    "regular_price_mkd": 10999,
+    "happy_price_mkd": 9999,
+    "category": "monitori1",
+    "device_type": "Monitor",
+    "description": "Монитор\nЕкран:27\"(68.6cm) FHD\nРезолуција:1920x1080\nIPS панел\nFlat\nAspect Ratio - 16:9\nContrast Ratio Static:1.000:1\nОсветленост:250cd/m2\nВреме на реакција:1ms\nRefresh rate: 165Hz\nПодржани бои:16.7M\nАгол на видливост 178°/178°\nHDMI, DisplayPort, VGA, AUDIO IN\nЗвучници: 2 W x 2\nFreeSync Premium and G-SYNC Compatible\nErgonomic info: TILT / -5/23",
+    "features":{
+        "screen_size_inches": 27,
+        "screen_resolution": "1920x1080",
+        "screen_refresh_rate_hz": 165,
+        "screen_brightness_nits": 250,
+        "screen_type": "Flat",
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9",
+        "contrast_ratio_static": "1000:1",
+        "response_time_ms": 1,
+        "supported_colors_million": 16.7,
+        "viewing_angle_horiz_degrees": 178,
+        "viewing_angle_vert_degrees": 178,
+        "hdmi_ports": 1,
+        "displayport_ports": 1,
+        "vga_ports": 1,
+        "audio_in_ports": 1,
+        "speakers_watts": 4,
+        "adaptive_sync": "FreeSync Premium and G-SYNC Compatible",
+        "ergonomics": "TILT / -5/23"
+    }
+}
+DELL 27" Monitor:
+{
+    "url": "https://www.neptun.mk/categories/monitori1/DELL-27--P2723DE-QHD-USB-C",
+    "title": "МОНИТОР DELL 27\" P2723DE QHD USB-C, 350CD/M2, 8MS",
+    "warranty_months": 36,
+    "regular_price_mkd": 25999,
+    "happy_price_mkd": 22499,
+    "category": "monitori1",
+    "device_type": "Monitor",
+    "description": "Монитор\nЕкран:27\"(68.5cm) QHD 60 Hz, IPS\nРезолуција:2560 x 1440\nContrast Ratio Static:1000:1\nОсветленост:350cd/m2\nВреме на реакција:8ms\nПодржани бои:16.7M\nАгол на видливост 178°/178°\nVGA, HDMI, DisplayPort, USB-C, USB(USB 3.2 Gen1), RJ45",
+    "features":{
+        "screen_size_inches": 27,
+        "screen_resolution": "2560 x 1440",
+        "screen_refresh_rate_hz": 60,
+        "screen_brightness_nits": 350,
+        "panel_type": "IPS",
+        "contrast_ratio_static": "1000:1",
+        "response_time_ms": 8,
+        "supported_colors_million": 16.7,
+        "viewing_angle_horiz_degrees": 178,
+        "viewing_angle_vert_degrees": 178,
+        "hdmi_ports": 1,
+        "displayport_ports": 1,
+        "vga_ports": 1,
+        "usb_c_ports": 1,
+        "usb_ports": 1,
+        "ethernet_ports": 1
+    }
+}
+Usage Instructions:
+
+Replace placeholder values with the extracted information from the product description.
+Ensure all numerical values are appropriate types (e.g., integers or floats).
+If a feature is not found, omit the corresponding key-value pair from the JSON.

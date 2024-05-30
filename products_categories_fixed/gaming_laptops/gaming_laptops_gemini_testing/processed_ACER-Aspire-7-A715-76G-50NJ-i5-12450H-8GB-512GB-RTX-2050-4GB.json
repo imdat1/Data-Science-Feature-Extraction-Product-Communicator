@@ -1,0 +1,28 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/ACER-Aspire-7-A715-76G-50NJ-i5-12450H-8GB-512GB-RTX-2050-4GB",
+    "title": null,
+    "warranty": "24",
+    "regular_price": "44.999",
+    "happy_price": "39.999",
+    "features": {
+        "Display": "15.6\" (39.6cm)",
+        "Resolution": "(1920 x 1080) FHD, IPS, 144 Hz",
+        "Processor": "Intel\u00ae Core\u2122 i5-12450H processor Octa-core 3.30GHz, 12MB cache",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 2050 4GB GDDR6",
+        "RAM": "8GB DDR4",
+        "Storage": "512GB PCIe NVMe SSD",
+        "LAN": "IEEE 802.11ax",
+        "Bluetooth": "5.1",
+        "Fingerprint Reader": true,
+        "Headset Port": null,
+        "RJ45 Ethernet Port": "1 x Network (RJ-45)",
+        "USB Ports": "3 x USB 3.2 Gen 1 Type-A\n1 x USB 3.2 Gen 2 Type-C",
+        "HDMI Port": "1 x HDMI",
+        "USB-C Port": "1 x USB 3.2 Gen 2 Type-C",
+        "Display Port": false,
+        "Battery": "5.5h, 3-cell , Lithium Ion (Li-Ion)",
+        "Power Adapter": "135W",
+        "Backlit Keyboard": true,
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c"
+    }
+}

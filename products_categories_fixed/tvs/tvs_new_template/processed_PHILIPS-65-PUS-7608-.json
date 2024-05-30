@@ -1,0 +1,30 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/PHILIPS-65-PUS-7608-",
+    "title": "4K UHD LED SMART TV PHILIPS 65 PUS 7608 , 65\"(165.1CM), DUAL CORE",
+    "warranty_months": 24,
+    "regular_price_mkd": 44999,
+    "happy_price_mkd": 32999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "65\"(165.1cm) 4k UHD LED SMART TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:3840 x 2160\nDual Core \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u0440\nDolby Vision and Dolby Atmos\n\u0417\u0432\u0443\u0447\u043d\u0438\u043a:20W\nHDR10+/HLG\nPixel Precise Ultra HD\nDolby Vision\nYouTube, Netflix TV, Amazon Prime Video\n\u041a\u043e\u043d\u0435\u043a\u0446\u0438\u0458\u0430:\n3 x HDMI, 2 x USB, CI+, LAN\nWi-Fi 802.11n, 2 x 2, Dual band\nBluetooth 5.0\nDVB-T/T2/T2-HD/C/S/S2",
+    "features": {
+        "screen_size_inches": 65,
+        "screen_resolution": "3840 x 2160",
+        "panel_type": "LED",
+        "processor": "Dual Core",
+        "hdr_technology": "HDR10+/HLG, Dolby Vision",
+        "audio_output_watts": 20,
+        "audio_features": "Dolby Atmos",
+        "hdmi_ports": 3,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth 5.0",
+        "wifi_spec": "Wi-Fi 802.11n, 2 x 2, Dual band",
+        "hdr10_plus": "Yes",
+        "hlg": "Yes",
+        "pixel_precise_ultra_hd": "Yes",
+        "youtube": "Yes",
+        "netflix": "Yes",
+        "amazon_prime_video": "Yes"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/LG-32-LQ-630B6-LA",
+    "title": "HD SMART LED TV LG 32 LQ630B6LA, 32\"(81CM), \u03915 GEN5, WIFI",
+    "warranty_months": 24,
+    "regular_price_mkd": 15999,
+    "happy_price_mkd": 12999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "32\"(81cm) HD SMART LED TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:1366 x 768p\n\u03b15 Gen5 AI \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u0440\nAI Brightness Control\nwebOS Smart TV\nActive HDR\nHGiG\nHDMI 1.4\nWiFi 5\n2.0 Ch. / 10W, 20W\nAI Sound\nBluetooth Surround Ready\nAI Acoustic Tuning\nClear Voice Pro\nSound Share*\nTV Sound Mode Share\ne-ARC (HDMI 2)\nLG ThinQ AI\nGoogle Assistant\nAmazon Alexa & Alexa lite\nAirplay2 & Homekit\nHome Dashboard\nSports Alert\nIntelligent Voice Recognition*\nAI Recommendatio\nGame Optimizer\nMagic Explorer\nNext Picks\nHDMI, USB, eARC (HDMI 2), CI Slot, Bluetooth\nDVB-C/T2/S2",
+    "features": {
+        "screen_size_inches": 32,
+        "screen_resolution": "1366 x 768",
+        "panel_type": "LED",
+        "smart_tv_os": "webOS",
+        "processor": "\u03b15 Gen5 AI processor",
+        "hdr_technology": "Active HDR, HGiG",
+        "audio_output_watts": 20,
+        "audio_features": "AI Sound, Bluetooth Surround Ready, AI Acoustic Tuning, Clear Voice Pro, Sound Share, TV Sound Mode Share",
+        "hdmi_ports": 1,
+        "usb_ports": 1,
+        "lan_ports": 1,
+        "bluetooth_version": "Bluetooth 5",
+        "wifi_spec": "WiFi 5",
+        "ai_upscale": "Yes",
+        "lg_thinq_ai": "Yes",
+        "google_assistant": "Yes",
+        "amazon_alexa": "Yes",
+        "airplay2": "Yes",
+        "homekit": "Yes",
+        "game_optimizer": "Yes",
+        "dvb_t2cs2": "Yes"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/ACER-Swift-Go-14-SFG14-42-R54G-14--R5-7640U-16GB-DDR5-512GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f ACER SWIFT GO 14 SFG14-42-R54G, R5-7640U/16GB/512GB",
+    "warranty_months": 24,
+    "regular_price_mkd": 56999,
+    "happy_price_mkd": 54999,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0458:14.0\" (35.5cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:2.8K OLED SlimBezel Adobe&DCI-P3 100%\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:AMD Ryzen\u2122 5 7640U\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430:AMD Radeon\u2122 Graphics\nRAM \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430: 16 GB LPDDR5\n\u0414\u0438\u0441\u043a (Storage): 512GB PCIe NVMe SSD\n\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c\nWIFI6E+BT\n\u041a\u0430\u043c\u0435\u0440\u0430:QHD Camera\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:65Wh Li-ion battery\n\u041f\u043e\u043b\u043d\u0430\u0447: 65W TypeC WM adapter",
+    "features": {
+        "screen_size_inches": 14.0,
+        "screen_resolution": "2.8K",
+        "screen_type": "OLED SlimBezel",
+        "processor_model": "AMD Ryzen\u2122 5 7640U",
+        "gpu_model": "AMD Radeon\u2122 Graphics",
+        "ram_size_gb": 16,
+        "ram_type": "LPDDR5",
+        "storage_size_gb": 512,
+        "storage_type": "PCIe NVMe SSD",
+        "wifi_standard": "WIFI6E",
+        "camera": "QHD",
+        "battery_capacity_wh": 65
+    }
+}

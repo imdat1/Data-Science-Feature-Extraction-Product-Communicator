@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/Apple-MacBook-Air-15-3-M3-10C-GPU-8GB-256GB-Midnight-mryu3ze-a",
+    "title": null,
+    "warranty_months": 12,
+    "regular_price_mkd": 97499,
+    "happy_price_mkd": null,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0458:15.3\"(38.8cm)\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Apple M3 chip with 8core (Apple M3 chip. 8-core CPU with 4 performance cores and 4 efficiency cores 10-core GPU Hardware-accelerated ray tracing 16-core Neural Engine 100GB/s memory bandwidth)\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430: 10core\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(2880x1864) Liquid Retina display, LED-backlit, IPS, 500 nits, 224ppi\n\u041c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:8GB\n\u0414\u0438\u0441\u043a (Storage):256GB SSD\n\u041a\u0430\u043c\u0435\u0440\u0430: 1080p FaceTime HD camera\n\u0422\u0440\u0438 \u043c\u0438\u043a\u0440\u043e\u0444\u043e\u043d\u0438\n\u0421\u0438\u0441\u0442\u0435\u043c \u043e\u0434 6 \u0437\u0432\u0443\u0447\u043d\u0438\u0446\u0438 \u0441\u043e force-cancelling woofers.\nMagic Keyboard \u0441\u043e Touch ID \u0438 Ambient light sensor\nBluetooth 5.3\nWi-Fi 6E (802.11ax)\n\u041a\u043e\u043d\u0435\u043a\u0446\u0438\u0458\u0430 \u0438 \u043f\u0440\u0438\u043a\u043b\u0443\u0447\u043e\u0446\u0438:\nMagSafe 3 port\n3.5 mm headphone jack\n\u0414\u0432\u0430 Thunderbolt / USB 4 ports \u0441\u043e \u043f\u043e\u0434\u0434\u0440\u0448\u043a\u0430 \u0437\u0430:\nCharging\nDisplayPort\nThunderbolt 3 (up to 40Gb/s)\nUSB 4 (up to 40Gb/s)\n35W Dual USB-C Port Compact Power Adapter\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:66.5-Wh lithium?polymer",
+    "features": {
+        "screen_size_inches": 15.3,
+        "screen_resolution": "2880 x 1864",
+        "screen_brightness_nits": 500,
+        "screen_type": "Liquid Retina",
+        "processor_model": "Apple M3 chip with 8core",
+        "processor_cores": 8,
+        "gpu_model": "10core",
+        "ram_size_gb": 8,
+        "storage_size_gb": 256,
+        "storage_type": "SSD",
+        "wifi_standard": "Wi-Fi 6E",
+        "bluetooth_version": 5.3,
+        "usb_type_c_ports": 2,
+        "audio_jack_ports": 1,
+        "keyboard_type": "Magic Keyboard",
+        "audio_feature_1": "\u0421\u0438\u0441\u0442\u0435\u043c \u043e\u0434 6 \u0437\u0432\u0443\u0447\u043d\u0438\u0446\u0438 \u0441\u043e force-cancelling woofers.",
+        "battery_capacity_wh": 66.5
+    }
+}

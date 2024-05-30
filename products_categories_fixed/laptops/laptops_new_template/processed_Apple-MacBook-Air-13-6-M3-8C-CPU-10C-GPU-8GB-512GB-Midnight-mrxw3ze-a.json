@@ -1,0 +1,29 @@
+{
+    "url": "https://www.neptun.mk/categories/prenosni_kompjuteri/Apple-MacBook-Air-13-6-M3-8C-CPU-10C-GPU-8GB-512GB-Midnight-mrxw3ze-a",
+    "title": "APPLE MACBOOK AIR 13.6 M3/8C CPU/10C GPU/8GB/512GB MIDNIGHT MRXW3ZE/A",
+    "warranty_months": 12,
+    "regular_price_mkd": 93399,
+    "happy_price_mkd": null,
+    "category": "prenosni_kompjuteri",
+    "device_type": "Laptop",
+    "description": "\u041b\u0430\u043f\u0442\u043e\u043f\n\u0414\u0438\u0441\u043f\u043b\u0435\u0458:13.6\"(34.5cm)\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Apple M3 chip with 8-core\nGPU 10?core\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(2560x1664) Liquid Retina display, 224ppi, 500nits\n\u041c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:8GB\n512GB SSD\nFaceTime HD \u043a\u0430\u043c\u0435\u0440\u0430 \u043e\u0434 1080p\n\u0422\u0440\u0438 \u043c\u0438\u043a\u0440\u043e\u0444\u043e\u043d\u0438\n\u0421\u0438\u0441\u0442\u0435\u043c \u043e\u0434 \u0447\u0435\u0442\u0438\u0440\u0438 \u0437\u0432\u0443\u0447\u043d\u0438\u0446\u0438 \u0441\u043e Spatial audio.\nBacklit Magic Keyboard \u0441\u043e Touch ID, Ambient light sensor\nForce Touch Trackpad\nBluetooth 5.3\nWi-Fi 6E (802.11ax)\n2 x Thunderbolt / USB 4\nMagSafe 3 charging port\n3.5 mm headphone jack\nCharging\nDisplayPort\nThunderbolt 3 (up to 40Gb/s)\nUSB 4 (up to 40Gb/s)\nUSB 3.1 Gen 2 (up to 10Gb/s)\n30W USB-C Power Adapter\n\u0411\u0430\u0442\u0435\u0440\u0438\u0458\u0430:52,6 Wh - 18 h",
+    "features": {
+        "screen_size_inches": 13.6,
+        "screen_resolution": "2560x1664",
+        "screen_brightness_nits": 500,
+        "screen_type": "Liquid Retina",
+        "processor_model": "Apple M3 chip",
+        "processor_cores": 8,
+        "gpu_model": "10?core",
+        "ram_size_gb": 8,
+        "storage_size_gb": 512,
+        "storage_type": "SSD",
+        "wifi_standard": "Wi-Fi 6E",
+        "bluetooth_version": 5.3,
+        "usb_type_c_ports": 2,
+        "audio_jack_ports": 1,
+        "keyboard_type": "Backlit Magic Keyboard",
+        "audio_feature_1": "Spatial audio",
+        "battery_capacity_wh": 52.6
+    }
+}

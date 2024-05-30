@@ -1,0 +1,33 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/LG-OLED-77-B33-LA",
+    "title": "4K UHD OLED SMART TV LG OLED 77 B33 LA, 77\"(195.6CM), \ud835\udf707 AI 4K GEN6",
+    "warranty_months": 24,
+    "regular_price_mkd": 179999,
+    "happy_price_mkd": 154999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "77\"(195.6cm) 4K UHD OLED SMART TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(3840 x 2160)\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440: \u03b17 AI 4K Gen6\nThinQ AI\nOLED motion\n\u0424\u0440\u0435\u043a\u0432\u0435\u043d\u0446\u0438\u0458\u0430 \u043d\u0430 \u043f\u0430\u043d\u0435\u043b\u043e\u0442: 100Hz\nDolby Vision\nDOLBY DIGITAL\nAI SOUND PRO\nHDR\nFILMMAKER MODE\nMiracast\n\u0417\u0432\u0443\u0447\u043d\u0438\u043a: 20W\nVRR\nAirplay2\n\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c: webOS 23\nNvidia G-Sync\nFreeSync\nWI-FI 5 (802.11AC)\n4 x HDMI,2xUSB,LAN,eARC, CI Slot\nDVB-T2/C/S2",
+    "features": {
+        "screen_size_inches": 77,
+        "screen_resolution": "3840 x 2160",
+        "screen_refresh_rate_hz": 100,
+        "panel_type": "OLED",
+        "smart_tv_os": "webOS 23",
+        "processor": "\u03b17 AI 4K Gen6",
+        "hdr_technology": "Dolby Vision, HDR",
+        "audio_output_watts": 20,
+        "audio_features": "DOLBY DIGITAL, AI SOUND PRO",
+        "hdmi_ports": 4,
+        "usb_ports": 2,
+        "lan_ports": 1,
+        "wifi_spec": "WI-FI 5 (802.11AC)",
+        "dolby_atmos": "No",
+        "filmmaker_mode": "Yes",
+        "freesync_premium_pro": "No",
+        "hdr10_plus": "No",
+        "hlg": "No",
+        "youtube": "No",
+        "netflix": "No",
+        "amazon_prime_video": "No"
+    }
+}

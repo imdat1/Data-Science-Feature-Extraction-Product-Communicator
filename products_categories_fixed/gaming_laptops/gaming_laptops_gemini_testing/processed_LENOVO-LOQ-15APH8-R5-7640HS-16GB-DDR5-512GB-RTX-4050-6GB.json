@@ -1,0 +1,32 @@
+{
+    "url": "https://www.neptun.mk/categories/gaming_laptopi/LENOVO-LOQ-15APH8-R5-7640HS-16GB-DDR5-512GB-RTX-4050-6GB",
+    "title": "\u041b\u0410\u041f\u0422\u041e\u041f LENOVO LOQ 15APH8 R5-7640HS/16GB DDR5/512GB/RTX 4050 6GB",
+    "regular_price": "62.999",
+    "happy_price": "56.999",
+    "warranty": "24",
+    "features": {
+        "Display": "15.6\" (39.5cm)",
+        "Resolution": "(1920 x 1080) FHD, IPS 350nits Anti-glare, 45% NTSC, 144Hz, G-SYNC\u00ae, FreeSync\u2122",
+        "Chipset": "AMD SoC Platform",
+        "Processor": "AMD Ryzen\u2122 5 7640HS (6C / 12T, 4.3 / 5.0GHz, 6MB L2 / 16MB L3)",
+        "Graphics": "NVIDIA\u00ae GeForce RTX\u2122 4050 6GB GDDR6, Boost Clock 2370MHz, TGP 95W",
+        "RAM": "16GB SO-DIMM DDR5-5600",
+        "Storage": "512GB SSD M.2 2242 PCIe\u00ae 4.0x4 NVMe\u00ae",
+        "Operating System": "\u0411\u0435\u0437 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u0441\u0438\u0441\u0442\u0435\u043c",
+        "Audio": "High Definition (HD) Audio, Realtek\u00ae ALC3287 codec",
+        "Speakers": "Stereo speakers, 2W x2, optimized with Nahimic Gaming Audio",
+        "Camera": "FHD 1080p with E-shutter",
+        "Microphone": "2x, Array",
+        "Keyboard": "White Backlit, English",
+        "Wireless": "Wi-Fi\u00ae 6E, 11ax 2x2 + BT5.1",
+        "Headset Port": "1 x Headphone / microphone combo jack (3.5mm)",
+        "RJ45 Ethernet Port": "1x Ethernet (RJ-45)",
+        "HDMI Port": "1x HDMI\u00ae 2.1, up to 8K/60Hz",
+        "USB 2.0 Port": "1x USB 2.0",
+        "USB-C Port": "1x USB-C\u00ae 3.2 Gen 2 (support data transfer, Power Delivery 140W and DisplayPort\u2122 1.4)",
+        "USB 3.2 Gen 2 Port": "2x USB 3.2 Gen 2",
+        "Battery": "Integrated 60Wh",
+        "Power Adapter": "170W Slim Tip (3-pin)",
+        "Display Port": "Yes"
+    }
+}

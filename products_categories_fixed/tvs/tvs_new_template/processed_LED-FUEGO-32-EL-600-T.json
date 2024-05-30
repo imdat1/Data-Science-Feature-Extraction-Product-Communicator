@@ -1,0 +1,19 @@
+{
+    "url": "https://www.neptun.mk/categories/televizori/LED-FUEGO-32-EL-600-T",
+    "title": "HD LED TV FUEGO 32EL600T, 32\"(82CM), 100HZ, HDMI, USB",
+    "warranty_months": 24,
+    "regular_price_mkd": 5999,
+    "happy_price_mkd": 4999,
+    "category": "televizori",
+    "device_type": "TV",
+    "description": "32\"(82cm)HD Ready LED TV\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:1366x768\n100Hz CMP\n2xHDMI,USB\nDVB-T2/C",
+    "features": {
+        "screen_size_inches": 32,
+        "screen_resolution": "1366x768",
+        "screen_refresh_rate_hz": 100,
+        "panel_type": "LED",
+        "hdmi_ports": 2,
+        "usb_ports": 1,
+        "dvb_t2cs2": "Yes"
+    }
+}

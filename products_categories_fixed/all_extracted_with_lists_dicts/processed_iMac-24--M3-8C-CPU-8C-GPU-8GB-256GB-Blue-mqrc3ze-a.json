@@ -1,0 +1,38 @@
+{
+    "url": "https://www.neptun.mk/categories/PERSONALNI_KOMPJUTERI/iMac-24--M3-8C-CPU-8C-GPU-8GB-256GB-Blue-mqrc3ze-a",
+    "title": "APPLE IMAC 24\" M3/8C CPU/8C GPU/8GB/256GB BLUE",
+    "warranty_months": "12",
+    "regular_price_mkd": "95.999",
+    "happy_price_mkd": null,
+    "category": "PERSONALNI_KOMPJUTERI",
+    "device_type": "KOMPJUTER",
+    "description": [
+        "iMac\n\u0415\u043a\u0440\u0430\u043d:24.0\" (60.9cm)\n\u0420\u0435\u0437\u043e\u043b\u0443\u0446\u0438\u0458\u0430:(4480 x 2520) 4.5K Retina, 500 nit (cd/m\u00b2)\n\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:Apple M3 Octa core (8-core)\n\u0413\u0440\u0430\u0444\u0438\u0447\u043a\u0430:Apple M3 8 core\nRAM \u043c\u0435\u043c\u043e\u0440\u0438\u0458\u0430:8GB RAM\n\u0414\u0438\u0441\u043a (Storage):M.2 NVMe PCIe\n\u0412\u0435\u0431-\u043a\u0430\u043c\u0435\u0440\u0430:1080p FHD\nHeadset connector\nUSB-C 4.0x2\nUSB-C features: data transfer, DisplayPort, power delivery\nBluetooth 5.3\nWi-Fi 6E (ax)\n\u0412\u043a\u043b\u0443\u0447\u0435\u043d\u043e \u0432\u043e \u043f\u0430\u043a\u0443\u0432\u0430\u045a\u0435\u0442\u043e:\niMac\nMagic Keyboard\nMagic Mouse\n143W power adapter\nPower cord (2 m)\nUSB-C to Lightning Cable"
+    ],
+    "features": {
+        "screen_size_inches": "24.0",
+        "resolution": "4480 x 2520",
+        "processor": "Apple M3 Octa core (8-core)",
+        "graphics": "Apple M3 8 core",
+        "ram_gb": "8",
+        "storage_type": "M.2 NVMe PCIe",
+        "storage_gb": "256",
+        "webcam": "1080p FHD",
+        "ports": [
+            "Headset connector",
+            "USB-C 4.0x2",
+            "USB-C features: data transfer, DisplayPort, power delivery"
+        ],
+        "wireless_connectivity": [
+            "Bluetooth 5.3",
+            "Wi-Fi 6E (ax)"
+        ],
+        "included_accessories": [
+            "Magic Keyboard",
+            "Magic Mouse",
+            "143W power adapter",
+            "Power cord (2 m)",
+            "USB-C to Lightning Cable"
+        ]
+    }
+}
