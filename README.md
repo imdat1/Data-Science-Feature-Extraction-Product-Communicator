@@ -19,4 +19,4 @@ The original notebook app also uses a translator to translate the question from 
 Models used with APIs:
 - Model: "gemini-pro" at "temperature=0.1" through Google's API for feature extraction and SQL query generation
 - Model: "mistralai/Mistral-7B-Instruct-v0.3" through HuggingFace's Inference Endpoints API at "temperature=0.1" for SQL query generation
-- Model: "claude-3-sonnet-20240229" through Antropic's API at "temperature=0" for SQL query generation. Also tested out feature extraction which didn't entirely go bad
+- Model: "claude-3-sonnet-20240229" through Antropic's API at "temperature=0" for SQL query generation. Also tested out feature extraction with the notebook "trying_with_claude.ipynb" in the folder "products_opus_testing" which didn't entirely go bad
