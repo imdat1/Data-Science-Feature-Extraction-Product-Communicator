@@ -6,9 +6,9 @@ I did it only for those categories because my project was to be able to find pro
 
 - **The complete notebook of the app can be found in "products_categories_fixed/0_complete/all_included"**
 
-- **The extraction of features can be foind in "products_categories_fixed/<category_name>/<category_name>_new_template", like "products_categories_fixed/cables_and_dividers_new_template"**
+- **The extraction of features can be found in "products_categories_fixed/<category_name>/<category_name>_new_template", like "products_categories_fixed/cables_and_dividers_new_template"**
 
-- **Some original products for prefrence to compare to a featured output can be found in "products_categories_fixed/products_categories_for_extraction"**
+- **Some original products for preference to compare to a featured output can be found in "products_categories_fixed/products_categories_for_extraction"**
 
 ## Some models used Explained
 
