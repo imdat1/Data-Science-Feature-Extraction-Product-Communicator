@@ -1,0 +1,8 @@
+products_latest/
+products_with_categories/
+all_extracted_dict_flattened/
+all_extracted_universal_template/
+all_extracted_with_lists_dict/
+all_extracted_without_lists_dict/
+products_with_categories_all/
+.env
